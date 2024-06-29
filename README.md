@@ -1,6 +1,6 @@
 ### **Papers, Please** - Localization Tool
 
-https://paperspleaseloc.github.io
+https://trk305.github.io
 
 ### Language pack generator
 
