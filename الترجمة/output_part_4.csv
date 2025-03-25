@@ -1,19 +1,19 @@
 CONTEXT (DO NOT MODIFY),ENGLISH (DO NOT MODIFY),LOCALIZED (EDIT THIS COLUMN)
-traveler:RED_STAMP,@What?,@What?
-traveler:RED_STAMP,Give me red stamp.,.أعطني الختم الأحمر
-traveler:RED_STAMP,I am serious.,.أنا جاد
-traveler:RED_STAMP,I have better job offer in Impor.,لدي عرض لوظيفة أفضل في إمبور.
-traveler:RED_STAMP,Red stamp and I can break contract in Arstotzka.,Red stamp and I can break contract in Arstotzka.
+traveler:RED_STAMP,@What?,@ماذا؟
+traveler:RED_STAMP,Give me red stamp.,اعطني الختم الأحمر.
+traveler:RED_STAMP,I am serious.,أنا جاد.
+traveler:RED_STAMP,I have better job offer in Impor.,لدي عرض وظيفي أفضل في إمبور.
+traveler:RED_STAMP,Red stamp and I can break contract in Arstotzka.,ختم احمر وسأتمكن من فسخ العقد في أرستوتزكا.
 traveler:RED_STAMP,10 credits for you.,10 credits for you.
-traveler:RED_STAMP,Damn it.,Damn it.
-traveler:RED_STAMP,I am sure you deny people all day.,I am sure you deny people all day.
-traveler:RED_STAMP,Why not now?,Why not now?
-traveler:RED_STAMP,I figure something else out.,I figure something else out.
-traveler:RED_STAMP,"Ok, now I get free from this bad job.","Ok, now I get free from this bad job."
+traveler:RED_STAMP,Damn it.,تبًا لهذا.
+traveler:RED_STAMP,I am sure you deny people all day.,أنا متأكد أنك ترفض الناس طوال اليوم.
+traveler:RED_STAMP,Why not now?,لماذا ليس الآن؟
+traveler:RED_STAMP,I figure something else out.,سأجد حلاً آخر.
+traveler:RED_STAMP,"Ok, now I get free from this bad job.","حسنًا، الآن أصبحت حرًا من هذه الوظيفة السيئة."
 traveler:RED_STAMP,Thanks.,Thanks.
-traveler:NEED_SURGERY,I come for medical reasons.,I come for medical reasons.
-traveler:NEED_SURGERY,@Your papers are missing.,@Your papers are missing.
-traveler:NEED_SURGERY,Please.,Please.
+traveler:NEED_SURGERY,I come for medical reasons.,لقد أتيت لأسباب صحية.
+traveler:NEED_SURGERY,@Your papers are missing.,@أوراقك مفقودة.
+traveler:NEED_SURGERY,Please.,لو سمحت.
 traveler:NEED_SURGERY,Surgery I need is outlawed in Kolechia.,Surgery I need is outlawed in Kolechia.
 traveler:NEED_SURGERY,"Even so, I do not trust doctors there.","Even so, I do not trust doctors there."
 traveler:NEED_SURGERY,Only Arstotzka have skilled surgeons.,Only Arstotzka have skilled surgeons.
