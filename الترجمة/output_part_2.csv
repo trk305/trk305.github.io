@@ -1,0 +1,1220 @@
+CONTEXT (DO NOT MODIFY),ENGLISH (DO NOT MODIFY),LOCALIZED (EDIT THIS COLUMN)
+text:month_3,March,March
+text:month_4,April,April
+text:month_5,May,May
+text:month_6,June,June
+text:month_7,July,July
+text:month_8,August,August
+text:month_9,September,September
+text:month_10,October,October
+text:month_11,November,November
+text:month_12,December,December
+text:day_1,1st,1st
+text:day_2,2nd,2nd
+text:day_3,3rd,3rd
+text:day_4,4th,4th
+text:day_5,5th,5th
+text:day_6,6th,6th
+text:day_7,7th,7th
+text:day_8,8th,8th
+text:day_9,9th,9th
+text:day_10,10th,10th
+text:day_11,11th,11th
+text:day_12,12th,12th
+text:day_13,13th,13th
+text:day_14,14th,14th
+text:day_15,15th,15th
+text:day_16,16th,16th
+text:day_17,17th,17th
+text:day_18,18th,18th
+text:day_19,19th,19th
+text:day_20,20th,20th
+text:day_21,21st,21st
+text:day_22,22nd,22nd
+text:day_23,23rd,23rd
+text:day_24,24th,24th
+text:day_25,25th,25th
+text:day_26,26th,26th
+text:day_27,27th,27th
+text:day_28,28th,28th
+text:day_29,29th,29th
+text:day_30,30th,30th
+text:day_31,31st,31st
+text:bulletin_default,"Arstotzka
+Ministry of Admission
+Official Bulletin
+
+Inspector,
+
+$content
+
+Glory to Arstotzka.","Arstotzka
+Ministry of Admission
+Official Bulletin
+
+Inspector,
+
+$content
+
+Glory to Arstotzka."
+text:bulletin_notice,"Arstotzka
+Ministry of Admission
+Official Bulletin
+
+NOTICE:
+
+$content
+
+Glory to Arstotzka.","Arstotzka
+Ministry of Admission
+Official Bulletin
+
+NOTICE:
+
+$content
+
+Glory to Arstotzka."
+text:bulletin_endless,"Arstotzka
+Ministry of Admission
+Official Bulletin
+
+$style
+
+$course
+
+Glory to Arstotzka.","Arstotzka
+Ministry of Admission
+Official Bulletin
+
+$style
+
+$course
+
+Glory to Arstotzka."
+bulletin:1A,"Welcome to your new position at Grestin Border Checkpoint.
+
+Stamp passport ENTRY VISA and return documents to entrant.
+
+Entry is restricted to Arstotzkan citizens only.
+
+Deny all foreigners.","Welcome to your new position at Grestin Border Checkpoint.
+
+Stamp passport ENTRY VISA and return documents to entrant.
+
+Entry is restricted to Arstotzkan citizens only.
+
+Deny all foreigners."
+bulletin:2A,"From today, foreigners with a valid passport are permitted to enter.
+
+Your booth's INSPECTION hardware is now installed.
+
+Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+
+Continued...[PAGESNOTE]","From today, foreigners with a valid passport are permitted to enter.
+
+Your booth's INSPECTION hardware is now installed.
+
+Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+
+Continued...[PAGESNOTE]"
+bulletin:2B,"__________________________
+INSPECT MODE
+
+Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+
+__________________________
+RULES &amp; REGULATIONS
+
+This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
+INSPECT MODE
+
+Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+
+__________________________
+RULES &amp; REGULATIONS
+
+This post is bound by Ministry of Admission rules and regulations. Study the rule book closely."
+bulletin:3A,"Entry for non-citizens is now regulated. 
+
+All foreigners require a valid ENTRY TICKET.
+
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Entry for non-citizens is now regulated. 
+
+All foreigners require a valid ENTRY TICKET.
+
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]"
+bulletin:4A,"Stricter credential requirements have been instituted.
+
+Arstotzkan citizens must show their ID CARD.
+
+Foreigners must secure and present a valid ENTRY PERMIT.
+
+Entry tickets are no longer sufficient.
+
+Continued...","Stricter credential requirements have been instituted.
+
+Arstotzkan citizens must show their ID CARD.
+
+Foreigners must secure and present a valid ENTRY PERMIT.
+
+Entry tickets are no longer sufficient.
+
+Continued..."
+bulletin:4B,"A new chapter detailing document features has been added to your rulebook.
+
+Check all information thoroughly.
+
+Deny any applicant with discrepant documents.
+
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","A new chapter detailing document features has been added to your rulebook.
+
+Check all information thoroughly.
+
+Deny any applicant with discrepant documents.
+
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements."
+bulletin:5A,"You are now authorized to detain suspicious individuals.
+
+Interrogate discrepancies to enable detention option.","You are now authorized to detain suspicious individuals.
+
+Interrogate discrepancies to enable detention option."
+bulletin:6A,"The Ministry of Labor has instituted a special program to control immigrant labor.
+
+Travelers entering for work require a valid WORK PASS.","The Ministry of Labor has instituted a special program to control immigrant labor.
+
+Travelers entering for work require a valid WORK PASS."
+bulletin:7A,"To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
+
+Kolechian extremists are suspected in yesterday's bombing. 
+
+Search all Kolechians before approving their entry.","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
+
+Kolechian extremists are suspected in yesterday's bombing. 
+
+Search all Kolechians before approving their entry."
+bulletin:8A,"The Kolechians have filed a formal complaint. 
+
+A diplomat will arrive today for high-level discussions.
+
+Automatic searches of Kolechian citizens are no longer authorized.
+
+Continued...[PAGESNOTE]","The Kolechians have filed a formal complaint. 
+
+A diplomat will arrive today for high-level discussions.
+
+Automatic searches of Kolechian citizens are no longer authorized.
+
+Continued...[PAGESNOTE]"
+bulletin:8B,"__________________________
+DIPLOMATS
+
+Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
+
+Refer to the rulebook for updated document information.","__________________________
+DIPLOMATS
+
+Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
+
+Refer to the rulebook for updated document information."
+bulletin:9A,"An undercover agent of the Ministry of Information has been compromised.
+
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","An undercover agent of the Ministry of Information has been compromised.
+
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today."
+bulletin:10A,"The divisional authority of East Grestin operations will visit today.
+
+Maintain your best behavior.","The divisional authority of East Grestin operations will visit today.
+
+Maintain your best behavior."
+bulletin:11A,"A break-in at M.O.A. offices may have compromised our document sealing plates.
+
+Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
+
+Continued...","A break-in at M.O.A. offices may have compromised our document sealing plates.
+
+Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
+
+Continued..."
+bulletin:11B,"__________________________
+FORGERIES
+
+Double-check that required documents contain valid seals. 
+
+Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook.","__________________________
+FORGERIES
+
+Double-check that required documents contain valid seals. 
+
+Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook."
+bulletin:13A,"The new director is unsatisfied with the level of scrutiny afforded to foreigners.
+
+From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
+
+The rulebook DOCUMENTS chapter has been updated.","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
+
+From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
+
+The rulebook DOCUMENTS chapter has been updated."
+bulletin:14A,"The Ministry of Justice has requested our support.
+
+Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
+
+Check faces against entrants and detain suspects immediately.[PAGESNOTE]","The Ministry of Justice has requested our support.
+
+Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
+
+Check faces against entrants and detain suspects immediately.[PAGESNOTE]"
+bulletin:16A,"The Ministry of Justice has appropriated the outer guard detail. 
+
+You are now responsible for controlling trespasser activity.
+
+The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
+
+Continued...[PAGESNOTE]","The Ministry of Justice has appropriated the outer guard detail. 
+
+You are now responsible for controlling trespasser activity.
+
+The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
+
+Continued...[PAGESNOTE]"
+bulletin:16B,"__________________________
+COMPENSATION
+
+You will receive a bonus for stopping any trespasser. A smaller bonus is provided for firing on, but missing, your target.
+
+__________________________
+WEAPONS PROTOCOL
+
+Review instructional diagram on following page.","__________________________
+COMPENSATION
+
+You will receive a bonus for stopping any trespasser. A smaller bonus is provided for firing on, but missing, your target.
+
+__________________________
+WEAPONS PROTOCOL
+
+Review instructional diagram on following page."
+bulletin:18A,"Unfavorable international press has affected immigration protocol.
+
+All denials must be accompanied by a REASON FOR DENIAL stamp.
+
+A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
+
+Continued...","Unfavorable international press has affected immigration protocol.
+
+All denials must be accompanied by a REASON FOR DENIAL stamp.
+
+A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
+
+Continued..."
+bulletin:18B,"__________________________
+DENIAL PROTOCOL
+
+REASON FOR DENIAL stamp is activated on first interrogation.
+
+When denying entry, stamp both DENIED and REASON FOR DENIAL on passport.
+
+If applicant clarifies discrepancies sufficiently, approval is authorized even while REASON FOR DENIAL stamp remains available.","__________________________
+DENIAL PROTOCOL
+
+REASON FOR DENIAL stamp is activated on first interrogation.
+
+When denying entry, stamp both DENIED and REASON FOR DENIAL on passport.
+
+If applicant clarifies discrepancies sufficiently, approval is authorized even while REASON FOR DENIAL stamp remains available."
+bulletin:19A,"Impor rejects all imported goods from Arstotzka.
+
+Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
+
+Deny all travelers from Impor.","Impor rejects all imported goods from Arstotzka.
+
+Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
+
+Deny all travelers from Impor."
+bulletin:20A,"Impor has relented on their faulty policy.
+
+Imporians are now permitted entry.
+
+The divisional authority of East Grestin operations will visit again today.","Impor has relented on their faulty policy.
+
+Imporians are now permitted entry.
+
+The divisional authority of East Grestin operations will visit again today."
+bulletin:21A,"A special program for political asylum has been established.
+
+Those seeking asylum must carry a valid GRANT OF ASYLUM.
+
+Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","A special program for political asylum has been established.
+
+Those seeking asylum must carry a valid GRANT OF ASYLUM.
+
+Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT."
+bulletin:23A,"Your position is important and your responsibilities are broad.
+
+Follow all protocols strictly.","Your position is important and your responsibilities are broad.
+
+Follow all protocols strictly."
+bulletin:24A,"Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
+
+The Ministry of Information has requested our cooperation.
+
+A special drawer for confiscating documents has been installed in your booth.
+
+Continued...","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
+
+The Ministry of Information has requested our cooperation.
+
+A special drawer for confiscating documents has been installed in your booth.
+
+Continued..."
+bulletin:24B,"The rulebook has been updated with information regarding confiscation policy.
+
+Confiscate all Arstotzkan passports from residents living in ALTAN district.
+
+Travelers may still be granted entry if passport is confiscated and no other rules are violated.
+
+PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","The rulebook has been updated with information regarding confiscation policy.
+
+Confiscate all Arstotzkan passports from residents living in ALTAN district.
+
+Travelers may still be granted entry if passport is confiscated and no other rules are violated.
+
+PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport."
+bulletin:25A,"United Federation citizens present a risk of spreading infectious disease.
+
+Deny all entrants from United Federation.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","United Federation citizens present a risk of spreading infectious disease.
+
+Deny all entrants from United Federation.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district."
+bulletin:26A,"The risk of disease is too great. A new protocol has been instituted.
+
+All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date POLIO vaccine.
+
+This requirement extends to natives, foreigners, diplomats, and asylum seekers.
+
+Continued...","The risk of disease is too great. A new protocol has been instituted.
+
+All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date POLIO vaccine.
+
+This requirement extends to natives, foreigners, diplomats, and asylum seekers.
+
+Continued..."
+bulletin:26B,"United Federation citizens are permitted entry with such certification.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","United Federation citizens are permitted entry with such certification.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district."
+bulletin:27A,"In order to improve efficiency, the ENTRY PERMIT and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
+
+Foreigners are now required to present a valid ACCESS PERMIT.
+
+Continued...","In order to improve efficiency, the ENTRY PERMIT and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
+
+Foreigners are now required to present a valid ACCESS PERMIT.
+
+Continued..."
+bulletin:27B,"Yesterday's coordinated attack has prompted an emergency meeting. 
+
+An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","Yesterday's coordinated attack has prompted an emergency meeting. 
+
+An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district."
+bulletin:28A,"In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
+
+Confiscate all Arstotzkan passports from native entrants.
+
+There are no exceptions.
+
+Do not confiscate foreign passports.","In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
+
+Confiscate all Arstotzkan passports from native entrants.
+
+There are no exceptions.
+
+Do not confiscate foreign passports."
+bulletin:29A,"[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+
+Your audit is scheduled for: DECEMBER 24
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continued...","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+
+Your audit is scheduled for: DECEMBER 24
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continued..."
+bulletin:29B,Continue to confiscate all Arstotzkan passports from native entrants.,Continue to confiscate all Arstotzkan passports from native entrants.
+bulletin:30A,"[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+
+Your audit is scheduled for: DECEMBER 24
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continued...","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+
+Your audit is scheduled for: DECEMBER 24
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continued..."
+bulletin:30B,Continue to confiscate all Arstotzkan passports from native entrants.,Continue to confiscate all Arstotzkan passports from native entrants.
+bulletin:31A,"The Ministry of Admission is involved in discussions regarding the closure of this checkpoint.
+
+Until a decision is made, maintain your duties as ordered.
+
+Continued...","The Ministry of Admission is involved in discussions regarding the closure of this checkpoint.
+
+Until a decision is made, maintain your duties as ordered.
+
+Continued..."
+bulletin:31B,"You are scheduled for an information audit tomorrow morning.
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continue to confiscate all Arstotzkan passports from native entrants.","You are scheduled for an information audit tomorrow morning.
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continue to confiscate all Arstotzkan passports from native entrants."
+facts,$paper: Invalid $fact,$paper: Invalid $fact
+facts,Missing $paper,Missing $paper
+facts,$0 DISTRICT,$0 DISTRICT
+facts,Presence,Presence
+facts,Sufficience,Sufficience
+facts,Excellence,Excellence
+facts,Obristan,Obristan
+facts,Antegria,Antegria
+facts,Republia,Republia
+facts,UnitedFed,UnitedFed
+facts,Impor,Impor
+facts,Kolechia,Kolechia
+facts,Arstotzka,Arstotzka
+facts,Skal,Skal
+facts,Lorndaz,Lorndaz
+facts,Mergerous,Mergerous
+facts,St. Marmero,St. Marmero
+facts,Glorian,Glorian
+facts,Outer Grouse,Outer Grouse
+facts,True Glorian,True Glorian
+facts,Lesrenadi,Lesrenadi
+facts,Bostan,Bostan
+facts,Great Rapid,Great Rapid
+facts,Shingleton,Shingleton
+facts,Korista City,Korista City
+facts,Enkyo,Enkyo
+facts,Haihan,Haihan
+facts,Tsunkeido,Tsunkeido
+facts,Yurko City,Yurko City
+facts,Vedor,Vedor
+facts,West Grestin,West Grestin
+facts,Orvech Vonor,Orvech Vonor
+facts,East Grestin,East Grestin
+facts,Paradizna,Paradizna
+facts,Passport,Passport
+facts,Entry Ticket,Entry Ticket
+facts,Entry Permit,Entry Permit
+facts,Work Pass,Work Pass
+facts,Id Card,Id Card
+facts,Id Supplement,Id Supplement
+facts,Access Permit,Access Permit
+facts,Diplomatic Auth,Diplomatic Auth
+facts,Asylum Grant,Asylum Grant
+facts,Vaccine Cert,Vaccine Cert
+facts,Identity Record,Identity Record
+facts,Fingerprints,Fingerprints
+facts,Name,Name
+facts,Id Number,Id Number
+facts,Expiration Date,Expiration Date
+facts,Issuing City,Issuing City
+facts,Birth Date,Birth Date
+facts,Alias,Alias
+facts,Height,Height
+facts,Weight,Weight
+facts,Description,Description
+facts,Thumbprint,Thumbprint
+facts,Date,Date
+facts,Purpose,Purpose
+facts,Duration,Duration
+facts,Face,Face
+facts,District,District
+facts,Gender,Gender
+facts,Work End Date,Work End Date
+facts,Altan,Altan
+facts,Vescillo,Vescillo
+facts,Burnton,Burnton
+facts,Octovalis,Octovalis
+facts,Gennistora,Gennistora
+facts,Lendiforma,Lendiforma
+facts,Wozenfield,Wozenfield
+facts,Fardesto,Fardesto
+facts,DENTISTRY,DENTISTRY
+facts,HEALTH-CARE,HEALTH-CARE
+facts,GENERAL-LABOR,GENERAL-LABOR
+facts,ENGINEERING,ENGINEERING
+facts,SPORTS,SPORTS
+facts,ARCHITECTURE,ARCHITECTURE
+facts,FOOD-SERVICE,FOOD-SERVICE
+facts,AVIATION,AVIATION
+facts,ACCOUNTING,ACCOUNTING
+facts,FISHING,FISHING
+facts,DRAFTING,DRAFTING
+facts,RESEARCH,RESEARCH
+facts,FINE-ARTS,FINE-ARTS
+facts,AGRICULTURE,AGRICULTURE
+facts,MANUFACTURING,MANUFACTURING
+facts,CONSTRUCTION,CONSTRUCTION
+facts,SURVEYING,SURVEYING
+facts,STATISTICS,STATISTICS
+facts,POLIO,POLIO
+facts,HPV,HPV
+facts,COWPOX,COWPOX
+facts,TETANUS,TETANUS
+facts,YEL.FEV.,YEL.FEV.
+facts,CHOLERA,CHOLERA
+facts,RUBELLA,RUBELLA
+facts,HEP-B,HEP-B
+facts,MEASLES,MEASLES
+facts,TUBERC.,TUBERC.
+facts,2 DAYS,2 DAYS
+facts,14 DAYS,14 DAYS
+facts,1 MONTH,1 MONTH
+facts,2 MONTHS,2 MONTHS
+facts,3 MONTHS,3 MONTHS
+facts,6 MONTHS,6 MONTHS
+facts,1 YEAR,1 YEAR
+facts,FOREVER,FOREVER
+facts,visit,visit
+facts,transit,transit
+facts,work,work
+facts,immigrate,immigrate
+facts,Possible Smuggler Admitted,Possible Smuggler Admitted
+facts,Missing documents,Missing documents
+facts,Wanted criminal admitted,Wanted criminal admitted
+facts,Incorrect purpose response,Incorrect purpose response
+facts,Incorrect visit duration response,Incorrect visit duration response
+facts,Passport: Non-matching photo,Passport: Non-matching photo
+facts,Forged Entry Permit,Forged Entry Permit
+facts,Forged Work Pass,Forged Work Pass
+facts,Id Card: Non-matching photo,Id Card: Non-matching photo
+facts,Forged Access Permit,Forged Access Permit
+facts,No Diplomatic Access to Arstotzka,No Diplomatic Access to Arstotzka
+facts,Forged Diplomatic Auth,Forged Diplomatic Auth
+facts,Forged Asylum Grant Seal,Forged Asylum Grant Seal
+facts,Necessary vaccine expired,Necessary vaccine expired
+facts,Missing necessary vaccine,Missing necessary vaccine
+facts,Name does not match record,Name does not match record
+facts,Alias does not match record,Alias does not match record
+facts,Fingerprints do not match record,Fingerprints do not match record
+facts,Cobrastan is not a real country,Cobrastan is not a real country
+facts,No entry from Antegria,No entry from Antegria
+facts,No entry from Arstotzka,No entry from Arstotzka
+facts,No entry from Republia,No entry from Republia
+facts,No entry from United Fed,No entry from United Fed
+facts,No entry from Obristan,No entry from Obristan
+facts,No entry from Impor,No entry from Impor
+facts,No entry from Kolechia,No entry from Kolechia
+facts,Possible Terrorist Admitted,Possible Terrorist Admitted
+facts,Entrant Holds Conflicting Passports,Entrant Holds Conflicting Passports
+facts,Entrant must have a passport,Entrant must have a passport
+facts,Foreigners require an entry permit,Foreigners require an entry permit
+facts,Foreigners require an entry ticket,Foreigners require an entry ticket
+facts,All documents must be current,All documents must be current
+facts,Workers must have a work pass,Workers must have a work pass
+facts,Citizens must have an id card,Citizens must have an id card
+facts,Foreigners require an id supplement,Foreigners require an id supplement
+facts,Arstotzkan citizens only,Arstotzkan citizens only
+facts,No entry from United Federation,No entry from United Federation
+facts,No weapons or contraband,No weapons or contraband
+facts,All Kolechians must be searched,All Kolechians must be searched
+facts,Diplomats require authorization,Diplomats require authorization
+facts,Entrant must have polio vaccine cert,Entrant must have polio vaccine cert
+facts,Asylum seekers must have a grant,Asylum seekers must have a grant
+facts,Foreigners require an access permit,Foreigners require an access permit
+facts,CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.,CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.
+facts,CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.,CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.
+facts,Passport not confiscated,Passport not confiscated
+paper:SecondPassport,West Grestin,West Grestin
+paper:Rules,Basic Rules,Basic Rules
+paper:Rules,Regional Map,Regional Map
+paper:Rules,Booth Info,Booth Info
+paper:Rules,Documents,Documents
+paper:Rules,Confiscation,Confiscation
+paper:Rules,Obristan,Obristan
+paper:Rules,Antegria,Antegria
+paper:Rules,Republia,Republia
+paper:Rules,United,United
+paper:Rules,Federation,Federation
+paper:Rules,Impor,Impor
+paper:Rules,Kolechia,Kolechia
+paper:Rules,Arstotzka,Arstotzka
+paper:Rules,ANTEGRIA,ANTEGRIA
+paper:Rules,ARSTOTZKA,ARSTOTZKA
+paper:Rules,IMPOR,IMPOR
+paper:Rules,KOLECHIA,KOLECHIA
+paper:Rules,OBRISTAN,OBRISTAN
+paper:Rules,REPUBLIA,REPUBLIA
+paper:Rules,UNITED FED.,UNITED FED.
+paper:Rules,Id Card (Native),Id Card (Native)
+paper:Rules,Entry Permit,Entry Permit
+paper:Rules,Id Supplement,Id Supplement
+paper:Rules,Access Permit,Access Permit
+paper:Rules,Work Pass,Work Pass
+paper:Rules,Diplomatic Auth.,Diplomatic Auth.
+paper:Rules,Grant of Asylum,Grant of Asylum
+paper:Rules,Vaccine Cert.,Vaccine Cert.
+intro,Congratulations.,Congratulations.
+intro,The October labor lottery is complete. Your name was pulled.,The October labor lottery is complete. Your name was pulled.
+intro,"For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint."
+intro,An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.,An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.
+intro,Glory to Arstotzka.,Glory to Arstotzka.
+end:in-debt,Arstotzka has zero tolerance for delinquency.,Arstotzka has zero tolerance for delinquency.
+end:in-debt,Your family will be sent back to their village.,Your family will be sent back to their village.
+end:in-debt,You are under arrest until your debts are repaid.,You are under arrest until your debts are repaid.
+end:in-debt,A replacement inspector will be found easily.,A replacement inspector will be found easily.
+end:in-debt,Glory to Arstotzka.,Glory to Arstotzka.
+end:family-dead,Your entire family is gone.,Your entire family is gone.
+end:family-dead,The Ministry Of Labor focuses on Arstotzka's future growth.,The Ministry Of Labor focuses on Arstotzka's future growth.
+end:family-dead,Workers are expected to support large healthy families.,Workers are expected to support large healthy families.
+end:family-dead,Your position will be filled by someone more appropriate.,Your position will be filled by someone more appropriate.
+end:family-dead,Glory to Arstotzka.,Glory to Arstotzka.
+end:turned-over-ezic-docs,You are under arrest for associating with suspicious groups.,You are under arrest for associating with suspicious groups.
+end:turned-over-ezic-docs,The Ministry of Information will perform a full audit of your recent activities.,The Ministry of Information will perform a full audit of your recent activities.
+end:turned-over-ezic-docs,Glory to Arstotzka.,Glory to Arstotzka.
+end:caught-with-ezic-money,The Ministry of Income has discovered an anomaly in your earnings.,The Ministry of Income has discovered an anomaly in your earnings.
+end:caught-with-ezic-money,You are under arrest pending a full audit of your recent activities.,You are under arrest pending a full audit of your recent activities.
+end:caught-with-ezic-money,Your family will likewise be held for questioning.,Your family will likewise be held for questioning.
+end:caught-with-ezic-money,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:caught-with-ezic-money,Glory to Arstotzka.,Glory to Arstotzka.
+end:killed-innocent,You are under arrest for the murder of an innocent.,You are under arrest for the murder of an innocent.
+end:killed-innocent,The penalty is death.,The penalty is death.
+end:killed-innocent,Your family will be questioned about their involvement.,Your family will be questioned about their involvement.
+end:killed-innocent,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:killed-innocent,Glory to Arstotzka.,Glory to Arstotzka.
+end:tranqed-innocent,You are under arrest for attacking an innocent.,You are under arrest for attacking an innocent.
+end:tranqed-innocent,The penalty is forced labor.,The penalty is forced labor.
+end:tranqed-innocent,Your family will be questioned about their involvement.,Your family will be questioned about their involvement.
+end:tranqed-innocent,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:tranqed-innocent,Glory to Arstotzka.,Glory to Arstotzka.
+end:killed-guard,You are under arrest for the murder of an Arstotzkan official.,You are under arrest for the murder of an Arstotzkan official.
+end:killed-guard,The penalty is death.,The penalty is death.
+end:killed-guard,Your family will be questioned about their involvement.,Your family will be questioned about their involvement.
+end:killed-guard,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:killed-guard,Glory to Arstotzka.,Glory to Arstotzka.
+end:tranqed-guard,You are under arrest for attacking an Arstotzkan official.,You are under arrest for attacking an Arstotzkan official.
+end:tranqed-guard,The penalty is death.,The penalty is death.
+end:tranqed-guard,Your family will be questioned about their involvement.,Your family will be questioned about their involvement.
+end:tranqed-guard,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:tranqed-guard,Glory to Arstotzka.,Glory to Arstotzka.
+end:killed-target,You are under arrest for the murder of an innocent.,You are under arrest for the murder of an innocent.
+end:killed-target,The penalty is death.,The penalty is death.
+end:killed-target,Your family will be questioned about their involvement.,Your family will be questioned about their involvement.
+end:killed-target,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:killed-target,Glory to Arstotzka.,Glory to Arstotzka.
+end:killed-target,[A note appears from under the cell door],[A note appears from under the cell door]
+end:killed-target,INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE,INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE
+end:killed-target,REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED,REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED
+end:killed-target,WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN,WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN
+end:killed-target,FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK,FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK
+end:tranqed-target,You are under arrest for attacking an innocent.,You are under arrest for attacking an innocent.
+end:tranqed-target,The penalty is forced labor.,The penalty is forced labor.
+end:tranqed-target,Your family will be questioned about their involvement.,Your family will be questioned about their involvement.
+end:tranqed-target,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:tranqed-target,Glory to Arstotzka.,Glory to Arstotzka.
+end:tranqed-target,[A note appears from under the cell door],[A note appears from under the cell door]
+end:tranqed-target,INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL,INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL
+end:tranqed-target,REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED,REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED
+end:tranqed-target,WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN,WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN
+end:tranqed-target,FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK,FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK
+end:stuff-on-walls,You are under arrest for violating direct orders.,You are under arrest for violating direct orders.
+end:stuff-on-walls,The penalty is forced labor.,The penalty is forced labor.
+end:stuff-on-walls,Your family will be sent back to their village.,Your family will be sent back to their village.
+end:stuff-on-walls,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:stuff-on-walls,Glory to Arstotzka.,Glory to Arstotzka.
+end:arrested-boss-buddy,Your supervisor has reported you for theft of Arstotzkan property.,Your supervisor has reported you for theft of Arstotzkan property.
+end:arrested-boss-buddy,The penalty is forced labor.,The penalty is forced labor.
+end:arrested-boss-buddy,Your family will be sent back to their village.,Your family will be sent back to their village.
+end:arrested-boss-buddy,The border will remain open under a replacement inspector.,The border will remain open under a replacement inspector.
+end:arrested-boss-buddy,Glory to Arstotzka.,Glory to Arstotzka.
+end:wall-destroyed,The Grestin Border wall has been destroyed.,The Grestin Border wall has been destroyed.
+end:wall-destroyed,You are under arrest for failure to defend the checkpoint.,You are under arrest for failure to defend the checkpoint.
+end:wall-destroyed,Your family will be sent back to their village.,Your family will be sent back to their village.
+end:wall-destroyed,The border will reopen under a replacement inspector.,The border will reopen under a replacement inspector.
+end:wall-destroyed,Glory to Arstotzka.,Glory to Arstotzka.
+end:help-ezic-kill-attackers-wall-safe,Hello inspector.,Hello inspector.
+end:help-ezic-kill-attackers-wall-safe,We have audited your recent activities.,We have audited your recent activities.
+end:help-ezic-kill-attackers-wall-safe,Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.,Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.
+end:help-ezic-kill-attackers-wall-safe,Several members of this group have been arrested in Arstotzka.,Several members of this group have been arrested in Arstotzka.
+end:help-ezic-kill-attackers-wall-safe,At least one EZIC member has confessed to receiving your help.,At least one EZIC member has confessed to receiving your help.
+end:help-ezic-kill-attackers-wall-safe,This represents treason of the highest order.,This represents treason of the highest order.
+end:help-ezic-kill-attackers-wall-safe,Goodbye inspector.,Goodbye inspector.
+end:help-ezic-kill-attackers-wall-safe,The execution is scheduled for tonight.,The execution is scheduled for tonight.
+end:help-ezic-kill-attackers-wall-safe,Your family's safety is unknown.,Your family's safety is unknown.
+end:help-ezic-kill-attackers-wall-safe,EZIC has been crushed. The balance of justice is restored.,EZIC has been crushed. The balance of justice is restored.
+end:help-ezic-kill-attackers-wall-safe,Glory to Arstotzka.,Glory to Arstotzka.
+end:help-ezic-kill-attackers-wall-safe,[A note appears from under the cell door],[A note appears from under the cell door]
+end:help-ezic-kill-attackers-wall-safe,INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT,INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT
+end:help-ezic-kill-attackers-wall-safe,THIS CHAPTER OF EZIC IS OVER - WE CAN OFFER NO HELP TO YOUR FAMILY,THIS CHAPTER OF EZIC IS OVER - WE CAN OFFER NO HELP TO YOUR FAMILY
+end:help-ezic-kill-attackers-wall-destroyed,The border has been pierced.,The border has been pierced.
+end:help-ezic-kill-attackers-wall-destroyed,It is a glorious day for THE ORDER OF THE EZIC STAR but you have betrayed us at the last moment.,It is a glorious day for THE ORDER OF THE EZIC STAR but you have betrayed us at the last moment.
+end:help-ezic-kill-attackers-wall-destroyed,EZIC grows strong while the corrupt and greedy weaken.,EZIC grows strong while the corrupt and greedy weaken.
+end:help-ezic-kill-attackers-wall-destroyed,Your betrayal means you have chosen the wrong side.,Your betrayal means you have chosen the wrong side.
+end:help-ezic-kill-attackers-wall-destroyed,There is no place for you or your family in this revolution.,There is no place for you or your family in this revolution.
+end:help-ezic-kill-attackers-wall-destroyed,Goodbye inspector.,Goodbye inspector.
+end:help-ezic-kill-attackers-wall-destroyed,Glory to the New Arstotzka.,Glory to the New Arstotzka.
+end:help-few-ezic,Hello inspector.,Hello inspector.
+end:help-few-ezic,We have audited your recent activities.,We have audited your recent activities.
+end:help-few-ezic,Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.,Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.
+end:help-few-ezic,Several members of this group have been arrested in Arstotzka.,Several members of this group have been arrested in Arstotzka.
+end:help-few-ezic,At least one EZIC member has confessed to receiving your help.,At least one EZIC member has confessed to receiving your help.
+end:help-few-ezic,This represents treason of the highest order.,This represents treason of the highest order.
+end:help-few-ezic,Goodbye inspector.,Goodbye inspector.
+end:help-few-ezic,The execution is scheduled for tonight.,The execution is scheduled for tonight.
+end:help-few-ezic,Your family's safety is unknown.,Your family's safety is unknown.
+end:help-few-ezic,EZIC has been crushed. The balance of justice is restored.,EZIC has been crushed. The balance of justice is restored.
+end:help-few-ezic,Glory to Arstotzka.,Glory to Arstotzka.
+end:escape,You board the late train to the Northern Territories. It is nearly empty.,You board the late train to the Northern Territories. It is nearly empty.
+end:escape,You pay for the hastily forged passport and re-entry ticket. They look terrible.,You pay for the hastily forged passport and re-entry ticket. They look terrible.
+end:escape,You pay for the hastily forged passports and re-entry tickets. They look terrible.,You pay for the hastily forged passports and re-entry tickets. They look terrible.
+end:escape,You reach the border crossing at dawn. The line is immense.,You reach the border crossing at dawn. The line is immense.
+end:escape,Six hours later.,Six hours later.
+end:escape,Your documents.,Your documents.
+end:escape,Here.,Here.
+end:escape,You are entering alone?,You are entering alone?
+end:escape,Yes.,Yes.
+end:escape,I come to visit relatives.,I come to visit relatives.
+end:escape,"No, my family as well.","No, my family as well."
+end:escape,Hand over all documents now.,Hand over all documents now.
+end:escape,We come to visit relatives.,We come to visit relatives.
+end:escape,I do not care why you come. Wait here.,I do not care why you come. Wait here.
+end:escape,*KACHUNK*,*KACHUNK*
+end:escape,Welcome to Obristan. Next!,Welcome to Obristan. Next!
+end:help-ezic-hold-fire,Inspector! It is a glorious day!,Inspector! It is a glorious day!
+end:help-ezic-hold-fire,The border has been pierced.,The border has been pierced.
+end:help-ezic-hold-fire,EZIC grows strong while the corrupt and greedy weaken.,EZIC grows strong while the corrupt and greedy weaken.
+end:help-ezic-hold-fire,We are moving you and your family to a better home.,We are moving you and your family to a better home.
+end:help-ezic-hold-fire,Your services as an inspector are no longer required. We need agents.,Your services as an inspector are no longer required. We need agents.
+end:help-ezic-hold-fire,Follow us and together we will complete the revolution!,Follow us and together we will complete the revolution!
+end:help-ezic-hold-fire,Glory to the New Arstotzka.,Glory to the New Arstotzka.
+end:ignore-ezic,Hello inspector.,Hello inspector.
+end:ignore-ezic,We have audited your activities for the past 20 years.,We have audited your activities for the past 20 years.
+end:ignore-ezic,There are some anomalies.,There are some anomalies.
+end:ignore-ezic,But you have served Arstotzka well.,But you have served Arstotzka well.
+end:ignore-ezic,We will overlook these small transgressions.,We will overlook these small transgressions.
+end:ignore-ezic,You have been cleared of any suspicion.,You have been cleared of any suspicion.
+end:ignore-ezic,Glory to Arstotzka.,Glory to Arstotzka.
+end:ignore-ezic,A new agreement has been reached with Kolechia.,A new agreement has been reached with Kolechia.
+end:ignore-ezic,Grestin Border Checkpoint will reopen soon.,Grestin Border Checkpoint will reopen soon.
+end:ignore-ezic,Return to your post on January 1st.,Return to your post on January 1st.
+end:ignore-ezic,ENDLESS UNLOCK CODE: 62131,ENDLESS UNLOCK CODE: 62131
+endless:timed,Timed,Timed
+endless:timed,Process as many travelers as possible in 10 minutes.,Process as many travelers as possible in 10 minutes.
+endless:timed,"ENDLESS - TIMED
+
+Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","ENDLESS - TIMED
+
+Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation."
+endless:perfection,Perfection,Perfection
+endless:perfection,Game over at first penalty. Earn dwindling points.,Game over at first penalty. Earn dwindling points.
+endless:perfection,"ENDLESS - PERFECTION
+
+Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","ENDLESS - PERFECTION
+
+Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly."
+endless:endurance,Endurance,Endurance
+endless:endurance,Play until balance goes negative. Avoid penalties.,Play until balance goes negative. Avoid penalties.
+endless:endurance,"ENDLESS - ENDURANCE
+
+Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","ENDLESS - ENDURANCE
+
+Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring."
+endless:course1,Course 1,Course 1
+endless:course2,Course 2,Course 2
+endless:course3,Course 3,Course 3
+endless:course4,Course 4,Course 4
+bullend:1A,Check rulebook for rules in effect.,Check rulebook for rules in effect.
+bullend:2A,Check rulebook for rules in effect.,Check rulebook for rules in effect.
+bullend:3A,Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.,Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.
+bullend:4A,Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.,Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.
+night:MANAGE_EXPENSES,Manage your expenses using the checkboxes below.,Manage your expenses using the checkboxes below.
+night:AFTER_6PM,Applicants entering after 6PM are unpaid.,Applicants entering after 6PM are unpaid.
+night:PROGRESS_SAVED,Progress is saved at the start of each day.,Progress is saved at the start of each day.
+night:ATTACK_DIDNOTHING,The day was cut short by a terrorist attack.,The day was cut short by a terrorist attack.
+night:ATTACK_FIREDGUN,The day was cut short by a terrorist attack.,The day was cut short by a terrorist attack.
+night:ATTACK_FIREDGUN,TRIGGER BONUS,TRIGGER BONUS
+night:ATTACK_SOLVED,The day was cut short by a terrorist attack.,The day was cut short by a terrorist attack.
+night:ATTACK_SOLVED,SHARPSHOOTER BONUS,SHARPSHOOTER BONUS
+night:POISONING,The day was cut short by a security incident.,The day was cut short by a security incident.
+night:FAMILY_PICTURE,Your wife found an old family picture.,Your wife found an old family picture.
+night:BUY_UPGRADE0,Booth Upgrade Available: SPACE key to toggle INSPECT mode.,Booth Upgrade Available: SPACE key to toggle INSPECT mode.
+night:BUY_UPGRADE0,UPGRADE BOOTH,UPGRADE BOOTH
+night:BUY_UPGRADE0,Booth Upgrade Available: Multitouch.,Booth Upgrade Available: Multitouch.
+night:BUY_UPGRADE0,Booth Upgrade Available: Rulebook shortcuts.,Booth Upgrade Available: Rulebook shortcuts.
+night:BUY_UPGRADE1,Booth Upgrade Available: TAB key to toggle stamp bar.,Booth Upgrade Available: TAB key to toggle stamp bar.
+night:BUY_UPGRADE1,UPGRADE BOOTH,UPGRADE BOOTH
+night:BUY_UPGRADE2,Booth Upgrade Available: Rulebook shortcuts.,Booth Upgrade Available: Rulebook shortcuts.
+night:BUY_UPGRADE2,UPGRADE BOOTH,UPGRADE BOOTH
+night:BUY_UPGRADE3,Booth Upgrade Available: Double-click for quick INSPECT.,Booth Upgrade Available: Double-click for quick INSPECT.
+night:BUY_UPGRADE3,UPGRADE BOOTH,UPGRADE BOOTH
+night:APARTMENT_RENT,The rent has gone up.,The rent has gone up.
+night:APARTMENT_UPGRADE,"A cheaper class 8 apartment is available (Rent = 25, Heat = 10)","A cheaper class 8 apartment is available (Rent = 25, Heat = 10)"
+night:APARTMENT_UPGRADE,MOVE TO CLASS-8,MOVE TO CLASS-8
+night:APARTMENT_UPGRADE,"A class-7 apartment is available. (Rent = 30, Heat = 10)","A class-7 apartment is available. (Rent = 30, Heat = 10)"
+night:APARTMENT_UPGRADE,MOVE TO CLASS-7,MOVE TO CLASS-7
+night:APARTMENT_UPGRADE,"A class-6 apartment is available. (Rent = 40, Heat = 5)","A class-6 apartment is available. (Rent = 40, Heat = 5)"
+night:APARTMENT_UPGRADE,MOVE TO CLASS-6,MOVE TO CLASS-6
+night:APARTMENT_UPGRADE,"A class-5 apartment is available. (Rent = 50, Heat = 0)","A class-5 apartment is available. (Rent = 50, Heat = 0)"
+night:APARTMENT_UPGRADE,Class-5 is the best a worker can have.,Class-5 is the best a worker can have.
+night:APARTMENT_UPGRADE,MOVE TO CLASS-5,MOVE TO CLASS-5
+night:SON_BIRTHDAY,Your son's birthday is in 2 days.,Your son's birthday is in 2 days.
+night:SON_BIRTHDAY2,Your son's birthday is tomorrow. He wants an expensive crayon set.,Your son's birthday is tomorrow. He wants an expensive crayon set.
+night:SON_BIRTHDAY2,SON'S GIFT,SON'S GIFT
+night:SON_BIRTHDAY3,Your son has drawn a picture for you to take to work.,Your son has drawn a picture for you to take to work.
+night:NIECE,Your sister has been arrested. Her young daughter needs a home.,Your sister has been arrested. Her young daughter needs a home.
+night:NIECE,ADOPT NIECE,ADOPT NIECE
+night:NIECE2_YES,Your niece has brought her mother's savings.,Your niece has brought her mother's savings.
+night:NIECE2_YES,SISTER'S SAVINGS,SISTER'S SAVINGS
+night:NIECE2_NO,Your niece has disappeared.,Your niece has disappeared.
+night:FRIENDLY_GUARD_PAYOUT,A young woman dropped off something.,A young woman dropped off something.
+night:FRIENDLY_GUARD_PAYOUT,ELISA'S GIFT,ELISA'S GIFT
+night:DETAIN_PAYOUT,DETAIN BONUS,DETAIN BONUS
+night:EZIC_PAYOUT,A strange man brought money. Uncheck to burn it.,A strange man brought money. Uncheck to burn it.
+night:EZIC_PAYOUT,EZIC GIFT,EZIC GIFT
+night:EZIC_PAYOUT_RETRY,A strange man brought money again. Uncheck to burn it.,A strange man brought money again. Uncheck to burn it.
+night:EZIC_PAYOUT_RETRY,EZIC GIFT,EZIC GIFT
+night:EZIC_TAKESAVINGS,The neighbors have reported your new wealth.,The neighbors have reported your new wealth.
+night:EZIC_TAKESAVINGS,The Ministry of Income has confiscated your savings pending investigation.,The Ministry of Income has confiscated your savings pending investigation.
+night:EZIC_CLEARED,The Ministry of Income has cleared all wrongdoing.,The Ministry of Income has cleared all wrongdoing.
+night:EZIC_CLEARED,Your savings will not be returned.,Your savings will not be returned.
+night:EZIC_REWARD,A small package arrived.,A small package arrived.
+night:EZIC_REWARD,EZIC GIFT,EZIC GIFT
+night:TAKE_FAMILY_PASSPORTS,The Ministry of Information has confiscated your family's passports.,The Ministry of Information has confiscated your family's passports.
+night:ESCAPE,You can now escape to Obristan by yourself.,You can now escape to Obristan by yourself.
+night:ESCAPE,You can now escape to Obristan with one family member.,You can now escape to Obristan with one family member.
+night:ESCAPE,You can now escape to Obristan with two family members.,You can now escape to Obristan with two family members.
+night:ESCAPE,You can now escape to Obristan with three family members.,You can now escape to Obristan with three family members.
+night:ESCAPE,You can now escape to Obristan with four family members.,You can now escape to Obristan with four family members.
+night:ESCAPE,You can now escape to Obristan with everyone.,You can now escape to Obristan with everyone.
+night:ESCAPE_1,ESCAPE (SELF),ESCAPE (SELF)
+night:ESCAPE_2,ESCAPE (SELF+1),ESCAPE (SELF+1)
+night:ESCAPE_3,ESCAPE (SELF+2),ESCAPE (SELF+2)
+night:ESCAPE_4,ESCAPE (SELF+3),ESCAPE (SELF+3)
+night:ESCAPE_5,ESCAPE (SELF+4),ESCAPE (SELF+4)
+night:ESCAPE_6,ESCAPE (SELF+5),ESCAPE (SELF+5)
+night:HANGINGS_PENALTY,A fine has been assessed for unofficial wall hangings.,A fine has been assessed for unofficial wall hangings.
+night:HANGINGS_PENALTY,HANGINGS FINE,HANGINGS FINE
+night:SELL_WATCH,You sold the digital watch on your way home.,You sold the digital watch on your way home.
+night:SELL_WATCH,WATCH PROFIT,WATCH PROFIT
+night:EASY_MODE,EASY MODE CRUTCH,EASY MODE CRUTCH
+night:SNEAK_HOME,You have rushed home amid the panic at work to check on your family.,You have rushed home amid the panic at work to check on your family.
+night:SNEAK_HOME,Your information audit is scheduled for tomorrow morning.,Your information audit is scheduled for tomorrow morning.
+note:EZIC_CORMAN,"ARSTOTZKA IS GREAT COUNTRY POISONED BY CORRUPT LEADERS
+
+WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
+
+HELP US FREE ARSTOTZKA FROM ITS SHACKLES
+
+
+* THE ORDER OF THE EZIC STAR","ARSTOTZKA IS GREAT COUNTRY POISONED BY CORRUPT LEADERS
+
+WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
+
+HELP US FREE ARSTOTZKA FROM ITS SHACKLES
+
+
+* THE ORDER OF THE EZIC STAR"
+note:EZIC_HANDLER_POST0,"FIRST AGENT WAS DENIED
+
+SECOND WILL COME IN THREE DAYS
+
+DO NOT MAKE SAME MISTAKE","FIRST AGENT WAS DENIED
+
+SECOND WILL COME IN THREE DAYS
+
+DO NOT MAKE SAME MISTAKE"
+note:EZIC_HANDLER_PRE1,"LARGE GIFT WAS MISTAKE
+
+MINISTRY OF INFORMATION NOW INVESTIGATES YOUR CONNECTION TO EZIC
+
+NEXT AGENT COMES TODAY
+
+WILL SOLVE PROBLEM
+
+DENY AT OWN RISK","LARGE GIFT WAS MISTAKE
+
+MINISTRY OF INFORMATION NOW INVESTIGATES YOUR CONNECTION TO EZIC
+
+NEXT AGENT COMES TODAY
+
+WILL SOLVE PROBLEM
+
+DENY AT OWN RISK"
+note:EZIC_HANDLER_POST1,"BOTH AGENTS WERE DENIED
+
+WE CANNOT SUCCEED WITHOUT YOUR HELP
+
+WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","BOTH AGENTS WERE DENIED
+
+WE CANNOT SUCCEED WITHOUT YOUR HELP
+
+WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN"
+note:EZIC_HANDLER_POST1,"ONLY ONE AGENT APPROVED
+
+WE CANNOT SUCCEED WITHOUT YOUR HELP
+
+WHEN ARSTOTZKA WAS BORN ,THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","ONLY ONE AGENT APPROVED
+
+WE CANNOT SUCCEED WITHOUT YOUR HELP
+
+WHEN ARSTOTZKA WAS BORN ,THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN"
+note:EZIC_HANDLER_POST1,"YOU HAVE DONE WELL
+
+BOTH AGENTS NOW OPERATING
+
+WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","YOU HAVE DONE WELL
+
+BOTH AGENTS NOW OPERATING
+
+WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN"
+note:EZIC_HANDLER_EXT,"BORDER ATTACKS ARE NOT EZIC OPERATIONS
+
+UNKNOWN EXTREMIST GROUPS RESPONSIBLE
+
+THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","BORDER ATTACKS ARE NOT EZIC OPERATIONS
+
+UNKNOWN EXTREMIST GROUPS RESPONSIBLE
+
+THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS"
+note:EZIC_POISON_MESSENGER,"ASSASSIN COMING FROM ANTEGRIA
+
+WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
+
+MUST BE STOPPED
+
+HIS NAME IS KHALED ISTOM
+
+DO NOT FORGET","ASSASSIN COMING FROM ANTEGRIA
+
+WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
+
+MUST BE STOPPED
+
+HIS NAME IS KHALED ISTOM
+
+DO NOT FORGET"
+note:EZIC_HANDLER_SNIPE,"KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE"
+note:EZIC_HANDLER_SNIPE,"KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE"
+note:EZIC_HANDLER_SNIPE,"KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE"
+note:EZIC_HANDLER_POSTSNIPE,"WE HAVE MISSED OUR CHANCE
+
+MAN IN RED SURVIVES
+
+HE NOW TARGETS EZIC AGENTS IN KOLECHIA
+
+OUR PLANS MUST ADAPT","WE HAVE MISSED OUR CHANCE
+
+MAN IN RED SURVIVES
+
+HE NOW TARGETS EZIC AGENTS IN KOLECHIA
+
+OUR PLANS MUST ADAPT"
+note:EZIC_HANDLER_DIPLO,"GOVERNMENT PLANS TO YIELD TO KOLECHIAN DEMANDS AND FURTHER CEDE GRESTIN
+
+NEGOTIATIONS MUST BE IMPEDED
+
+ALLOW KOLECHIAN DIPLOMAT ENTRY BUT CONFISCATE PASSPORT FIRST
+
+EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","GOVERNMENT PLANS TO YIELD TO KOLECHIAN DEMANDS AND FURTHER CEDE GRESTIN
+
+NEGOTIATIONS MUST BE IMPEDED
+
+ALLOW KOLECHIAN DIPLOMAT ENTRY BUT CONFISCATE PASSPORT FIRST
+
+EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY"
+note:EZIC_FINAL,"GRESTIN CHECKPOINT IS AT AN END
+
+TODAY WE BREAK THIS WALL DOWN
+
+YOU WILL BE SAFE
+
+HOLD YOUR FIRE
+
+* THE ORDER OF THE EZIC STAR","GRESTIN CHECKPOINT IS AT AN END
+
+TODAY WE BREAK THIS WALL DOWN
+
+YOU WILL BE SAFE
+
+HOLD YOUR FIRE
+
+* THE ORDER OF THE EZIC STAR"
+traveler:DEFAULT,Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?,Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?
+traveler:DEFAULT,@It is being confiscated.,@It is being confiscated.
+traveler:DEFAULT,How will I travel? ; What should I do? ; Why? ; You cannot do this.,How will I travel? ; What should I do? ; Why? ; You cannot do this.
+traveler:DEFAULT,@Contact number on slip.,@Contact number on slip.
+traveler:EZIC_INTRO,The Order awaits.,The Order awaits.
+traveler:EZIC_CORMAN,Very good.,Very good.
+traveler:EZIC_CORMAN,Read quickly.,Read quickly.
+traveler:EZIC_CORMAN,Do not lose this.,Do not lose this.
+traveler:EZIC_CORMAN,You have something of mine.,You have something of mine.
+traveler:EZIC_CORMAN,My name is Corman Drex.,My name is Corman Drex.
+traveler:EZIC_CORMAN,Read the note then return it to me.,Read the note then return it to me.
+traveler:EZIC_HANDLER_PRE0,Our agents are ready.,Our agents are ready.
+traveler:EZIC_HANDLER_PRE0,Starting tomorrow.,Starting tomorrow.
+traveler:EZIC_HANDLER_PRE0,Let them pass.,Let them pass.
+traveler:EZIC_AGENT0,The Order rises.,The Order rises.
+traveler:EZIC_AGENT0,The Order knows.,The Order knows.
+traveler:EZIC_AGENT1,For Arstotzka and the Order.,For Arstotzka and the Order.
+traveler:EZIC_HANDLER_POST1,Give me the coded documents.,Give me the coded documents.
+traveler:EZIC_HANDLER_POST1,Both.,Both.
+traveler:EZIC_HANDLER_EXT,Today.,Today.
+traveler:EZIC_AGENT_EXT,For Arstotzka and the Order.,For Arstotzka and the Order.
+traveler:EZIC_AGENT_EXT,"The others do not agree, but I believe the man in red is not a threat.","The others do not agree, but I believe the man in red is not a threat."
+traveler:EZIC_AGENT_EXT,@What?,@What?
+traveler:EZIC_AGENT_EXT,Nevermind.,Nevermind.
+traveler:EZIC_HANDLER_SNIPE,Shoot to kill.,Shoot to kill.
+traveler:EZIC_DIPLO,I require my passport.,I require my passport.
+traveler:EZIC_DIPLO,@It has been confiscated.,@It has been confiscated.
+traveler:EZIC_DIPLO,I am Kolechian diplomat here on government request.,I am Kolechian diplomat here on government request.
+traveler:EZIC_DIPLO,Return passport at once.,Return passport at once.
+traveler:EZIC_DIPLO,@Call number on slip to recover.,@Call number on slip to recover.
+traveler:EZIC_DIPLO,Barbarian.,Barbarian.
+traveler:EZIC_DIPLO,You cannot do this.,You cannot do this.
+traveler:EZIC_DIPLO_FOLLOW,I saw him enter.,I saw him enter.
+traveler:EZIC_DIPLO_FOLLOW,Give his passport to me.,Give his passport to me.
+traveler:EZIC_DIPLO_FOLLOW,Ah good.,Ah good.
+traveler:EZIC_DIPLO_FOLLOW,I look much the same as him.,I look much the same as him.
+traveler:EZIC_DIPLO_FOLLOW,Just need to shave my mustache.,Just need to shave my mustache.
+traveler:EZIC_DIPLO_FOLLOW,But we all must make sacrifices.,But we all must make sacrifices.
+traveler:EZIC_DIPLO_FOLLOW,Appove the visa.,Appove the visa.
+traveler:EZIC_DIPLO_FOLLOW,For Arstotzka and the Order.,For Arstotzka and the Order.
+traveler:EZIC_DIPLO_FOLLOW,This is not what was agreed on.,This is not what was agreed on.
+traveler:EZIC_DIPLO_FOLLOW,I am sent to collect diplomat's passport.,I am sent to collect diplomat's passport.
+traveler:EZIC_DIPLO_FOLLOW,@I do not have it.,@I do not have it.
+traveler:SECRET_POLICE_INTRO,"Good morning, inspector.","Good morning, inspector."
+traveler:SECRET_POLICE_INTRO,You are healthy today yes?,You are healthy today yes?
+traveler:SECRET_POLICE_INTRO,I have just few questions for you.,I have just few questions for you.
+traveler:SECRET_POLICE_INTRO,There was problem at Metro last night.,There was problem at Metro last night.
+traveler:SECRET_POLICE_INTRO,Maybe you read about it in paper.,Maybe you read about it in paper.
+traveler:SECRET_POLICE_INTRO,Is very big news.,Is very big news.
+traveler:SECRET_POLICE_INTRO,We think it is not accident.,We think it is not accident.
+traveler:SECRET_POLICE_INTRO,We think it is caused by suspicious group.,We think it is caused by suspicious group.
+traveler:SECRET_POLICE_INTRO,We think some members pass through this checkpoint.,We think some members pass through this checkpoint.
+traveler:SECRET_POLICE_INTRO,So we come talk to you.,So we come talk to you.
+traveler:SECRET_POLICE_INTRO,Have you seen anything like this?,Have you seen anything like this?
+traveler:SECRET_POLICE_INTRO,Is some kind of symbol for group.,Is some kind of symbol for group.
+traveler:SECRET_POLICE_INTRO,"If you have any information, you give to us yes?","If you have any information, you give to us yes?"
+traveler:SECRET_POLICE_INTRO,Yes?,Yes?
+traveler:SECRET_POLICE_INTRO,@Yes.,@Yes.
+traveler:SECRET_POLICE_INTRO,Very good.,Very good.
+traveler:SECRET_POLICE_INTRO,Please return my badge and paper.,Please return my badge and paper.
+traveler:SECRET_POLICE_INTRO,We think suspicious group attempts to stir trouble.,We think suspicious group attempts to stir trouble.
+traveler:SECRET_POLICE_INTRO,We think some members enter this checkpoint.,We think some members enter this checkpoint.
+traveler:SECRET_POLICE_INTRO,What is this?,What is this?
+traveler:SECRET_POLICE_INTRO,Interesting.,Interesting.
+traveler:SECRET_POLICE_INTRO,"Yes, very interesting.","Yes, very interesting."
+traveler:SECRET_POLICE_INTRO,I think it is best if you come with me.,I think it is best if you come with me.
+traveler:SECRET_POLICE_INTRO,This group is very dangerous.,This group is very dangerous.
+traveler:SECRET_POLICE_INTRO,"If you see any curious thing, report immediately.","If you see any curious thing, report immediately."
+traveler:SECRET_POLICE_CAUGHT,Hello inspector.,Hello inspector.
+traveler:SECRET_POLICE_CAUGHT,There is small discrepancy with your finances.,There is small discrepancy with your finances.
+traveler:SECRET_POLICE_CAUGHT,The Ministry of Income was thoughtful enough to notify us.,The Ministry of Income was thoughtful enough to notify us.
+traveler:SECRET_POLICE_CAUGHT,It is best if you come with me.,It is best if you come with me.
+traveler:SECRET_POLICE_FINAL,Inspector.,Inspector.
+traveler:SECRET_POLICE_FINAL,It has been some time.,It has been some time.
+traveler:SECRET_POLICE_FINAL,Read your bulletin carefully today.,Read your bulletin carefully today.
+traveler:SECRET_POLICE_FINAL,We will be speaking with many workers.,We will be speaking with many workers.
+traveler:SECRET_POLICE_FINAL,Your audit comes soon.,Your audit comes soon.
+traveler:SECRET_POLICE_FINAL,I will personally conduct it.,I will personally conduct it.
+traveler:SECRET_POLICE_FINAL,There is nothing to fear.,There is nothing to fear.
+traveler:SECRET_POLICE_FINAL,Work hard.,Work hard.
+traveler:JORJI_BASE,All right! You the best!,All right! You the best!
+traveler:JORJI_BASE,Arstotzka the best!,Arstotzka the best!
+traveler:JORJI_BASE,"Here, take this!","Here, take this!"
+traveler:JORJI0,Ok! Here we go!,Ok! Here we go!
+traveler:JORJI0,Glory to Arstotzka!,Glory to Arstotzka!
+traveler:JORJI0,The greatest country!,The greatest country!
+traveler:JORJI0,@Where is your passport?,@Where is your passport?
+traveler:JORJI0,Passport!,Passport!
+traveler:JORJI0,"Arstotzka so great, passport not required.","Arstotzka so great, passport not required."
+traveler:JORJI0,Right?,Right?
+traveler:JORJI0,@A passport is required.,@A passport is required.
+traveler:JORJI0,"Ok, ok. I hear you.","Ok, ok. I hear you."
+traveler:JORJI0,I come back again.,I come back again.
+traveler:JORJI1,Ok! Hello again!,Ok! Hello again!
+traveler:JORJI1,Now I have passport!,Now I have passport!
+traveler:JORJI1,Arstotzka still best country for sure!,Arstotzka still best country for sure!
+traveler:JORJI1,@This passport is crude fake.,@This passport is crude fake.
+traveler:JORJI1,Hey now! Is not true!,Hey now! Is not true!
+traveler:JORJI1,Is pre-approved!,Is pre-approved!
+traveler:JORJI1,@ Cobrastan is not a real country.,@ Cobrastan is not a real country.
+traveler:JORJI1,"Ok, ok.","Ok, ok."
+traveler:JORJI1,"You no like passport, I understand.","You no like passport, I understand."
+traveler:JORJI1,I come back again with better one.,I come back again with better one.
+traveler:JORJI2,Old friend hello!,Old friend hello!
+traveler:JORJI2,I am back again!,I am back again!
+traveler:JORJI2,This time everything set.,This time everything set.
+traveler:JORJI2,@You are missing an entry permit.,@You are missing an entry permit.
+traveler:JORJI2,Oh man you funny guy!,Oh man you funny guy!
+traveler:JORJI2,@An entry permit is required.,@An entry permit is required.
+traveler:JORJI2,"Wow, you run very strict border here.","Wow, you run very strict border here."
+traveler:JORJI2,That is good. Do job right.,That is good. Do job right.
+traveler:JORJI2,I look for entry thing and come back.,I look for entry thing and come back.
+traveler:JORJI3,Hey it is me!,Hey it is me!
+traveler:JORJI3,Are you happy to see?,Are you happy to see?
+traveler:JORJI3,I have everything you ask for now.,I have everything you ask for now.
+traveler:JORJI3,@Tickets are no longer accepted.,@Tickets are no longer accepted.
+traveler:JORJI3,Hey no!,Hey no!
+traveler:JORJI3,Guy sold me ticket. Say is good!,Guy sold me ticket. Say is good!
+traveler:JORJI3,You check again maybe.,You check again maybe.
+traveler:JORJI3,@Do not come back again.,@Do not come back again.
+traveler:JORJI3,Haha!,Haha!
+traveler:JORJI3,You nice guy but I have business in Arstotzka.,You nice guy but I have business in Arstotzka.
+traveler:JORJI3,I get right papers and come see you.,I get right papers and come see you.
+traveler:JORJI4,Hello my guy!,Hello my guy!
+traveler:JORJI4,Ok. Today is day!,Ok. Today is day!
+traveler:JORJI4,Look at all good papers.,Look at all good papers.
+traveler:JORJI4,Was not easy.,Was not easy.
