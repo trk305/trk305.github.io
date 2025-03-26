@@ -14,27 +14,27 @@ traveler:RED_STAMP,Thanks.,Thanks.
 traveler:NEED_SURGERY,I come for medical reasons.,لقد أتيت لأسباب صحية.
 traveler:NEED_SURGERY,@Your papers are missing.,@أوراقك مفقودة.
 traveler:NEED_SURGERY,Please.,لو سمحت.
-traveler:NEED_SURGERY,Surgery I need is outlawed in Kolechia.,Surgery I need is outlawed in Kolechia.
-traveler:NEED_SURGERY,"Even so, I do not trust doctors there.","Even so, I do not trust doctors there."
-traveler:NEED_SURGERY,Only Arstotzka have skilled surgeons.,Only Arstotzka have skilled surgeons.
-traveler:NEED_SURGERY,@You do not have the right documents.,@You do not have the right documents.
-traveler:NEED_SURGERY,Yes.,Yes.
-traveler:NEED_SURGERY,They will not give papers for surgery.,They will not give papers for surgery.
-traveler:NEED_SURGERY,Thank you. I will not forget this.,Thank you. I will not forget this.
-traveler:NEED_SURGERY,I expected this.,I expected this.
-traveler:NEED_SURGERY,I do not know how long I survive.,I do not know how long I survive.
-traveler:NEED_SURGERY,But you do not care.~,But you do not care.~
-traveler:NEED_SURGERY,I hope you are not in same place as me.,I hope you are not in same place as me.
-traveler:LOVE_SONG,I will leave this here.,I will leave this here.
-traveler:LOVE_SONG,Great!,Great!
-traveler:LOVE_SONG,You really super guy!~,You really super guy!~
-traveler:LOVE_SONG,Can I have note back now?,Can I have note back now?
-traveler:LOVE_SONG,I need it for next inspector.,I need it for next inspector.
-traveler:LOVE_SONG,But I give you such lovely note!,But I give you such lovely note!
-traveler:LOVE_SONG,"Thanks and like I say, you super guy.","Thanks and like I say, you super guy."
-traveler:LOVE_SONG,Do not forget.,Do not forget.
-traveler:LOVE_SONG,Is too much?,Is too much?
-traveler:LOVE_SONG,@Yes.,@Yes.
+traveler:NEED_SURGERY,Surgery I need is outlawed in Kolechia.,الجراحة التي أحتاجها محظورة في كوليشيا.
+traveler:NEED_SURGERY,"Even so, I do not trust doctors there.","ومع ذلك، لا أثق بالأطباء هناك."
+traveler:NEED_SURGERY,Only Arstotzka have skilled surgeons.,فقط أرستوتزكا لديها أطباء ماهرون.
+traveler:NEED_SURGERY,@You do not have the right documents.,@ليس لديك الوثائق الصحيحة.
+traveler:NEED_SURGERY,Yes.,نعم.
+traveler:NEED_SURGERY,They will not give papers for surgery.,لن يعطوا أوراقًا للعملية الجراحية.
+traveler:NEED_SURGERY,Thank you. I will not forget this.,شكرا لك. لن أنسى هذا.
+traveler:NEED_SURGERY,I expected this.,لقد توقعت هذا.
+traveler:NEED_SURGERY,I do not know how long I survive.,لا أعرف كم من الوقت سأبقى على قيد الحياة.
+traveler:NEED_SURGERY,But you do not care.~,لكن أنت لا تهتم.~
+traveler:NEED_SURGERY,I hope you are not in same place as me.,أتمنى أن لا تكون نفس مكاني.
+traveler:LOVE_SONG,I will leave this here.,سأتركه هنا.
+traveler:LOVE_SONG,Great!,عظيم!
+traveler:LOVE_SONG,You really super guy!~,أنت رجلٌ خارق!~
+traveler:LOVE_SONG,Can I have note back now?,هل يمكنني استعادة الملاحظة الآن؟
+traveler:LOVE_SONG,I need it for next inspector.,أحتاجها للمفتش القادم.
+traveler:LOVE_SONG,But I give you such lovely note!,ولكنني أعطيتك ملاحظة جميلة جدًا!
+traveler:LOVE_SONG,"Thanks and like I say, you super guy.","شكرًا لك وكما أقول، أنت رجل خارق."
+traveler:LOVE_SONG,Do not forget.,لا تنسى.
+traveler:LOVE_SONG,Is too much?,هل هذا كثير جدًا؟
+traveler:LOVE_SONG,@Yes.,@نعم.
 traveler:LOVE_SONG,Is too much. I can see that now.,Is too much. I can see that now.
 traveler:LOVE_SONG,Next time I make couple copies first.,Next time I make couple copies first.
 traveler:LOVE_SONG_LONELY,Life sucks.,Life sucks.
