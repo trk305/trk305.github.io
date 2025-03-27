@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const Jimp = require('jimp');
+const { Jimp } = require('jimp');
 const playwright = require('playwright');
 const minimist = require('minimist');
 require('node-zip');
