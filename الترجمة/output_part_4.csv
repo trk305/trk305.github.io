@@ -4,7 +4,7 @@ traveler:RED_STAMP,Give me red stamp.,اعطني الختم الأحمر.
 traveler:RED_STAMP,I am serious.,أنا جاد.
 traveler:RED_STAMP,I have better job offer in Impor.,لدي عرض وظيفي أفضل في إمبور.
 traveler:RED_STAMP,Red stamp and I can break contract in Arstotzka.,ختم احمر وسأتمكن من فسخ العقد في أرستوتزكا.
-traveler:RED_STAMP,10 credits for you.,10 credits for you.
+traveler:RED_STAMP,10 credits for you.,10 دولار لك.
 traveler:RED_STAMP,Damn it.,تبًا لهذا.
 traveler:RED_STAMP,I am sure you deny people all day.,أنا متأكد أنك ترفض الناس طوال اليوم.
 traveler:RED_STAMP,Why not now?,لماذا ليس الآن؟
@@ -35,239 +35,239 @@ traveler:LOVE_SONG,"Thanks and like I say, you super guy.","شكرًا لك وك
 traveler:LOVE_SONG,Do not forget.,لا تنسى.
 traveler:LOVE_SONG,Is too much?,هل هذا كثير جدًا؟
 traveler:LOVE_SONG,@Yes.,@نعم.
-traveler:LOVE_SONG,Is too much. I can see that now.,Is too much. I can see that now.
-traveler:LOVE_SONG,Next time I make couple copies first.,Next time I make couple copies first.
-traveler:LOVE_SONG_LONELY,Life sucks.,Life sucks.
-traveler:LOVE_SONG_LONELY,Nobody loves me.,Nobody loves me.
-traveler:LOVE_SONG_LONELY,For me?,For me?
-traveler:LOVE_SONG_LONELY,Like fire?,Like fire?
-traveler:LOVE_SONG_LONELY,Object of desire?,Object of desire?
-traveler:LOVE_SONG_LONELY,"Wow, nobody say such nice things!","Wow, nobody say such nice things!"
-traveler:LOVE_SONG_LONELY,Part about visa is confusing but rest is very powerful.,Part about visa is confusing but rest is very powerful.
-traveler:LOVE_SONG_LONELY,Thank you!,Thank you!
-traveler:LOVE_SONG_LONELY,Thank you again!,Thank you again!
-traveler:LOVE_SONG_LONELY,Thanks I guess.,Thanks I guess.
-traveler:LOVE_SONG_LONELY,No problem!,No problem!
-traveler:LOVE_SONG_LONELY,Today is good day anyway!,Today is good day anyway!
-traveler:LOVE_SONG_LONELY,Even you hate me.,Even you hate me.
-traveler:LOVE_SONG_LONELY,Some guy I do not even know.,Some guy I do not even know.
-traveler:KOLECHIAN_HATER,It was a mistake to open this checkpoint.,It was a mistake to open this checkpoint.
-traveler:FINALLY_RETURN_HOME,Finally I can return home.,Finally I can return home.
-traveler:FINALLY_RETURN_HOME,You bastard.,You bastard.
-traveler:FINALLY_RETURN_HOME,Thank you.,Thank you.
-traveler:SMALL_CHECKPOINT,This checkpoint is smaller than I expected.,This checkpoint is smaller than I expected.
-traveler:WAITED_FOREVER,I have waited in this damn line since for 8 hours.,I have waited in this damn line since for 8 hours.
-traveler:WAITED_FOREVER,I hope it was worth it.,I hope it was worth it.
-traveler:WAITED_FOREVER,Unbelievable. Go to hell.,Unbelievable. Go to hell.
-traveler:HURRY_UP,Hurry up.,Hurry up.
-traveler:HURRY_UP,I am meeting bus soon.,I am meeting bus soon.
-traveler:HURRY_UP,What is this?,What is this?
-traveler:HURRY_UP,Finally.,Finally.
-traveler:GLAD_YOU_HAVE_JOB,I heard about terrorist attack.,I heard about terrorist attack.
-traveler:GLAD_YOU_HAVE_JOB,You are lucky to have a job still.,You are lucky to have a job still.
-traveler:GLAD_YOU_HAVE_JOB,Be safe.,Be safe.
-traveler:TICKET_NOT_PERMIT,What? I do not know. To visit?,What? I do not know. To visit?
-traveler:TICKET_NOT_PERMIT,A few days maybe.,A few days maybe.
-traveler:TICKET_NOT_PERMIT,Entry permit? I have ticket here.,Entry permit? I have ticket here.
-traveler:TICKET_NOT_PERMIT,Let me through.,Let me through.
-traveler:TICKET_NOT_PERMIT,@Ticket is not enough any more.,@Ticket is not enough any more.
-traveler:TICKET_NOT_PERMIT,@Get a permit.,@Get a permit.
-traveler:TICKET_NOT_PERMIT,Bullshit!,Bullshit!
-traveler:TICKET_NOT_PERMIT,I paid good money for ticket.,I paid good money for ticket.
-traveler:VISIT_SON,I am so happy that the border has opened.,I am so happy that the border has opened.
-traveler:VISIT_SON,I will visit my son. I have not seen him in six years. [Speech/Purpose],I will visit my son. I have not seen him in six years. [Speech/Purpose]
-traveler:VISIT_SON,6 months. [Speech/Duration],6 months. [Speech/Duration]
-traveler:VISIT_SON,"Please, let me pass. My son is waiting.","Please, let me pass. My son is waiting."
-traveler:VISIT_SON,Thank you.,Thank you.
-traveler:VISIT_SON,Curse you.,Curse you.
-traveler:DETAIN_FIRST,Hey wait.,Hey wait.
-traveler:DETAIN_FIRST,"Do not arrest me, please.","Do not arrest me, please."
-traveler:DETAIN_FIRST,Just deny my passport and I will go away.,Just deny my passport and I will go away.
-traveler:HATE_COUNTRY,It is not my choice. I hate this damn country.,It is not my choice. I hate this damn country.
-traveler:HATE_COUNTRY,I am just passing through. [Speech/Purpose],I am just passing through. [Speech/Purpose]
-traveler:HATE_COUNTRY,As little as possible. 2 days. [Speech/Duration],As little as possible. 2 days. [Speech/Duration]
-traveler:HATE_COUNTRY,Ugh.,Ugh.
-traveler:HATE_COUNTRY,Just as well.,Just as well.
-traveler:SEARCH_BRIBE_INTRO,Slow down my friend.,Slow down my friend.
-traveler:SEARCH_BRIBE_INTRO,I have only harmless medicine.,I have only harmless medicine.
-traveler:SEARCH_BRIBE_INTRO,I give you 10 credits to let me through.,I give you 10 credits to let me through.
-traveler:SEARCH_BRIBE_INTRO,Excellent.,Excellent.
-traveler:SEARCH_BRIBE_INTRO,As I promised.,As I promised.
-traveler:SEARCH_BRIBE_INTRO,Why you turn down good money?,Why you turn down good money?
-traveler:SEARCH_BRIBE_INTRO,@You are lucky to escape arrest.,@You are lucky to escape arrest.
-traveler:SEARCH_BRIBE_INTRO,@Do not come back.,@Do not come back.
-traveler:SEARCH_BRIBE_INTRO,@You cannot bribe an officer of Arstotzka.,@You cannot bribe an officer of Arstotzka.
-traveler:SEARCH_BRIBE_INTRO,"They must pay well for such obedience, dog.","They must pay well for such obedience, dog."
-traveler:TWO_PASSPORTS,Shit!,Shit!
-traveler:TWO_PASSPORTS,I make small mistake.,I make small mistake.
-traveler:TWO_PASSPORTS,Please give documents back.,Please give documents back.
-traveler:TWO_PASSPORTS,@Why do you have two passports?,@Why do you have two passports?
-traveler:TWO_PASSPORTS,Is funny story.,Is funny story.
-traveler:TWO_PASSPORTS,I tell you everything.,I tell you everything.
-traveler:TWO_PASSPORTS,"First, you give papers back to me.","First, you give papers back to me."
-traveler:TWO_PASSPORTS,And the others?,And the others?
-traveler:TWO_PASSPORTS,Last one please.,Last one please.
-traveler:IDSUPPLEMENT_COMPLAIN,This id supplement is total pain.,This id supplement is total pain.
-traveler:IDSUPPLEMENT_COMPLAIN,Was not easy to get and only lasts few days.,Was not easy to get and only lasts few days.
-traveler:IDSUPPLEMENT_COMPLAIN,You Arstotzkans just make it harder and harder.,You Arstotzkans just make it harder and harder.
-traveler:IDSUPPLEMENT_COMPLAIN,Why even have open border?,Why even have open border?
-traveler:IDSUPPLEMENT_COMPLAIN,Bah.,Bah.
-traveler:IDSUPPLEMENT_COMPLAIN,Would be better to spend money on bribe.,Would be better to spend money on bribe.
-traveler:IDSUPPLEMENT_COMPLAIN,Less trouble and faster.,Less trouble and faster.
-traveler:IDSUPPLEMENT_COMPLAIN,I knew it would not even work.,I knew it would not even work.
-traveler:CRIMINAL_FIRST,@Funny to see you here.,@Funny to see you here.
-traveler:CRIMINAL_FIRST,@Just when starting to look for criminals.,@Just when starting to look for criminals.
-traveler:CRIMINAL_FIRST,Criminals?,Criminals?
-traveler:CRIMINAL_FIRST,What are you saying?,What are you saying?
-traveler:DENIAL_REASON_FIRST,Denied?,Denied?
-traveler:DENIAL_REASON_FIRST,For what reason?,For what reason?
-traveler:DENIAL_REASON_FIRST,@It is clearly stamped there.,@It is clearly stamped there.
-traveler:DENIAL_REASON_FIRST,Oh.~,Oh.~
-traveler:DENIAL_REASON_FIRST,Screw you anyways.,Screw you anyways.
-traveler:NO_IMPORIANS_FIRST,@Imporians are prohibited from entering.,@Imporians are prohibited from entering.
-traveler:NO_IMPORIANS_DAY,@Imporians are prohibited from entering.,@Imporians are prohibited from entering.
-traveler:NO_UNITEDFED_FIRST,@Do not bring your sickness to Arstotzka.,@Do not bring your sickness to Arstotzka.
-traveler:NO_UNITEDFED_FIRST,What?,What?
-traveler:NO_UNITEDFED_FIRST,I am perfectly healthy.,I am perfectly healthy.
-traveler:NO_UNITEDFED_FIRST,It is so easy to deny entry.,It is so easy to deny entry.
-traveler:NO_UNITEDFED_FIRST,All this paperwork is wasted.,All this paperwork is wasted.
-traveler:NO_UNITEDFED,@Do not bring your sickness to Arstotzka.,@Do not bring your sickness to Arstotzka.
-traveler:NO_UNITEDFED,What?,What?
-traveler:NO_UNITEDFED,I am perfectly healthy.,I am perfectly healthy.
-traveler:NO_UNITEDFED,It is so easy to deny entry.,It is so easy to deny entry.
-traveler:NO_UNITEDFED,All this paperwork is wasted.,All this paperwork is wasted.
-traveler:CONFISCATION_DISTRICT_FIRST,Thank you. It is good to be back home.,Thank you. It is good to be back home.
-traveler:CONFISCATION_DISTRICT_FIRST,I am leaving for trip soon so I just need my passport back.,I am leaving for trip soon so I just need my passport back.
-traveler:CONFISCATION_DISTRICT_FIRST,@It is being confiscated.,@It is being confiscated.
-traveler:CONFISCATION_DISTRICT_FIRST,What do you mean?,What do you mean?
-traveler:CONFISCATION_DISTRICT_FIRST,@Contact number on slip for recovery.,@Contact number on slip for recovery.
-traveler:CONFISCATION_DISTRICT_FIRST,You can just hand it back.,You can just hand it back.
-traveler:CONFISCATION_DISTRICT_FIRST,@It has been filed. I cannot give it back.,@It has been filed. I cannot give it back.
-traveler:CONFISCATION_DISTRICT_FIRST,I am not leaving without passport.,I am not leaving without passport.
-traveler:CONFISCATION_DISTRICT_FIRST,Where is my passport?,Where is my passport?
-traveler:CONFISCATION_DISTRICT_FIRST,You deny entry and take passport?,You deny entry and take passport?
-traveler:CONFISCATION_DISTRICT_FIRST,What am I supposed to do?,What am I supposed to do?
-traveler:CONFISCATION_DISTRICT_FIRST,@Contact number on slip.,@Contact number on slip.
-traveler:CONFISCATION_DISTRICT_FIRST,You cannot do this to me!,You cannot do this to me!
-traveler:CONFISCATION_DISTRICT_FIRST,I am Arstotzkan citizen.,I am Arstotzkan citizen.
-traveler:CONFISCATION_DISTRICT_FIRST,I have right to travel freely.,I have right to travel freely.
-traveler:WHISTLEBLOWER,Thank you.,Thank you.
-traveler:WHISTLEBLOWER,I hope that things are better here.,I hope that things are better here.
-traveler:WHISTLEBLOWER,What? I was promised asylum here.,What? I was promised asylum here.
-traveler:WHISTLEBLOWER,I have nowhere else to go.,I have nowhere else to go.
-traveler:WHISTLEBLOWER,@This is not my problem.,@This is not my problem.
-traveler:ACCESSPERMIT_FIRST,You Arstotzkans keep changing rules here.,You Arstotzkans keep changing rules here.
-traveler:ACCESSPERMIT_FIRST,My sister came through last week with different documents.,My sister came through last week with different documents.
-traveler:ACCESSPERMIT_FIRST,Now I need new access permit.,Now I need new access permit.
-traveler:ACCESSPERMIT_FIRST,Costs twice as much as before.,Costs twice as much as before.
-traveler:ACCESSPERMIT_WRONG,What the hell is access permit?,What the hell is access permit?
-traveler:ACCESSPERMIT_WRONG,Do you mean entry permit?,Do you mean entry permit?
-traveler:ACCESSPERMIT_WRONG,I have it there.,I have it there.
-traveler:ACCESSPERMIT_WRONG,@I mean access permit.,@I mean access permit.
-traveler:ACCESSPERMIT_WRONG,Never heard of it. Sounds stupid.,Never heard of it. Sounds stupid.
-traveler:ACCESSPERMIT_WRONG,@Entry permit and supplement are no longer accepted.,@Entry permit and supplement are no longer accepted.
-traveler:ACCESSPERMIT_WRONG,@Access permit replaces them.,@Access permit replaces them.
-traveler:ACCESSPERMIT_WRONG,@Makes my job easier.,@Makes my job easier.
-traveler:ACCESSPERMIT_WRONG,I do not care about your job.,I do not care about your job.
-traveler:ACCESSPERMIT_WRONG,Damnit.,Damnit.
-traveler:STRICT_BORDER,I've heard this is very strict checkpoint.,I've heard this is very strict checkpoint.
-traveler:STRICT_BORDER,I am glad my papers are in order.,I am glad my papers are in order.
-traveler:DESPERATE_BEFORECLOSE,I have heard the border will close.,I have heard the border will close.
-traveler:DESPERATE_BEFORECLOSE,My access permit will not arrive in time.,My access permit will not arrive in time.
-traveler:DESPERATE_BEFORECLOSE,Please have mercy.,Please have mercy.
-traveler:DESPERATE_BEFORECLOSE,Yes I know. I just told you that.,Yes I know. I just told you that.
-traveler:DESPERATE_BEFORECLOSE,I am afraid the border will close before I can enter.,I am afraid the border will close before I can enter.
-traveler:WALLCOMMENT_PLAQUEONE,What is this plaque on the wall?,What is this plaque on the wall?
-traveler:WALLCOMMENT_PLAQUEONE,You are recognized for presence?,You are recognized for presence?
+traveler:LOVE_SONG,Is too much. I can see that now.,هذا كثير جدًا. أستطيع أن أرى ذلك الآن.
+traveler:LOVE_SONG,Next time I make couple copies first.,في المرة القادمة سأقوم بعمل نسختين أولاً.
+traveler:LOVE_SONG_LONELY,Life sucks.,الحياة سيئة.
+traveler:LOVE_SONG_LONELY,Nobody loves me.,لا أحد يحبني.
+traveler:LOVE_SONG_LONELY,For me?,لي؟
+traveler:LOVE_SONG_LONELY,Like fire?,مثل النار؟
+traveler:LOVE_SONG_LONELY,Object of desire?,هدف الرغبة؟
+traveler:LOVE_SONG_LONELY,"Wow, nobody say such nice things!","واو، لم يقل لي أحد مثل هذه الأشياء الجميلة!"
+traveler:LOVE_SONG_LONELY,Part about visa is confusing but rest is very powerful.,الجزء المتعلق بالتأشيرة محير، لكن الباقي قوي جدًا.
+traveler:LOVE_SONG_LONELY,Thank you!,شكرًا لك!
+traveler:LOVE_SONG_LONELY,Thank you again!,شكرًا لك مرة أخرى!
+traveler:LOVE_SONG_LONELY,Thanks I guess.,شكرًا اعتقد.
+traveler:LOVE_SONG_LONELY,No problem!,لا يوجد مشكلة!
+traveler:LOVE_SONG_LONELY,Today is good day anyway!,اليوم هو يوم جيد على أي حال!
+traveler:LOVE_SONG_LONELY,Even you hate me.,حتى أنت تكرهني.
+traveler:LOVE_SONG_LONELY,Some guy I do not even know.,شخصٌ ما لا أعرفه حتى.
+traveler:KOLECHIAN_HATER,It was a mistake to open this checkpoint.,كان من الخطأ فتح هذي النقطة التفتيشية.
+traveler:FINALLY_RETURN_HOME,Finally I can return home.,وأخيرًا يمكنني العودة إلى المنزل.
+traveler:FINALLY_RETURN_HOME,You bastard.,أنت وغد.
+traveler:FINALLY_RETURN_HOME,Thank you.,شكرًا لك.
+traveler:SMALL_CHECKPOINT,This checkpoint is smaller than I expected.,هذي النقطة التفتيشية أصغر مما توقعت.
+traveler:WAITED_FOREVER,I have waited in this damn line since for 8 hours.,لقد انتظرت في هذا الطابور اللعين لمدة 8 ساعات.
+traveler:WAITED_FOREVER,I hope it was worth it.,آمل أن يكون ذلك قد استحق الانتظار.
+traveler:WAITED_FOREVER,Unbelievable. Go to hell.غير معقول. اذهب إلى الجحيم.
+traveler:HURRY_UP,Hurry up.,اسرع.
+traveler:HURRY_UP,I am meeting bus soon.,سألتقي بالحافلة قريبًا.
+traveler:HURRY_UP,What is this?,ما هذا ؟
+traveler:HURRY_UP,Finally.,أخيرًا
+traveler:GLAD_YOU_HAVE_JOB,I heard about terrorist attack.,لقد سمعت عن الهجوم الإرهابي.
+traveler:GLAD_YOU_HAVE_JOB,You are lucky to have a job still.,أنت محظوظ لأن لديك وظيفة حتى الآن.
+traveler:GLAD_YOU_HAVE_JOB,Be safe.,كن آمنًا
+traveler:TICKET_NOT_PERMIT,What? I do not know. To visit?,ماذا؟ لا أعرف. للزيارة؟
+traveler:TICKET_NOT_PERMIT,A few days maybe.,ربما لبضعة أيام.
+traveler:TICKET_NOT_PERMIT,Entry permit? I have ticket here.,تصريح الدخول؟ أنا لدي تذكرة هنا.
+traveler:TICKET_NOT_PERMIT,Let me through.,دعني أمر.
+traveler:TICKET_NOT_PERMIT,@Ticket is not enough any more.,@التذكرة لم تعد كافية بعد الآن.
+traveler:TICKET_NOT_PERMIT,@Get a permit.,@احصل على تصريح.
+traveler:TICKET_NOT_PERMIT,Bullshit!,هراء!
+traveler:TICKET_NOT_PERMIT,I paid good money for ticket.,لقد دفعت مبلغًا جيدًا مقابل التذكرة.
+traveler:VISIT_SON,I am so happy that the border has opened.,أنا سعيد جدًا لأن الحدود فتحت.
+traveler:VISIT_SON,I will visit my son. I have not seen him in six years. [Speech/Purpose],سأزور ابني. لم أره منذ ست سنوات. [Speech/Purpose]
+traveler:VISIT_SON,6 months. [Speech/Duration],6 أشهر. [Speech/Duration]
+traveler:VISIT_SON,"Please, let me pass. My son is waiting.","من فضلك، دعني أمر. ابني في انتظاري."
+traveler:VISIT_SON,Thank you.,شكرًا.
+traveler:VISIT_SON,Curse you.,اللعنة عليك.
+traveler:DETAIN_FIRST,Hey wait.,مهلًا انتظر.
+traveler:DETAIN_FIRST,"Do not arrest me, please.","لا تعتقلوني, رجاءًا"
+traveler:DETAIN_FIRST,Just deny my passport and I will go away.,فقط ارفض جواز سفري وسأغادر.
+traveler:HATE_COUNTRY,It is not my choice. I hate this damn country.,لم يكن الأمر من اختياري. أنا أكره هذه الدولة اللعينة.
+traveler:HATE_COUNTRY,I am just passing through. [Speech/Purpose],أنا أمر من هنا فقط. [Speech/Purpose]
+traveler:HATE_COUNTRY,As little as possible. 2 days. [Speech/Duration],أقل قدر ممكن. يومان. [Speech/Duration]
+traveler:HATE_COUNTRY,Ugh.,آه.
+traveler:HATE_COUNTRY,Just as well.,على ما يرام.
+traveler:SEARCH_BRIBE_INTRO,Slow down my friend.,تركّد يا صديقي.
+traveler:SEARCH_BRIBE_INTRO,I have only harmless medicine.,لدي فقط دواء غير ضار.
+traveler:SEARCH_BRIBE_INTRO,I give you 10 credits to let me through.,أعطيك 10 دولار لكي تسمح لي بالمرور.
+traveler:SEARCH_BRIBE_INTRO,Excellent.,ممتاز.
+traveler:SEARCH_BRIBE_INTRO,As I promised.,كما وعدت.
+traveler:SEARCH_BRIBE_INTRO,Why you turn down good money?,لماذا ترفض المال الجيد؟
+traveler:SEARCH_BRIBE_INTRO,@You are lucky to escape arrest.,@أنت محظوظ لأنك هربت من الاعتقال.
+traveler:SEARCH_BRIBE_INTRO,@Do not come back.,@لا تعد مرة أخرى.
+traveler:SEARCH_BRIBE_INTRO,@You cannot bribe an officer of Arstotzka.,@لا يمكنك رشوة ضابط من أرستوتزكا.
+traveler:SEARCH_BRIBE_INTRO,"They must pay well for such obedience, dog.","يجب أن يدفعوا جيدًا مقابل هذه الطاعة، أيها الكلب."
+traveler:TWO_PASSPORTS,Shit!,تبًا!
+traveler:TWO_PASSPORTS,I make small mistake.,ارتكبت خطأ بسيط.
+traveler:TWO_PASSPORTS,Please give documents back.,من فضلك، أعِد الأوراق.
+traveler:TWO_PASSPORTS,@Why do you have two passports?,@لماذا لديك جوازين سفر؟
+traveler:TWO_PASSPORTS,Is funny story.,إنها قصة مضحكة
+traveler:TWO_PASSPORTS,I tell you everything.,سأخبرك بكل شيء.
+traveler:TWO_PASSPORTS,"First, you give papers back to me.","أولاً، عليك أن تعيد لي الأوراق."
+traveler:TWO_PASSPORTS,And the others?,والبقية؟
+traveler:TWO_PASSPORTS,Last one please.,الأخيرة من فضلك.
+traveler:IDSUPPLEMENT_COMPLAIN,This id supplement is total pain.,هذا الملحق الخاص بالهوية يعتبر مُتعب جدًا.
+traveler:IDSUPPLEMENT_COMPLAIN,Was not easy to get and only lasts few days.,لم يكن من السهل الحصول عليه ويستمر فقط لبضعة أيام.
+traveler:IDSUPPLEMENT_COMPLAIN,You Arstotzkans just make it harder and harder.,أنتم أيها الأرستوتزكيون تجعلون الأمور أصعب وأصعب.
+traveler:IDSUPPLEMENT_COMPLAIN,Why even have open border?,لماذا حتى لدينا الحدود مفتوحة؟
+traveler:IDSUPPLEMENT_COMPLAIN,Bah.,باه.
+traveler:IDSUPPLEMENT_COMPLAIN,Would be better to spend money on bribe.,سيكون من الأفضل إنفاق المال على الرشوة.
+traveler:IDSUPPLEMENT_COMPLAIN,Less trouble and faster.,أقل مشاكل وأسرع.
+traveler:IDSUPPLEMENT_COMPLAIN,I knew it would not even work.,كنت أعلم أنه لن ينجح حتى.
+traveler:CRIMINAL_FIRST,@Funny to see you here.,@من المضحك رؤيتك هنا.
+traveler:CRIMINAL_FIRST,@Just when starting to look for criminals.,@فقط عندما بدأنا بالبحث عن المجرمون.
+traveler:CRIMINAL_FIRST,Criminals?,مجرمون؟
+traveler:CRIMINAL_FIRST,What are you saying?,ماذا تقول ؟
+traveler:DENIAL_REASON_FIRST,Denied?,مرفوض؟
+traveler:DENIAL_REASON_FIRST,For what reason?,لأي سبب؟
+traveler:DENIAL_REASON_FIRST,@It is clearly stamped there.,@من الواضح أن السبب مختوم هناك.
+traveler:DENIAL_REASON_FIRST,Oh.~,أوه.~
+traveler:DENIAL_REASON_FIRST,Screw you anyways.,اللعنة عليك على أي حال.
+traveler:NO_IMPORIANS_FIRST,@Imporians are prohibited from entering.,@يُمنع الإمبوريون من الدخول.
+traveler:NO_IMPORIANS_DAY,@Imporians are prohibited from entering.,@يُمنع الإمبوريون من الدخول.
+traveler:NO_UNITEDFED_FIRST,@Do not bring your sickness to Arstotzka.,@لا تجلب مرضك إلى أرستوتزكا
+traveler:NO_UNITEDFED_FIRST,What?,ماذا؟
+traveler:NO_UNITEDFED_FIRST,I am perfectly healthy.,أنا بصحة جيدة تمامًا.
+traveler:NO_UNITEDFED_FIRST,It is so easy to deny entry.,أنه من السهل رفض الدخول.
+traveler:NO_UNITEDFED_FIRST,All this paperwork is wasted.,كل هذه الأوراق مهدرة.
+traveler:NO_UNITEDFED,@Do not bring your sickness to Arstotzka.,@لا تجلب مرضك إلى أرستوتزكا
+traveler:NO_UNITEDFED,What?,ماذا؟
+traveler:NO_UNITEDFED,I am perfectly healthy.,أنا بصحة جيدة تمامًا.
+traveler:NO_UNITEDFED,It is so easy to deny entry.,أنه من السهل رفض الدخول.
+traveler:NO_UNITEDFED,All this paperwork is wasted.,كل هذه الأوراق مهدرة.
+traveler:CONFISCATION_DISTRICT_FIRST,Thank you. It is good to be back home.,Thank you. شكرا لك. من الجيد أن أعود إلى المنزل.
+traveler:CONFISCATION_DISTRICT_FIRST,I am leaving for trip soon so I just need my passport back.,سأغادر في رحلة قريبًا، لذا أحتاج فقط إلى استعادة جواز سفري.
+traveler:CONFISCATION_DISTRICT_FIRST,@It is being confiscated.,@سيتم مصادرته.
+traveler:CONFISCATION_DISTRICT_FIRST,What do you mean?,ماذا تعني؟
+traveler:CONFISCATION_DISTRICT_FIRST,@Contact number on slip for recovery.,@رقم الاتصال موجود على الإيصال لاستعادة الجواز.
+traveler:CONFISCATION_DISTRICT_FIRST,You can just hand it back.,يمكنك فقط إعادته.
+traveler:CONFISCATION_DISTRICT_FIRST,@It has been filed. I cannot give it back.,@تم تقديمه. لا أستطيع إعادته.
+traveler:CONFISCATION_DISTRICT_FIRST,I am not leaving without passport.,لن أغادر من دون جواز سفر.
+traveler:CONFISCATION_DISTRICT_FIRST,Where is my passport?,أين جواز سفري ؟
+traveler:CONFISCATION_DISTRICT_FIRST,You deny entry and take passport?,أنت ترفض الدخول وتأخذ جواز السفر؟
+traveler:CONFISCATION_DISTRICT_FIRST,What am I supposed to do?,ماذا يجب أن أفعل؟
+traveler:CONFISCATION_DISTRICT_FIRST,@Contact number on slip.,@رقم الإتصال موجود في الإيصال.
+traveler:CONFISCATION_DISTRICT_FIRST,You cannot do this to me!,لا يمكنك أن تفعل هذا بي!
+traveler:CONFISCATION_DISTRICT_FIRST,I am Arstotzkan citizen.,أنا مواطن أرستوتزكي.
+traveler:CONFISCATION_DISTRICT_FIRST,I have right to travel freely.,لدي الحق في السفر بحرّية.
+traveler:WHISTLEBLOWER,Thank you.,شكرًا
+traveler:WHISTLEBLOWER,I hope that things are better here.,آمل أن تكون الأمور أفضل هنا.
+traveler:WHISTLEBLOWER,What? I was promised asylum here.,ماذا؟ لقد وعدوني باللجوء هنا.
+traveler:WHISTLEBLOWER,I have nowhere else to go.,ليس لدي مكان آخر للذهاب إليه.
+traveler:WHISTLEBLOWER,@This is not my problem.,@هذه ليس مشكلتي.
+traveler:ACCESSPERMIT_FIRST,You Arstotzkans keep changing rules here.,أنتم الأرستوتزكيون تستمرون في تغيير القوانين هنا.
+traveler:ACCESSPERMIT_FIRST,My sister came through last week with different documents.,أختي مرت من هنا الأسبوع الماضي بوثائق مختلفة.
+traveler:ACCESSPERMIT_FIRST,Now I need new access permit.,الآن أحتاج إلى تصريح وصول جديد.
+traveler:ACCESSPERMIT_FIRST,Costs twice as much as before.,تكلفتها ضعف ما كانت عليه من قبل.
+traveler:ACCESSPERMIT_WRONG,What the hell is access permit?,ما هو تصريح الوصول بحق الجحيم؟
+traveler:ACCESSPERMIT_WRONG,Do you mean entry permit?,هل تقصد تصريح الدخول؟
+traveler:ACCESSPERMIT_WRONG,I have it there.,لدي ذلك.
+traveler:ACCESSPERMIT_WRONG,@I mean access permit.,@أقصد تصريح الوصول.
+traveler:ACCESSPERMIT_WRONG,Never heard of it. Sounds stupid.,لم اسمع به من قبل. يبدو غبيًا.
+traveler:ACCESSPERMIT_WRONG,@Entry permit and supplement are no longer accepted.,@لم يعد يتم قبول تصريح الدخول والملحق.
+traveler:ACCESSPERMIT_WRONG,@Access permit replaces them.,@تصريح الوصول يحل محلهم.
+traveler:ACCESSPERMIT_WRONG,@Makes my job easier.,@يجعل عملي أسهل.
+traveler:ACCESSPERMIT_WRONG,I do not care about your job.,أنا لا أهتم بعملك.
+traveler:ACCESSPERMIT_WRONG,Damnit.,اللعنة.
+traveler:STRICT_BORDER,I've heard this is very strict checkpoint.,لقد سمعت أن هذه نقطة تفتيش صارمة للغاية.
+traveler:STRICT_BORDER,I am glad my papers are in order.,أنا سعيد لأن أوراقي مرتبة.
+traveler:DESPERATE_BEFORECLOSE,I have heard the border will close.,سمعت أن الحدود ستغلق.
+traveler:DESPERATE_BEFORECLOSE,My access permit will not arrive in time.,تصريح الوصول الخاص بي لن يصل في الوقت المناسب.
+traveler:DESPERATE_BEFORECLOSE,Please have mercy.,من فضلك، ارأف بي.
+traveler:DESPERATE_BEFORECLOSE,Yes I know. I just told you that.,نعم، أعلم. لقد أخبرتك بذلك للتو.
+traveler:DESPERATE_BEFORECLOSE,I am afraid the border will close before I can enter.,أخشى أن تُغلق الحدود قبل أن أتمكن من الدخول.
+traveler:WALLCOMMENT_PLAQUEONE,What is this plaque on the wall?,ما هذه اللوحة التي على الحائط؟
+traveler:WALLCOMMENT_PLAQUEONE,You are recognized for presence?,هل أنت معترف به بالحضور؟
 traveler:WALLCOMMENT_PLAQUEONE,Way to go.,Way to go.
-traveler:WALLCOMMENT_PLAQUEONE,What is this on the wall?,What is this on the wall?
-traveler:WALLCOMMENT_PLAQUEONE,Recognized for sufficience?,Recognized for sufficience?
-traveler:WALLCOMMENT_PLAQUEONE,Impressive. Why even bother with plaque?,Impressive. Why even bother with plaque?
-traveler:WALLCOMMENT_PLAQUEONE,You are recognized for excellence?,You are recognized for excellence?
-traveler:WALLCOMMENT_PLAQUEONE,I hope they give you raise and not just plaque.,I hope they give you raise and not just plaque.
-traveler:WALLCOMMENT_PLAQUEONE,Find a better plaque.,Find a better plaque.
-traveler:WALLCOMMENT_PLAQUEONE,This one looks like cheap shit.,This one looks like cheap shit.
-traveler:WALLCOMMENT_PLAQUEONE,Figures.,Figures.
-traveler:WALLCOMMENT_PLAQUEONE,You are like this plaque.,You are like this plaque.
-traveler:WALLCOMMENT_PLAQUEONE,Cheap shit.,Cheap shit.
-traveler:WALLCOMMENT_PLAQUEONE,What the hell?,What the hell?
-traveler:WALLCOMMENT_ARSKICKER,Nice banner!,Nice banner!
-traveler:WALLCOMMENT_ARSKICKER,I remember that game.,I remember that game.
-traveler:WALLCOMMENT_ARSKICKER,Intense.,Intense.
-traveler:WALLCOMMENT_ARSKICKER,Go Arskickers!,Go Arskickers!
-traveler:WALLCOMMENT_ARSKICKER,What the hell?,What the hell?
-traveler:WALLCOMMENT_ARSKICKER,I thought we have Arskickers connection.,I thought we have Arskickers connection.
-traveler:WALLCOMMENT_SONDRAWING,What is this drawing on the wall?,What is this drawing on the wall?
-traveler:WALLCOMMENT_SONDRAWING,My dog can do better.,My dog can do better.
-traveler:WALLCOMMENT_SONDRAWING,@It is from my son.,@It is from my son.
-traveler:WALLCOMMENT_SONDRAWING,Oh.~,Oh.~
-traveler:WALLCOMMENT_SONDRAWING,Maybe he should try sports.,Maybe he should try sports.
-traveler:WALLCOMMENT_SONDRAWING,Thanks.,Thanks.
-traveler:WALLCOMMENT_SONDRAWING,The drawing is not so bad really.,The drawing is not so bad really.
-traveler:WALLCOMMENT_SONDRAWING,I was just in rough mood. Sorry.,I was just in rough mood. Sorry.
-traveler:WALLCOMMENT_SONDRAWING,Huh?,Huh?
-traveler:WALLCOMMENT_SONDRAWING,"You deny me for comment about drawing, right?","You deny me for comment about drawing, right?"
-traveler:WALLCOMMENT_SONDRAWING,@The exit is to your right.,@The exit is to your right.
-traveler:WALLCOMMENT_SONDRAWING,What are you doing?,What are you doing?
-traveler:WALLCOMMENT_SONDRAWING,Is this because I make fun of drawing?,Is this because I make fun of drawing?
-traveler:WALLCOMMENT_SONDRAWING,I take it back!,I take it back!
-traveler:WALLCOMMENT_SONDRAWING,Picture should be in museum!,Picture should be in museum!
-traveler:WALLCOMMENT_FAMILYPHOTO,I like picture on wall here.,I like picture on wall here.
-traveler:WALLCOMMENT_FAMILYPHOTO,Reminds me of how my family was.,Reminds me of how my family was.
-traveler:WALLCOMMENT_FAMILYPHOTO,Thank you.,Thank you.
-traveler:WALLCOMMENT_FAMILYPHOTO,Take care of your family.,Take care of your family.
-traveler:WALLCOMMENT_FAMILYPHOTO,It is too easy to lose them.,It is too easy to lose them.
-speech:ask-purpose,What is the purpose of your trip?,What is the purpose of your trip?
-speech:state-purpose,Visiting.,Visiting.
-speech:state-purpose,Just visiting.,Just visiting.
-speech:state-purpose,I am visiting relatives.,I am visiting relatives.
-speech:state-purpose,Visiting friends.,Visiting friends.
-speech:state-purpose,I come for visit.,I come for visit.
-speech:state-purpose,Only to visit.,Only to visit.
-speech:state-purpose,I will visit friends.,I will visit friends.
-speech:state-purpose,Transit.,Transit.
-speech:state-purpose,I pass through.,I pass through.
-speech:state-purpose,Transit through the country.,Transit through the country.
-speech:state-purpose,I am transiting to elsewhere.,I am transiting to elsewhere.
-speech:state-purpose,Transit through Arstotzka.,Transit through Arstotzka.
-speech:state-purpose,Passing through.,Passing through.
-speech:state-purpose,I am in transit.,I am in transit.
-speech:state-purpose,Work.,Work.
-speech:state-purpose,I come to work.,I come to work.
-speech:state-purpose,I have job here.,I have job here.
-speech:state-purpose,I plan to work.,I plan to work.
-speech:state-purpose,Immigrating.,Immigrating.
-speech:state-purpose,I am immigrating to Arstotzka.,I am immigrating to Arstotzka.
-speech:state-purpose,I will move here.,I will move here.
-speech:state-purpose,I am coming to live with my husband.,I am coming to live with my husband.
-speech:state-purpose,I am coming to live with my wife.,I am coming to live with my wife.
-speech:state-purpose,I am diplomatic envoy.,I am diplomatic envoy.
-speech:state-purpose,I was called to diplomatic discussions.,I was called to diplomatic discussions.
-speech:state-purpose,My presence was requested.,My presence was requested.
-speech:state-purpose,I am seeking asylum.,I am seeking asylum.
-speech:state-purpose,I come for political asylum.,I come for political asylum.
-speech:state-purpose,Asylum.,Asylum.
-speech:ask-wrong-purpose,This entry permit is for work.,This entry permit is for work.
-speech:ask-wrong-purpose,You are authorized for transit only.,You are authorized for transit only.
-speech:ask-wrong-purpose,You have only a visitors entry permit.,You have only a visitors entry permit.
-speech:ask-wrong-purpose,This entry permit is for immigrating.,This entry permit is for immigrating.
-speech:ask-wrong-purpose,Your entry purpose does not match up.,Your entry purpose does not match up.
-speech:ask-wrong-purpose,This entry permit purpose does not match.,This entry permit purpose does not match.
-speech:mistake-prefix,Right.,Right.
-speech:mistake-prefix,I make mistake.,I make mistake.
-speech:mistake-prefix,"Yes, of course.","Yes, of course."
-speech:mistake-prefix,Apologies.,Apologies.
+traveler:WALLCOMMENT_PLAQUEONE,What is this on the wall?,ما هذا الذي على الحائط؟
+traveler:WALLCOMMENT_PLAQUEONE,Recognized for sufficience?,معترف به بالكفاءة؟
+traveler:WALLCOMMENT_PLAQUEONE,Impressive. Why even bother with plaque?,مُبهر. لماذا نهتم باللوحة أصلًا؟
+traveler:WALLCOMMENT_PLAQUEONE,You are recognized for excellence?,هل أنت معترف بك بالتميز؟
+traveler:WALLCOMMENT_PLAQUEONE,I hope they give you raise and not just plaque.,أتمنى أن يمنحوك زيادة في الراتب وليس مجرد لوحة.
+traveler:WALLCOMMENT_PLAQUEONE,Find a better plaque.,ابحث عن لوحة أفضل.
+traveler:WALLCOMMENT_PLAQUEONE,This one looks like cheap shit.,تبدو هذه اللوحة رخيصة بشكل مقرف.
+traveler:WALLCOMMENT_PLAQUEONE,Figures.,من المتوقع.
+traveler:WALLCOMMENT_PLAQUEONE,You are like this plaque.,أنك مثل هذه اللوحة.
+traveler:WALLCOMMENT_PLAQUEONE,Cheap shit.,رخيص بشكل مقرف.
+traveler:WALLCOMMENT_PLAQUEONE,What the hell?,ما هذا بحق الجحيم؟
+traveler:WALLCOMMENT_ARSKICKER,Nice banner!,لافتة جميلة!
+traveler:WALLCOMMENT_ARSKICKER,I remember that game.,أتذكر تلك المباراة.
+traveler:WALLCOMMENT_ARSKICKER,Intense.,كانت مشتدّة
+traveler:WALLCOMMENT_ARSKICKER,Go Arskickers!,هيا يا أرسكيكرز!
+traveler:WALLCOMMENT_ARSKICKER,What the hell?,ما هذا بحق الجحيم؟
+traveler:WALLCOMMENT_ARSKICKER,I thought we have Arskickers connection.,أعتقدت أن لدينا اتفاق لأرسكيكرز!
+traveler:WALLCOMMENT_SONDRAWING,What is this drawing on the wall?,ما هذه الرسمة التي على الحائط؟
+traveler:WALLCOMMENT_SONDRAWING,My dog can do better.,كلبي يمكنه أن يرسم بشكل أفضل.
+traveler:WALLCOMMENT_SONDRAWING,@It is from my son.,@إنها من إبني.
+traveler:WALLCOMMENT_SONDRAWING,Oh.~,أوه.~
+traveler:WALLCOMMENT_SONDRAWING,Maybe he should try sports.,ربما يجب عليه أن يجرب الرياضة.
+traveler:WALLCOMMENT_SONDRAWING,Thanks.,شكرًا.
+traveler:WALLCOMMENT_SONDRAWING,The drawing is not so bad really.,الرسم ليس سيئًا للغايا.
+traveler:WALLCOMMENT_SONDRAWING,I was just in rough mood. Sorry.,كنت في مزاج سيء. آسف.
+traveler:WALLCOMMENT_SONDRAWING,Huh?,هاه؟
+traveler:WALLCOMMENT_SONDRAWING,"You deny me for comment about drawing, right?",""هل ترفضني بسبب تعليقي عن الرسم، أليس كذلك؟"
+traveler:WALLCOMMENT_SONDRAWING,@The exit is to your right.,@الخروج على يمينك.
+traveler:WALLCOMMENT_SONDRAWING,What are you doing?,ماذا تفعل؟
+traveler:WALLCOMMENT_SONDRAWING,Is this because I make fun of drawing?,هل هذا لأنني أسخر من الرسم؟
+traveler:WALLCOMMENT_SONDRAWING,I take it back!,أرجع عن كلامي!
+traveler:WALLCOMMENT_SONDRAWING,Picture should be in museum!,يجب أن تكون الصورة في المتحف!
+traveler:WALLCOMMENT_FAMILYPHOTO,I like picture on wall here.,أعجبتني الصورة التي على الحائط هنا.
+traveler:WALLCOMMENT_FAMILYPHOTO,Reminds me of how my family was.,تذكرني بكيف كانت عائلتي.
+traveler:WALLCOMMENT_FAMILYPHOTO,Thank you.,شكرًا لك.
+traveler:WALLCOMMENT_FAMILYPHOTO,Take care of your family.,اعتني بعائلتك.
+traveler:WALLCOMMENT_FAMILYPHOTO,It is too easy to lose them.,من السهل جدًا أن نفقدهم.
+speech:ask-purpose,What is the purpose of your trip?,ما هو غرض رحلتك؟
+speech:state-purpose,Visiting.,زيارة.
+speech:state-purpose,Just visiting.,مجرد زيارة.
+speech:state-purpose,I am visiting relatives.,أنا أزور أقاربي.
+speech:state-purpose,Visiting friends.,زيارة الأصدقاء.
+speech:state-purpose,I come for visit.,لقد جئت للزيارة.
+speech:state-purpose,Only to visit.,للزيارة فقط
+speech:state-purpose,I will visit friends.,سأزور أصدقائي.
+speech:state-purpose,Transit.,ترانزيت.
+speech:state-purpose,I pass through.,أعبر.
+speech:state-purpose,Transit through the country.,العبور عبر البلد.
+speech:state-purpose,I am transiting to elsewhere.,أنا في الترانزيت إلى مكان آخر.
+speech:state-purpose,Transit through Arstotzka.,المرور عبر أرستوتزكا
+speech:state-purpose,Passing through.,المرور.
+speech:state-purpose,I am in transit.,أنا في ترانزيت.
+speech:state-purpose,Work.,عمل.
+speech:state-purpose,I come to work.,أتيت للعمل
+speech:state-purpose,I have job here.,لدي وظيفة هنا.
+speech:state-purpose,I plan to work.,أخطط للعمل.
+speech:state-purpose,Immigrating.,هجرة.
+speech:state-purpose,I am immigrating to Arstotzka.,أنا سأهاجر إلى أرستوتزكا
+speech:state-purpose,I will move here.,سأنتقل إلى هنا
+speech:state-purpose,I am coming to live with my husband.,أنا أتيت للعيش مع زوجي.
+speech:state-purpose,I am coming to live with my wife.,أنا أتيت للعيش مع زوجتي.
+speech:state-purpose,I am diplomatic envoy.,أنا مبعوث دبلوماسي.
+speech:state-purpose,I was called to diplomatic discussions.,لقد تم استدعائي إلى مناقشات دبلوماسية.
+speech:state-purpose,My presence was requested.,لقد تم طلب حضوري.
+speech:state-purpose,I am seeking asylum.,أنا أطلب اللجوء.
+speech:state-purpose,I come for political asylum.,لقد جئت للحصول على اللجوء السياسي.
+speech:state-purpose,Asylum.,لجوء
+speech:ask-wrong-purpose,This entry permit is for work.,تصريح الدخول هذا للعمل.
+speech:ask-wrong-purpose,You are authorized for transit only.,أنت مُصرح لك بالعبور فقط.
+speech:ask-wrong-purpose,You have only a visitors entry permit.,لديك تصريح دخول للزوار فقط.
+speech:ask-wrong-purpose,This entry permit is for immigrating.,هذا تصريح الدخول للهجرة.
+speech:ask-wrong-purpose,Your entry purpose does not match up.,غرض دخولك لا يتطابق.
+speech:ask-wrong-purpose,This entry permit purpose does not match.,غرض تصريح الدخول لا يتطابق.
+speech:mistake-prefix,Right.,صحيح.
+speech:mistake-prefix,I make mistake.,لقد ارتكبت خطأ.
+speech:mistake-prefix,"Yes, of course.","نعم بالطبع."
+speech:mistake-prefix,Apologies.,آسف.
 speech:wrong-purpose,$mistake-prefix I am just visiting.,$mistake-prefix I am just visiting.
 speech:wrong-purpose,$mistake-prefix I just pass through.,$mistake-prefix I just pass through.
 speech:wrong-purpose,$mistake-prefix I have come to work.,$mistake-prefix I have come to work.
 speech:wrong-purpose,$mistake-prefix I move here permanently.,$mistake-prefix I move here permanently.
-speech:ask-duration,Duration of stay?,Duration of stay?
-speech:random-stay,I stay,I stay
-speech:random-stay,I remain for,I remain for
-speech:random-stay,It will be,It will be
+speech:ask-duration,Duration of stay?,مدة الإقامة؟
+speech:random-stay,I stay,أنا ابقى
+speech:random-stay,I remain for,سأبقى لمدة
+speech:random-stay,It will be,سيكون ذلك
 speech:state-duration,$random-stay forever.,$random-stay forever.
 speech:state-duration,$random-stay until I die.,$random-stay until I die.
-speech:state-duration,I don't plan to leave.,I don't plan to leave.
+speech:state-duration,I don't plan to leave.,أنا لا أخطط للمغادرة.
 speech:state-duration,$random-stay just 2 days.,$random-stay just 2 days.
 speech:state-duration,$random-stay couple days.,$random-stay couple days.
 speech:state-duration,$random-stay just 14 days.,$random-stay just 14 days.
@@ -289,356 +289,356 @@ speech:state-duration,$random-stay half a year.,$random-stay half a year.
 speech:state-duration,$random-stay one year.,$random-stay one year.
 speech:state-duration,$random-stay full year.,$random-stay full year.
 speech:state-duration,$random-stay a year.,$random-stay a year.
-speech:ask-wrong-duration,The length of your stay is different.,The length of your stay is different.
+speech:ask-wrong-duration,The length of your stay is different.,مدة إقامتك مختلفة.
 speech:wrong-duration,$mistake-prefix $state-duration,$mistake-prefix $state-duration
-speech:ask-forgery-missing,This document is missing its seal.,This document is missing its seal.
-speech:ask-forgery-missing,There is no seal here.,There is no seal here.
-speech:ask-forgery-missing,I do not see the required seal here.,I do not see the required seal here.
-speech:ask-forgery-wrong,This document is forged.,This document is forged.
-speech:ask-forgery-wrong,This is a forgery.,This is a forgery.
-speech:ask-forgery-idcard,This card contains false information.,This card contains false information.
-speech:ask-forgery-diplo,This seal is forged.,This seal is forged.
-speech:ask-forgery-diplo,This seal is not correct.,This seal is not correct.
-speech:ask-forgery-asylumgrant,This seal is forged.,This seal is forged.
-speech:ask-forgery-asylumgrant,This grant is not sealed properly.,This grant is not sealed properly.
-speech:ask-wrong-birthdate,These dates do not match.,These dates do not match.
-speech:forgery,I have no idea what you are talking about.,I have no idea what you are talking about.
-speech:forgery,I do not know anything about that.,I do not know anything about that.
-speech:forgery,I do not understand.,I do not understand.
-speech:ask-expired-paper,This document has expired.,This document has expired.
-speech:ask-expired-paper,You cannot enter using an expired document.,You cannot enter using an expired document.
-speech:expired-permit,I could not come until now.,I could not come until now.
-speech:expired-permit,I was busy.,I was busy.
-speech:expired-passport,What? That is mistake. I just renewed it.,What? That is mistake. I just renewed it.
-speech:expired-passport,That must be a typographical error.,That must be a typographical error.
-speech:expired-asylumgrant,There was nothing I could do.,There was nothing I could do.
-speech:expired-asylumgrant,My travel was difficult.,My travel was difficult.
-speech:expired-asylumgrant,"Please, have mercy.","Please, have mercy."
-speech:ask-missing-passport,Where is passport?,Where is passport?
-speech:ask-missing-passport,A passport is required.,A passport is required.
-speech:missing-passport,They took away my passport.,They took away my passport.
-speech:missing-passport,What is passport?,What is passport?
-speech:ask-missing-entrypermit,Where is the entry permit?,Where is the entry permit?
-speech:ask-missing-entrypermit,You have no entry permit.,You have no entry permit.
-speech:ask-missing-entrypermit,The entry permit is missing.,The entry permit is missing.
-speech:missing-permit,I was not able to get one.,I was not able to get one.
-speech:missing-permit,What is that?,What is that?
-speech:missing-permit,Do I need one?,Do I need one?
-speech:missing-permit,Is required?,Is required?
-speech:missing-permit,I lost it.,I lost it.
-speech:missing-permit,I did not know it was required.,I did not know it was required.
-speech:ask-missing-workpermit,Where is the work pass?,Where is the work pass?
-speech:ask-missing-workpermit,You have no work pass.,You have no work pass.
-speech:ask-missing-workpermit,The work pass is missing.,The work pass is missing.
-speech:missing-workpermit,I will get one after I enter.,I will get one after I enter.
-speech:ask-missing-idcard,Where is your id card?,Where is your id card?
-speech:ask-missing-idcard,I need your id card.,I need your id card.
-speech:missing-idcard,I never got one.,I never got one.
-speech:missing-idcard,I left before they were issued.,I left before they were issued.
-speech:missing-idcard,I lost it.,I lost it.
-speech:ask-missing-idsupplement,You must carry an id supplement.,You must carry an id supplement.
-speech:ask-missing-idsupplement,Where is your id supplement?,Where is your id supplement?
-speech:missing-idsupplement,I never got one.,I never got one.
-speech:missing-idsupplement,What is a supplement?,What is a supplement?
-speech:missing-idsupplement,This was not provided to me.,This was not provided to me.
-speech:ask-missing-asylumgrant,You have no grant for asylum.,You have no grant for asylum.
-speech:ask-missing-asylumgrant,Where is your asylum grant?,Where is your asylum grant?
-speech:missing-asylumgrant,I could not secure one in time.,I could not secure one in time.
-speech:missing-asylumgrant,I have none.,I have none.
-speech:missing-asylumgrant,What is that?,What is that?
-speech:ask-missing-accesspermit,Where is the access permit?,Where is the access permit?
-speech:ask-missing-accesspermit,You have no access permit.,You have no access permit.
-speech:ask-missing-accesspermit,The access permit is missing.,The access permit is missing.
-speech:ask-wrong-name,These names do not match.,These names do not match.
-speech:wrong-name,I have two different names.,I have two different names.
-speech:wrong-name,I have multiple names.,I have multiple names.
-speech:wrong-name,My name was changed recently.,My name was changed recently.
-speech:ask-wrong-workend,You are not authorized to work this long.,You are not authorized to work this long.
-speech:ask-wrong-workend,This work pass expires before your visit.,This work pass expires before your visit.
-speech:wrong-workend,I will renew the pass soon.,I will renew the pass soon.
-speech:wrong-workend,I am planning to renew it.,I am planning to renew it.
-speech:wrong-workend,My entry permit is longer than I need.,My entry permit is longer than I need.
-speech:ask-wrong-idnumber,These numbers do not match.,These numbers do not match.
-speech:ask-wrong-idnumber,There is a discrepancy here.,There is a discrepancy here.
-speech:ask-wrong-idnumber,There are two different numbers here.,There are two different numbers here.
-speech:wrong-idnumber,It must be a mistake. The document is valid.,It must be a mistake. The document is valid.
-speech:wrong-idnumber,Check again.,Check again.
-speech:ask-wrong-face,This does not look like you.,This does not look like you.
-speech:ask-wrong-face,Your picture. It is different.,Your picture. It is different.
-speech:ask-wrong-face,Your appearance has changed.,Your appearance has changed.
-speech:wrong-face,It is an old picture.,It is an old picture.
-speech:wrong-face,I had surgery.,I had surgery.
-speech:wrong-face,The years have been cruel.,The years have been cruel.
-speech:wrong-face,I do not know what to say. It is me.,I do not know what to say. It is me.
-speech:ask-wrong-issuingcity,This issuing city is incorrect.,This issuing city is incorrect.
-speech:ask-wrong-issuingcity,Your passport has false information.,Your passport has false information.
-speech:ask-wrong-gender,You are a man?,You are a man?
-speech:ask-wrong-gender,It says here that you are male.,It says here that you are male.
-speech:ask-wrong-gender,You are a woman?,You are a woman?
-speech:ask-wrong-gender,Your passport says you are female.,Your passport says you are female.
-speech:ask-wrong-gender,Are you a woman or a man?,Are you a woman or a man?
-speech:ask-wrong-gender,You are male or female?,You are male or female?
-speech:wrong-gender,The passport is correct.,The passport is correct.
-speech:wrong-gender,Why do you ask?,Why do you ask?
-speech:wrong-gender,As the document says.,As the document says.
-speech:wrong-gender,What is this question?,What is this question?
-speech:ask-wrong-gender-busted,There is a problem with your documentation.,There is a problem with your documentation.
-speech:ask-approved,Glory to Arstotzka.,Glory to Arstotzka.
-speech:ask-approved,Cause no trouble.,Cause no trouble.
-speech:ask-nativesonly,Try again.,Try again.
-speech:ask-nativesonly,Arstotzkans only.,Arstotzkans only.
-speech:ask-wrong-nation,No entry from Obristan.,No entry from Obristan.
-speech:ask-wrong-nation,No entry from Kolechia.,No entry from Kolechia.
-speech:ask-wrong-nation,No entry from United Federation.,No entry from United Federation.
-speech:ask-wrong-nation,No entry from Antegria.,No entry from Antegria.
-speech:ask-wrong-nation,No entry from Republia.,No entry from Republia.
-speech:ask-wrong-nation,No entry from Arstotzka.,No entry from Arstotzka.
-speech:ask-wrong-nation,No entry from Impor.,No entry from Impor.
-speech:ask-search,Face the scanner.,Face the scanner.
-speech:ask-search,Turn towards the scanner.,Turn towards the scanner.
-speech:ask-detain,Wait here.,Wait here.
-speech:ask-detain,One moment please.,One moment please.
-speech:detain,What are you doing?,What are you doing?
-speech:detain,What is happening?,What is happening?
-speech:detain,What is this?,What is this?
-speech:detain,You cannot do this!,You cannot do this!
-speech:detain,What will happen to me?,What will happen to me?
-speech:detain,Who do you think you are?,Who do you think you are?
-speech:detain,You have no authority for this!,You have no authority for this!
-speech:detain,You are a fool!,You are a fool!
-speech:ask-search-enabled,You have been selected for a random search.,You have been selected for a random search.
-speech:ask-wrong-entryticket-date,This ticket is for another day.,This ticket is for another day.
-speech:ask-wrong-entryticket-date,You cannot enter today.,You cannot enter today.
-speech:ask-wrong-entryticket-date,The date on this ticket is wrong.,The date on this ticket is wrong.
-speech:wrong-entryticket-date,It is my mistake.,It is my mistake.
-speech:wrong-entryticket-date,Oh?,Oh?
-speech:ask-missing-entryticket,You cannot enter without a ticket.,You cannot enter without a ticket.
-speech:ask-missing-entryticket,Foreigners must present an entry ticket.,Foreigners must present an entry ticket.
-speech:ask-missing-entryticket,Where is your entry ticket?,Where is your entry ticket?
-speech:missing-entryticket,I do not know what that is.,I do not know what that is.
-speech:missing-entryticket,I have none.,I have none.
-speech:missing-entryticket,It was lost.,It was lost.
-speech:ask-wrong-identity,I cannot verify your identity.,I cannot verify your identity.
-speech:ask-wrong-identity,Your identity does not match.,Your identity does not match.
-speech:ask-wrong-alias,There is no record of this name.,There is no record of this name.
-speech:ask-wrong-alias,I cannot verify your alias.,I cannot verify your alias.
-speech:ask-wrong-fingerprints,Your fingerprints do not match our records.,Your fingerprints do not match our records.
-speech:ask-wrong-fingerprints,I cannot verify your fingerprints.,I cannot verify your fingerprints.
-speech:ask-contraband,There is zero tolerance for contraband.,There is zero tolerance for contraband.
-speech:ask-contraband,You have made a mistake coming here.,You have made a mistake coming here.
-speech:contraband,You can see that?,You can see that?
-speech:contraband,What?,What?
-speech:contraband,I know nothing.,I know nothing.
-speech:contraband,Is it so obvious?,Is it so obvious?
-speech:ask-wrong-information,This information does not look correct.,This information does not look correct.
-speech:ask-wrong-information,This is incorrect.,This is incorrect.
-speech:ask-wrong-height,Your height is different.,Your height is different.
-speech:wrong-height,Perhaps my shoes are different.,Perhaps my shoes are different.
-speech:wrong-height,It is a natural difference.,It is a natural difference.
-speech:ask-wrong-weight,Your weight is different.,Your weight is different.
-speech:wrong-weight,I am wearing different clothes.,I am wearing different clothes.
-speech:wrong-weight,My weight has changed naturally.,My weight has changed naturally.
-speech:ask-criminal,You have interesting face.,You have interesting face.
-speech:ask-criminal,Maybe you should not have come.,Maybe you should not have come.
-speech:ask-criminal,We have some questions for you.,We have some questions for you.
-speech:criminal,I have nothing to say.,I have nothing to say.
-speech:criminal,Let me through or you will regret it.,Let me through or you will regret it.
-speech:criminal,I do not like your tone.,I do not like your tone.
-speech:ask-wrong-description,This does not sound like you.,This does not sound like you.
-speech:ask-wrong-description,You do not match this description.,You do not match this description.
-speech:wrong-description,I have changed.,I have changed.
-speech:wrong-description,How can you say for sure?,How can you say for sure?
-speech:wrong-description,Is that good or bad?,Is that good or bad?
-speech:hidden-paper,Here it is.,Here it is.
-speech:hidden-paper,Sorry. I have it here.,Sorry. I have it here.
-speech:hidden-paper,I have it here.,I have it here.
-speech:hidden-paper,Here.,Here.
-speech:ask-wrong-thumbprint,Your thumb print does not match.,Your thumb print does not match.
-speech:ask-wrong-thumbprint,This print does not match.,This print does not match.
-speech:ask-wrong-diploaccess,Your diplomatic authorization does not cover Arstotzka.,Your diplomatic authorization does not cover Arstotzka.
-speech:ask-wrong-diploaccess,You have no diplomatic rights here.,You have no diplomatic rights here.
-speech:ask-wrong-diploaccess,This authorization does not include Arstotzka.,This authorization does not include Arstotzka.
-speech:wrong-diploaccess,Nonsense.,Nonsense.
-speech:wrong-diploaccess,Check with your superiors.,Check with your superiors.
-speech:wrong-diploaccess,I have full authorization.,I have full authorization.
-speech:ask-missing-vaccinecert,Where is the vaccine certification?,Where is the vaccine certification?
-speech:ask-missing-vaccinecert,Where is your proof of vaccination?,Where is your proof of vaccination?
-speech:ask-missing-vaccinecert,All entrants must be vaccinated.,All entrants must be vaccinated.
-speech:missing-vaccinecert,I do not believe in vaccines.,I do not believe in vaccines.
-speech:missing-vaccinecert,I could not afford certification.,I could not afford certification.
-speech:ask-vaccine-expired,This vaccine has expired.,This vaccine has expired.
-speech:ask-vaccine-expired,This vaccine is no longer active.,This vaccine is no longer active.
-speech:ask-vaccine-wrongdrugs,You are missing the required vaccination.,You are missing the required vaccination.
-speech:ask-vaccine-wrongdrugs,This vaccine certificate is insufficient.,This vaccine certificate is insufficient.
-speech:trade-fingerprints,Here.,Here.
-speech:trade-fingerprints,Is this ok?,Is this ok?
-speech:trade-fingerprints,Here are my fingerprints.,Here are my fingerprints.
-speech:trade-fingerprints,Now I have ink everywhere.,Now I have ink everywhere.
-speech:default,Please let me through.,Please let me through.
-speech:default,What are you talking about?,What are you talking about?
-speech:default,I know nothing about this.,I know nothing about this.
-speech:default,I do not know what to say.,I do not know what to say.
-speech:default,Oh?,Oh?
-face:M00,Short Hair,Short Hair
-face:M00,Good Vision,Good Vision
-face:M00,Balding,Balding
-face:M00,Glasses,Glasses
-face:M00,Large Mustache,Large Mustache
-face:M01,Bald,Bald
-face:M01,Large Curly Locks,Large Curly Locks
-face:M01,Glasses,Glasses
-face:M02,Cropped Hair,Cropped Hair
-face:M02,Glasses,Glasses
-face:M02,Overweight,Overweight
-face:M02,No Glasses,No Glasses
-face:M03,Dark Hair,Dark Hair
-face:M03,Mustache,Mustache
-face:M03,Light Hair,Light Hair
-face:M03,Glasses,Glasses
-face:M10,Beard,Beard
-face:M10,Mustache,Mustache
-face:M10,Shaved Head,Shaved Head
-face:M10,Glasses,Glasses
-face:M11,Goatee,Goatee
-face:M11,Perfect Vision,Perfect Vision
-face:M11,Mohawk,Mohawk
-face:M11,Glasses,Glasses
-face:M12,Short Cropped Hair,Short Cropped Hair
-face:M12,Long Wavy Hair,Long Wavy Hair
-face:M12,Glasses,Glasses
-face:M13,Balding,Balding
-face:M13,Huge Afro,Huge Afro
-face:M13,Thick Glasses,Thick Glasses
-face:M20,Balding,Balding
-face:M20,Curly Hair,Curly Hair
-face:M20,Glasses,Glasses
-face:M21,Short Straight Hair,Short Straight Hair
-face:M21,Bald,Bald
-face:M21,Glasses,Glasses
-face:M22,Short Light Hair,Short Light Hair
-face:M22,Dark Hair,Dark Hair
-face:M22,Glasses,Glasses
-face:M23,Widow's Peak,Widow's Peak
-face:M23,Mustache,Mustache
-face:M23,Shaved Head,Shaved Head
-face:M23,Glasses,Glasses
-face:M23,Clean Shaven,Clean Shaven
-face:M30,Tall Forehead,Tall Forehead
-face:M30,Totally Bald,Totally Bald
-face:M30,Glasses,Glasses
-face:M31,Killer Sideburns,Killer Sideburns
-face:M31,Light Hair,Light Hair
-face:M31,Glasses,Glasses
-face:M32,Bobbed Hair,Bobbed Hair
-face:M32,Long Curly Hair,Long Curly Hair
-face:M32,Glasses,Glasses
-face:M32,Large Mustache,Large Mustache
-face:M33,Short Curly Hair,Short Curly Hair
-face:M33,Mustache,Mustache
-face:M33,Balding,Balding
-face:M33,Glasses,Glasses
-face:M33,No Mustache,No Mustache
-face:M40,Bald,Bald
-face:M40,Long Hair,Long Hair
-face:M40,Glasses,Glasses
-face:M41,Mohawk,Mohawk
-face:M41,Large Sideburns,Large Sideburns
-face:M41,Glasses,Glasses
-face:M42,Short Curly Hair,Short Curly Hair
-face:M42,Flat-top Hair,Flat-top Hair
-face:M42,Glasses,Glasses
-face:M42,Pencil Mustache,Pencil Mustache
-face:M43,Unkempt Curly Hair,Unkempt Curly Hair
-face:M43,Mustache,Mustache
-face:M43,Long Straight Hair,Long Straight Hair
-face:M43,Glasses,Glasses
-face:F00,Wavy Hair,Wavy Hair
-face:F00,Short Hair,Short Hair
-face:F00,Glasses,Glasses
-face:F01,Small Head,Small Head
-face:F01,Glasses,Glasses
-face:F01,Afro,Afro
-face:F01,Perfect Vision,Perfect Vision
-face:F02,Overweight,Overweight
-face:F02,Slim Figure,Slim Figure
-face:F02,Glasses,Glasses
-face:F03,Bobbed Hair,Bobbed Hair
-face:F03,Long Hair,Long Hair
-face:F03,Glasses,Glasses
-face:F10,Straight Hair,Straight Hair
-face:F10,Long Curly Hair,Long Curly Hair
-face:F10,Glasses,Glasses
-face:F11,Bobbed Hair,Bobbed Hair
-face:F11,Afro,Afro
-face:F11,Glasses,Glasses
-face:F12,Short Hair,Short Hair
-face:F12,Huge Afro,Huge Afro
-face:F12,Thick Glasses,Thick Glasses
-face:F13,Very Short Hair,Very Short Hair
-face:F13,Long Straight Hair,Long Straight Hair
-face:F13,Glasses,Glasses
-face:F20,Short Hair,Short Hair
-face:F20,Long Curly Hair,Long Curly Hair
-face:F20,Glasses,Glasses
-face:F21,Overweight,Overweight
-face:F21,Slim Figure,Slim Figure
-face:F21,Glasses,Glasses
-face:F22,Bobbed Hair,Bobbed Hair
-face:F22,Shaved Head,Shaved Head
-face:F22,Glasses,Glasses
-face:F23,Short Curly Hair,Short Curly Hair
-face:F23,Long Straight Hair,Long Straight Hair
-face:F23,Glasses,Glasses
-face:F30,Curly Bobbed Hair,Curly Bobbed Hair
-face:F30,Shaved Head,Shaved Head
-face:F30,Thick Glasses,Thick Glasses
-face:F31,Short Wavy Hair,Short Wavy Hair
-face:F31,Glasses,Glasses
-face:F31,Long Hair,Long Hair
-face:F31,Good Vision,Good Vision
-face:F32,Bobbed Hair,Bobbed Hair
-face:F32,Light Curly Hair,Light Curly Hair
-face:F32,Glasses,Glasses
-face:F33,Long Hair,Long Hair
-face:F33,Shaved Head,Shaved Head
-face:F33,Glasses,Glasses
-face:F40,Straight Hair,Straight Hair
-face:F40,Curly Hair,Curly Hair
-face:F40,Glasses,Glasses
-face:F41,Bobbed Hair,Bobbed Hair
-face:F41,Round Face,Round Face
-face:F41,Glasses,Glasses
-face:F42,Dark Hair,Dark Hair
-face:F42,Long Straight Hair,Long Straight Hair
-face:F42,Glasses,Glasses
-face:F43,Long Hair,Long Hair
-face:F43,Shaved Head,Shaved Head
-face:F43,No Glasses,No Glasses
-achievement:ACH_TOKEN_ANTEGRIA,Antegria Token,Antegria Token
-achievement:ACH_TOKEN_ANTEGRIA,Collect the hidden Antegria Token,Collect the hidden Antegria Token
-achievement:ACH_TOKEN_ARSTOTZKA,Arstotzka Token,Arstotzka Token
-achievement:ACH_TOKEN_ARSTOTZKA,Collect the hidden Arstotzka Token,Collect the hidden Arstotzka Token
-achievement:ACH_TOKEN_IMPOR,Impor Token,Impor Token
-achievement:ACH_TOKEN_IMPOR,Collect the hidden Impor Token,Collect the hidden Impor Token
-achievement:ACH_TOKEN_KOLECHIA,Kolechia Token,Kolechia Token
-achievement:ACH_TOKEN_KOLECHIA,Collect the hidden Kolechia Token,Collect the hidden Kolechia Token
-achievement:ACH_TOKEN_OBRISTAN,Obristan Token,Obristan Token
-achievement:ACH_TOKEN_OBRISTAN,Collect the hidden Obristan Token,Collect the hidden Obristan Token
-achievement:ACH_TOKEN_REPUBLIA,Republia Token,Republia Token
-achievement:ACH_TOKEN_REPUBLIA,Collect the hidden Republia Token,Collect the hidden Republia Token
-achievement:ACH_TOKEN_UNITEDFED,United Federation Token,United Federation Token
-achievement:ACH_TOKEN_UNITEDFED,Collect the hidden United Federation Token,Collect the hidden United Federation Token
-achievement:ACH_END_TURNEDOVEREZICDOCS,Too Honest,Too Honest
-achievement:ACH_END_TURNEDOVEREZICDOCS,Turn over EZIC docs to M.O.I investigator,Turn over EZIC docs to M.O.I investigator
-achievement:ACH_END_KILLEDTARGET,Hired Rifle,Hired Rifle
-achievement:ACH_END_KILLEDTARGET,Kill the man in red for EZIC,Kill the man in red for EZIC
-achievement:ACH_END_HELPEZICHOLDFIRE,Member of the Order,Member of the Order
-achievement:ACH_END_HELPEZICHOLDFIRE,Help EZIC overthrow the government,Help EZIC overthrow the government
-achievement:ACH_END_ESCAPE,Snowier Pastures,Snowier Pastures
-achievement:ACH_END_ESCAPE,Escape to Obristan,Escape to Obristan
-achievement:ACH_END_IGNOREEZIC,Glory to Arstotzka,Glory to Arstotzka
-achievement:ACH_END_IGNOREEZIC,Ignore all EZIC requests and work dutifully,Ignore all EZIC requests and work dutifully
-achievement:ACH_APT_CLASS5,Worker's Best,Worker's Best
-achievement:ACH_APT_CLASS5,Acquire a Class-5 Apartment,Acquire a Class-5 Apartment
+speech:ask-forgery-missing,This document is missing its seal.,هذه الوثيقة مفقود ختمها.
+speech:ask-forgery-missing,There is no seal here.,لا يوجد ختم هنا.
+speech:ask-forgery-missing,I do not see the required seal here.,لا أرى الختم المطلوب هنا.
+speech:ask-forgery-wrong,This document is forged.,هذه الوثيقة مزورة.
+speech:ask-forgery-wrong,This is a forgery.,هذا تزوير.
+speech:ask-forgery-idcard,This card contains false information.,تحتوي هذه البطاقة على معلومات خاطئة.
+speech:ask-forgery-diplo,This seal is forged.,هذا الختم مزور.
+speech:ask-forgery-diplo,This seal is not correct.,هذا الختم غير صحيح.
+speech:ask-forgery-asylumgrant,This seal is forged.,هذا الختم مزور.
+speech:ask-forgery-asylumgrant,This grant is not sealed properly.,هذه المنحة ليست مختومة بشكل صحيح.
+speech:ask-wrong-birthdate,These dates do not match.,هذه التواريخ لا تتطابق.
+speech:forgery,I have no idea what you are talking about.,ليس لدي أي فكرة عما تتحدث عنه.
+speech:forgery,I do not know anything about that.,لا أعرف شيئا عن هذا.
+speech:forgery,I do not understand.,أنا لا أفهم.
+speech:ask-expired-paper,This document has expired.,هذه الوثيقة منتهية الصلاحية.
+speech:ask-expired-paper,You cannot enter using an expired document.,لا يمكنك الدخول باستخدام وثيقة منتهية الصلاحية.
+speech:expired-permit,I could not come until now.,لم أتمكن من القدوم حتى الآن.
+speech:expired-permit,I was busy.,كنت مشغول.
+speech:expired-passport,What? That is mistake. I just renewed it.,ماذا؟ هذا خطأ. لقد قمت بتجديده للتو.
+speech:expired-passport,That must be a typographical error.,لا بد أن يكون هذا خطًأ مطبعي
+speech:expired-asylumgrant,There was nothing I could do.,لم يكن هناك شيء أستطيع فعله.
+speech:expired-asylumgrant,My travel was difficult.,كانت رحلتي صعبة.
+speech:expired-asylumgrant,"Please, have mercy.","من فضلك، ارأف بي."
+speech:ask-missing-passport,Where is passport?,أين جواز السفر؟
+speech:ask-missing-passport,A passport is required.,جواز السفر مطلوب.
+speech:missing-passport,They took away my passport.,لقد أخذوا جواز سفري.
+speech:missing-passport,What is passport?,ما هو جواز السفر؟
+speech:ask-missing-entrypermit,Where is the entry permit?,أين تصريح الدخول؟
+speech:ask-missing-entrypermit,You have no entry permit.,ليس لديك تصريح الدخول.
+speech:ask-missing-entrypermit,The entry permit is missing.,تصريح الدخول مفقود.
+speech:missing-permit,I was not able to get one.,لم أتمكن من الحصول على واحد.
+speech:missing-permit,What is that?,ما هذا؟
+speech:missing-permit,Do I need one?,هل أحتاج إلى واحد؟
+speech:missing-permit,Is required?,هل هو مطلوب؟
+speech:missing-permit,I lost it.,لقد فقدته.
+speech:missing-permit,I did not know it was required.,لم أكن أعلم أنه مطلوب.
+speech:ask-missing-workpermit,Where is the work pass?,أين تصريح العمل؟
+speech:ask-missing-workpermit,You have no work pass.,ليس لديك تصريح عمل.
+speech:ask-missing-workpermit,The work pass is missing.,تصريح العمل مفقود.
+speech:missing-workpermit,I will get one after I enter.,سأحصل على واحد بعد دخولي.
+speech:ask-missing-idcard,Where is your id card?,أين بطاقة هويتك؟
+speech:ask-missing-idcard,I need your id card.,أحتاج إلى بطاقة هويتك.
+speech:missing-idcard,I never got one.,لم أحصل على واحدة أبدًا.
+speech:missing-idcard,I left before they were issued.,غادرت قبل أن يتم إصدارها.
+speech:missing-idcard,I lost it.,لقد فقدتها.
+speech:ask-missing-idsupplement,You must carry an id supplement.,يجب أن تحمل ملحق الهوية.
+speech:ask-missing-idsupplement,Where is your id supplement?,أين ملحق الهوية الخاص بك؟
+speech:missing-idsupplement,I never got one.,لم أحصل على واحد أبدًا.
+speech:missing-idsupplement,What is a supplement?,ما هو ملحق الهوية؟
+speech:missing-idsupplement,This was not provided to me.,لم يتم توفير هذا لي.
+speech:ask-missing-asylumgrant,You have no grant for asylum.,ليس لديك منحة للجوء.
+speech:ask-missing-asylumgrant,Where is your asylum grant?,أين منحة اللجوء الخاصة بك؟
+speech:missing-asylumgrant,I could not secure one in time.,لم أستطع تأمين واحدة في الوقت المناسب.
+speech:missing-asylumgrant,I have none.,ليس لدي.
+speech:missing-asylumgrant,What is that?,ما هذا؟
+speech:ask-missing-accesspermit,Where is the access permit?,أين تصريح الوصول؟
+speech:ask-missing-accesspermit,You have no access permit.,ليس لديك تصريح الوصول.
+speech:ask-missing-accesspermit,The access permit is missing.,تصريح الوصول مفقود.
+speech:ask-wrong-name,These names do not match.,هذه الأسماء لا تتطابق.
+speech:wrong-name,I have two different names.,لدي اسمين مختلفين.
+speech:wrong-name,I have multiple names.,لدي أسماء متعددة.
+speech:wrong-name,My name was changed recently.,لقد تم تغيير اسمي مؤخرًا.
+speech:ask-wrong-workend,You are not authorized to work this long.,أنت غير مصرح لك بالعمل لفترة طويلة.
+speech:ask-wrong-workend,This work pass expires before your visit.,تنتهي صلاحية تصريح العمل هذا قبل زيارتك.
+speech:wrong-workend,I will renew the pass soon.,سأقوم بتجديد التصريح قريبًا.
+speech:wrong-workend,I am planning to renew it.,أنا أخطط لتجديده.
+speech:wrong-workend,My entry permit is longer than I need.,تصريح الدخول الخاص بي أطول مما أحتاجه.
+speech:ask-wrong-idnumber,These numbers do not match.,هذه الأرقام لا تتطابق.
+speech:ask-wrong-idnumber,There is a discrepancy here.,يوجد تناقض هنا.
+speech:ask-wrong-idnumber,There are two different numbers here.,يوجد رقمين مختلفين هنا.
+speech:wrong-idnumber,It must be a mistake. The document is valid.,لا بد أن يكون هناك خطأ. الوثيقة صالحة.
+speech:wrong-idnumber,Check again.,تحقق مرة أخرى.
+speech:ask-wrong-face,This does not look like you.,هذا لا يبدو مثلك.
+speech:ask-wrong-face,Your picture. It is different.,صورتك. إنها مختلفة.
+speech:ask-wrong-face,Your appearance has changed.,لقد تغير مظهرك.
+speech:wrong-face,It is an old picture.,إنها صورة قديمة.
+speech:wrong-face,I had surgery.,لقد أجريت عملية جراحية.
+speech:wrong-face,The years have been cruel.,لقد كانت السنين قاسية.
+speech:wrong-face,I do not know what to say. It is me.,لا أعرف ماذا أقول. هذا أنا.
+speech:ask-wrong-issuingcity,This issuing city is incorrect.,مدينة الإصدار هذه غير صحيحة.
+speech:ask-wrong-issuingcity,Your passport has false information.,جواز سفرك لديه معلومات خاطئة.
+speech:ask-wrong-gender,You are a man?,هل أنت رجل؟
+speech:ask-wrong-gender,It says here that you are male.,يقول هنا أنك ذكر.
+speech:ask-wrong-gender,You are a woman?,هل أنت امرأة؟
+speech:ask-wrong-gender,Your passport says you are female.,يقول جواز سفرك أنك أنثى.
+speech:ask-wrong-gender,Are you a woman or a man?,هل أنت رجل أم امرأة؟
+speech:ask-wrong-gender,You are male or female?,هل أنت ذكر أم أنثى؟
+speech:wrong-gender,The passport is correct.,جواز السفر صحيح.
+speech:wrong-gender,Why do you ask?,لماذا تسأل؟
+speech:wrong-gender,As the document says.,كما تقول الوثيقة.
+speech:wrong-gender,What is this question?,ما هذا السؤال؟
+speech:ask-wrong-gender-busted,There is a problem with your documentation.,هناك مشكلة في وثائقك.
+speech:ask-approved,Glory to Arstotzka.,المجد لأرستوتزكا.
+speech:ask-approved,Cause no trouble.,لا تسبّب مشاكل.
+speech:ask-nativesonly,Try again.,حاول مرة أخرى.
+speech:ask-nativesonly,Arstotzkans only.,الأرستوتزكيون فقط.
+speech:ask-wrong-nation,No entry from Obristan.,لا يسمح بالدخول من أوبرستان.
+speech:ask-wrong-nation,No entry from Kolechia.,لا يسمح بالدخول من كوليشيا.
+speech:ask-wrong-nation,No entry from United Federation.,لا يسمح بالدخول من الإتحاد الفيدرالي.
+speech:ask-wrong-nation,No entry from Antegria.,لا يسمح بالدخول من أنتيجريا.
+speech:ask-wrong-nation,No entry from Republia.,لا يسمح بالدخول من ريبوبليا.
+speech:ask-wrong-nation,No entry from Arstotzka.,لا يسمح بالدخول من أرستوتزكا
+speech:ask-wrong-nation,No entry from Impor.,لا يسمح بالدخول من إمبور.
+speech:ask-search,Face the scanner.,واجه الماسح الضوئي.
+speech:ask-search,Turn towards the scanner.,اتجه نحو الماسح الضوئي.
+speech:ask-detain,Wait here.,انتظر هنا.
+speech:ask-detain,One moment please.,لحظة واحدة من فضلك.
+speech:detain,What are you doing?,ما الذي تفعله؟
+speech:detain,What is happening?,ماذا يحدث؟
+speech:detain,What is this?,ما هذا؟
+speech:detain,You cannot do this!,لا يمكنك فعل هذا!
+speech:detain,What will happen to me?,ماذا سيحدث لي؟
+speech:detain,Who do you think you are?,من تظن نفسك؟
+speech:detain,You have no authority for this!,ليس لديك صلاحية لهذا!
+speech:detain,You are a fool!,أنت أحمق!
+speech:ask-search-enabled,You have been selected for a random search.,لقد تم اختيارك لإجراء تفتيش عشوائي.
+speech:ask-wrong-entryticket-date,This ticket is for another day.,هذه التذكرة ليوم آخر.
+speech:ask-wrong-entryticket-date,You cannot enter today.,لا يمكنك الدخول اليوم.
+speech:ask-wrong-entryticket-date,The date on this ticket is wrong.,التاريخ الموجود على هذه التذكرة خاطئ.
+speech:wrong-entryticket-date,It is my mistake.,إنه خطئي.
+speech:wrong-entryticket-date,Oh?,أوه؟
+speech:ask-missing-entryticket,You cannot enter without a ticket.,لا يمكنك الدخول بدون تذكرة.
+speech:ask-missing-entryticket,Foreigners must present an entry ticket.,يجب على الأجانب تقديم تذكرة الدخول.
+speech:ask-missing-entryticket,Where is your entry ticket?,أين تذكرة الدخول الخاصة بك؟
+speech:missing-entryticket,I do not know what that is.,لا أعلم ما هذا.
+speech:missing-entryticket,I have none.,ليس لدي.
+speech:missing-entryticket,It was lost.,لقد ضاعت.
+speech:ask-wrong-identity,I cannot verify your identity.,لا أستطيع التحقق من هويتك.
+speech:ask-wrong-identity,Your identity does not match.,هويتك لا تتطابق.
+speech:ask-wrong-alias,There is no record of this name.,لا يوجد سجل بهذا الاسم.
+speech:ask-wrong-alias,I cannot verify your alias.,لا أستطيع التحقق من اسمك المستعار.
+speech:ask-wrong-fingerprints,Your fingerprints do not match our records.,بصمات أصابعك لا تتطابق مع سجلاتنا.
+speech:ask-wrong-fingerprints,I cannot verify your fingerprints.,لا أستطيع التحقق من بصمات أصابعك.
+speech:ask-contraband,There is zero tolerance for contraband.,لا يوجد أي تسامح مع البضائع المهربة.
+speech:ask-contraband,You have made a mistake coming here.,لقد ارتكبت خطأ بالمجيء إلى هنا.
+speech:contraband,You can see that?,يمكنك رؤية ذلك؟
+speech:contraband,What?,ماذا؟
+speech:contraband,I know nothing.,لا أعرف شيء.
+speech:contraband,Is it so obvious?,هل الأمر واضح جدًا؟
+speech:ask-wrong-information,This information does not look correct.,هذه المعلومات لا تبدو صحيحة.
+speech:ask-wrong-information,This is incorrect.,هذا غير صحيح.
+speech:ask-wrong-height,Your height is different.,طولك مختلف.
+speech:wrong-height,Perhaps my shoes are different.,ربما لأن حذائي مختلف.
+speech:wrong-height,It is a natural difference.,إنه فرق طبيعي.
+speech:ask-wrong-weight,Your weight is different.,وزنك مختلف.
+speech:wrong-weight,I am wearing different clothes.,أنا أرتدي ملابس مختلفة.
+speech:wrong-weight,My weight has changed naturally.,لقد تغير وزني بشكل طبيعي.
+speech:ask-criminal,You have interesting face.,لديك وجه مثير للاهتمام.
+speech:ask-criminal,Maybe you should not have come.,ربما لم يكن عليك المجيء.
+speech:ask-criminal,We have some questions for you.,لدينا بعض الأسئلة لك.
+speech:criminal,I have nothing to say.,ليس لدي شيء أقوله
+speech:criminal,Let me through or you will regret it.,دعني أمر أو ستندم.
+speech:criminal,I do not like your tone.,أنا لا أحب نبرتك.
+speech:ask-wrong-description,This does not sound like you.,هذا لا يبدو مثلك.
+speech:ask-wrong-description,You do not match this description.,أنت لا تتطابق مع هذا الوصف.
+speech:wrong-description,I have changed.,لقد تغيرت.
+speech:wrong-description,How can you say for sure?,كيف يمكنك أن تقول بالتأكيد ؟
+speech:wrong-description,Is that good or bad?,هل هذا جيد أم سيء؟
+speech:hidden-paper,Here it is.,ها هو.
+speech:hidden-paper,Sorry. I have it here.,آسف. أنا عندي هنا.
+speech:hidden-paper,I have it here.,أنا عندي هنا.
+speech:hidden-paper,Here.,هنا.
+speech:ask-wrong-thumbprint,Your thumb print does not match.,بصمة الإبهام الخاصة بك لا تتطابق.
+speech:ask-wrong-thumbprint,This print does not match.,هذه الطباعة لا تتطابق.
+speech:ask-wrong-diploaccess,Your diplomatic authorization does not cover Arstotzka.,تفويضك الدبلوماسي لا يغطي أرستوتسكا.
+speech:ask-wrong-diploaccess,You have no diplomatic rights here.,ليس لديك أي حقوق دبلوماسية هنا.
+speech:ask-wrong-diploaccess,This authorization does not include Arstotzka.,هذا التفويض لا يشمل أرستوتزكا
+speech:wrong-diploaccess,Nonsense.,هراء.
+speech:wrong-diploaccess,Check with your superiors.,تأكد من ذلك مع رؤسائك.
+speech:wrong-diploaccess,I have full authorization.,لدي التصريح الكامل.
+speech:ask-missing-vaccinecert,Where is the vaccine certification?,أين شهادة التطعيم؟
+speech:ask-missing-vaccinecert,Where is your proof of vaccination?,أين دليل التطعيم الخاص بك؟
+speech:ask-missing-vaccinecert,All entrants must be vaccinated.,يجب أن يكون جميع الداخلين مُلقحين.
+speech:missing-vaccinecert,I do not believe in vaccines.,أنا لا أؤمن بالتطعيمات.
+speech:missing-vaccinecert,I could not afford certification.,لم أتمكن من تحمل تكاليف الشهادة.
+speech:ask-vaccine-expired,This vaccine has expired.,لقد انتهت صلاحية هذا التطعيم.
+speech:ask-vaccine-expired,This vaccine is no longer active.,هذا التطعيم لم يعد فعالًا.
+speech:ask-vaccine-wrongdrugs,You are missing the required vaccination.,أنت تفتقد التطعيم المطلوب.
+speech:ask-vaccine-wrongdrugs,This vaccine certificate is insufficient.,شهادة التطعيم هذه غير كافية.
+speech:trade-fingerprints,Here.,هنا.
+speech:trade-fingerprints,Is this ok?,هل هذا مقبول؟
+speech:trade-fingerprints,Here are my fingerprints.,هذه بصمات أصابعي.
+speech:trade-fingerprints,Now I have ink everywhere.,الآن لدي حبر في كل مكان.
+speech:default,Please let me through.,من فضلك دعني أمر.
+speech:default,What are you talking about?,ما الذي تتحدث عنه؟
+speech:default,I know nothing about this.,لا أعرف شيئا عن هذا.
+speech:default,I do not know what to say.,لا أعرف ماذا أقول.
+speech:default,Oh?,أوه؟
+face:M00,Short Hair,شعر قصير
+face:M00,Good Vision,رؤية جيدة
+face:M00,Balding,أصلع جزئيًا
+face:M00,Glasses,نظارات
+face:M00,Large Mustache,شارب كبير
+face:M01,Bald,أصلع
+face:M01,Large Curly Locks,شعر مجعد وكثيف
+face:M01,Glasses,نظارات
+face:M02,Cropped Hair,شعر مقصوص
+face:M02,Glasses,نظارات
+face:M02,Overweight,وزن زائد
+face:M02,No Glasses,بدون نظارات
+face:M03,Dark Hair,شعر داكن
+face:M03,Mustache,شارب
+face:M03,Light Hair,شعر خفيف
+face:M03,Glasses,نظارات
+face:M10,Beard,لحية
+face:M10,Mustache,شارب
+face:M10,Shaved Head,رأس محلوق
+face:M10,Glasses,نظارات
+face:M11,Goatee,سكسوكة
+face:M11,Perfect Vision,رؤية مثالية
+face:M11,Mohawk,قزع
+face:M11,Glasses,نظارات
+face:M12,Short Cropped Hair,شعر قصير مقصوص
+face:M12,Long Wavy Hair,شعر طويل مموج
+face:M12,Glasses,نظارات
+face:M13,Balding,أصلع جزئيًا
+face:M13,Huge Afro,كدش ضخم
+face:M13,Thick Glasses,نظارات سميكة
+face:M20,Balding,أصلع جزئيًا
+face:M20,Curly Hair,شعر مجعّد
+face:M20,Glasses,نظارات
+face:M21,Short Straight Hair,شعر قصير مستقيم
+face:M21,Bald,أصلع
+face:M21,Glasses,نظارات
+face:M22,Short Light Hair,شعر قصير خفيف
+face:M22,Dark Hair,شعر داكن
+face:M22,Glasses,نظارات
+face:M23,Widow's Peak,صنادح
+face:M23,Mustache,شارب
+face:M23,Shaved Head,رأس محلوق
+face:M23,Glasses,نظارات
+face:M23,Clean Shaven,حلاقة نظيفة
+face:M30,Tall Forehead,جبهة طويلة
+face:M30,Totally Bald,أصلع تمامًا
+face:M30,Glasses,نظارات
+face:M31,Killer Sideburns,زلف قاتل
+face:M31,Light Hair,شعر خفيف
+face:M31,Glasses,نظارات
+face:M32,Bobbed Hair,شعر قصير ومقصوص
+face:M32,Long Curly Hair,شعر طويل مجعد
+face:M32,Glasses,نظارات
+face:M32,Large Mustache,شارب كبير
+face:M33,Short Curly Hair,شعر قصير مجعد
+face:M33,Mustache,شارب
+face:M33,Balding,أصلع جزئيًا
+face:M33,Glasses,نظارات
+face:M33,No Mustache,بدون شارب
+face:M40,Bald,أصلع
+face:M40,Long Hair,شعر طويل
+face:M40,Glasses,نظارات
+face:M41,Mohawk,قزع
+face:M41,Large Sideburns,زلف كبير
+face:M41,Glasses,نظارات
+face:M42,Short Curly Hair,شعر قصير مجعد
+face:M42,Flat-top Hair,شعر مسطح
+face:M42,Glasses,نظارات
+face:M42,Pencil Mustache,شارب نحيف
+face:M43,Unkempt Curly Hair,شعر مجعد غير مهذب
+face:M43,Mustache,شارب
+face:M43,Long Straight Hair,شعر طويل مستقيم
+face:M43,Glasses,نظارات
+face:F00,Wavy Hair,شعر مموج
+face:F00,Short Hair,شعر قصير
+face:F00,Glasses,نظارات
+face:F01,Small Head,رأس صغير
+face:F01,Glasses,نظارات
+face:F01,Afro,كدش
+face:F01,Perfect Vision,رؤية مثالية
+face:F02,Overweight,وزن زائد
+face:F02,Slim Figure,جسم نحيف
+face:F02,Glasses,نظارات
+face:F03,Bobbed Hair,شعر قصير ومقصوص
+face:F03,Long Hair,شعر طويل
+face:F03,Glasses,نظارات
+face:F10,Straight Hair,شعر مستقيم
+face:F10,Long Curly Hair,شعر طويل مجعد
+face:F10,Glasses,نظارات
+face:F11,Bobbed Hair,شعر قصير ومقصوص
+face:F11,Afro,كدش
+face:F11,Glasses,نظارات
+face:F12,Short Hair,شعر قصير
+face:F12,Huge Afro,كدش ضخم
+face:F12,Thick Glasses,نظارات سميكة
+face:F13,Very Short Hair,شعر قصير جدًا
+face:F13,Long Straight Hair,شعر مستقيم طويل
+face:F13,Glasses,نظارات
+face:F20,Short Hair,شعر قصير
+face:F20,Long Curly Hair,شعر طويل مجعد
+face:F20,Glasses,نظارات
+face:F21,Overweight,وزن زائد
+face:F21,Slim Figure,جسم نحيف
+face:F21,Glasses,نظارات
+face:F22,Bobbed Hair,شعر قصير ومقصوص
+face:F22,Shaved Head,رأس محلوق
+face:F22,Glasses,نظارات
+face:F23,Short Curly Hair,شعر مجعد قصير
+face:F23,Long Straight Hair,شعر طويل مستقيم
+face:F23,Glasses,نظارات
+face:F30,Curly Bobbed Hair,شعر مجعد قصير
+face:F30,Shaved Head,رأس محلوق
+face:F30,Thick Glasses,نظارات سميكة
+face:F31,Short Wavy Hair,شعر قصير مموج
+face:F31,Glasses,نظارات
+face:F31,Long Hair,شعر طويل
+face:F31,Good Vision,رؤية جيدة
+face:F32,Bobbed Hair,شعر قصير ومقصوص
+face:F32,Light Curly Hair,شعر مجعد خفيف
+face:F32,Glasses,نظارات
+face:F33,Long Hair,شعر طويل
+face:F33,Shaved Head,رأس محلوق
+face:F33,Glasses,نظارات
+face:F40,Straight Hair,شعر مستقيم
+face:F40,Curly Hair,شعر مجعد
+face:F40,Glasses,نظارات
+face:F41,Bobbed Hair,شعر قصير ومقصوص
+face:F41,Round Face,وجه مستدير
+face:F41,Glasses,نظارات
+face:F42,Dark Hair,شعر داكن
+face:F42,Long Straight Hair,شعر طويل مستقيم
+face:F42,Glasses,نظارات
+face:F43,Long Hair,شعر طويل
+face:F43,Shaved Head,رأس محلوق
+face:F43,No Glasses,بدون نظارات
+achievement:ACH_TOKEN_ANTEGRIA,Antegria Token,رمز أنتيجريا
+achievement:ACH_TOKEN_ANTEGRIA,Collect the hidden Antegria Token,اجمع رمز أنتيجريا المخفي
+achievement:ACH_TOKEN_ARSTOTZKA,Arstotzka Token,رمز أرستوتزكا
+achievement:ACH_TOKEN_ARSTOTZKA,Collect the hidden Arstotzka Token,اجمع رمز أرستوتزكا المخفي
+achievement:ACH_TOKEN_IMPOR,Impor Token,رمز إمبور
+achievement:ACH_TOKEN_IMPOR,Collect the hidden Impor Token,اجمع رمز إمبور المخفي
+achievement:ACH_TOKEN_KOLECHIA,Kolechia Token,رمز كوليشيا
+achievement:ACH_TOKEN_KOLECHIA,Collect the hidden Kolechia Token,اجمع رمز كوليشيا المخفي
+achievement:ACH_TOKEN_OBRISTAN,Obristan Token,رمز أوبريستان
+achievement:ACH_TOKEN_OBRISTAN,Collect the hidden Obristan Token,اجمع رمز أوبريستان المخفي
+achievement:ACH_TOKEN_REPUBLIA,Republia Token,رمز ريبوبليا
+achievement:ACH_TOKEN_REPUBLIA,Collect the hidden Republia Token,اجمع رمز ريبوبليا المخفي
+achievement:ACH_TOKEN_UNITEDFED,United Federation Token,رمز الإتحاد الفيدرالي
+achievement:ACH_TOKEN_UNITEDFED,Collect the hidden United Federation Token,اجمع رمز الإتحاد الفيدرالي المخفي
+achievement:ACH_END_TURNEDOVEREZICDOCS,Too Honest,صريح جدًا
+achievement:ACH_END_TURNEDOVEREZICDOCS,Turn over EZIC docs to M.O.I investigator,تسليم مستندات إيزك إلى محقق وزارة الداخلية
+achievement:ACH_END_KILLEDTARGET,Hired Rifle,بندقية مستأجرة
+achievement:ACH_END_KILLEDTARGET,Kill the man in red for EZIC,اقتل الرجل الذي باللون الأحمر لأجل إيزك
+achievement:ACH_END_HELPEZICHOLDFIRE,Member of the Order,عضو في المنظمة
+achievement:ACH_END_HELPEZICHOLDFIRE,Help EZIC overthrow the government,مساعدة إيزك في الإطاحة بالحكومة
+achievement:ACH_END_ESCAPE,Snowier Pastures,المراعي الثلجية
+achievement:ACH_END_ESCAPE,Escape to Obristan,الهروب إلى أوبريستان
+achievement:ACH_END_IGNOREEZIC,Glory to Arstotzka,المجد لأرستوتزكا
+achievement:ACH_END_IGNOREEZIC,Ignore all EZIC requests and work dutifully,تجاهل جميع طلبات إيزك والعمل بجد واجتهاد.
+achievement:ACH_APT_CLASS5,Worker's Best,أفضل ما لدى العامل
+achievement:ACH_APT_CLASS5,Acquire a Class-5 Apartment,احصل على شقة من الدرجة الخامسة
 font-stylesheet-override,css/fonts.css,css/fonts.css
 baked-captures-url,NONE,NONE
