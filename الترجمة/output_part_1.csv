@@ -1,372 +1,372 @@
 CONTEXT (DO NOT MODIFY),ENGLISH (DO NOT MODIFY),LOCALIZED (EDIT THIS COLUMN)
-AccessPermitInner,ARSTOTZKA,ARSTOTZKA
-AccessPermitInner,Access Permit,Access Permit
-AccessPermitInner,This permit grants conditional access to the sovereign nation of Arstotzka,This permit grants conditional access to the sovereign nation of Arstotzka
-AccessPermitInner,NAME,NAME
-AccessPermitInner,NATIONALITY,NATIONALITY
-AccessPermitInner,PURPOSE,PURPOSE
-AccessPermitInner,HEIGHT,HEIGHT
-AccessPermitInner,PHYSICAL APPEARANCE,PHYSICAL APPEARANCE
-AccessPermitInner,ID NUMBER,ID NUMBER
-AccessPermitInner,DURATION,DURATION
-AccessPermitInner,WEIGHT,WEIGHT
-AccessPermitInner,ENTER BY,ENTER BY
-AccessPermitInner,Keep on person,Keep on person
-AccessPermitInner,Ministry of Admission,Ministry of Admission
-AsylumGrantInner,Arstotzka,Arstotzka
-AsylumGrantInner,GRANT of ASYLUM,GRANT of ASYLUM
-AsylumGrantInner,This document grants conditional asylum status within Arstotzkan borders,This document grants conditional asylum status within Arstotzkan borders
-AsylumGrantInner,NAT,NAT
-AsylumGrantInner,ID#,ID#
-AsylumGrantInner,DOB,DOB
-AsylumGrantInner,HT,HT
-AsylumGrantInner,WT,WT
-AsylumGrantInner,Offer expires after,Offer expires after
-AsylumGrantInner,Ministry of Admission,Ministry of Admission
-BizCardInnerFront,ENGINEERING,ENGINEERING
-BizCardInnerFront,Director,Director
-BizCardInnerBack,WE NEED ENGINEERS,WE NEED ENGINEERS
-BizCardInnerBack,WILL BEAT .GOV PAY,WILL BEAT .GOV PAY
-BizCardInnerBack,CONTACT NOW,CONTACT NOW
-BrothelHelpInner,A man named <span>Dari Ludum</span> promised me and my sister good work in Arstotzka.,A man named <span>Dari Ludum</span> promised me and my sister good work in Arstotzka.
-BrothelHelpInner,I do not trust him. I am afraid he will take my passport and force me to work at brothel. He is in line today.,I do not trust him. I am afraid he will take my passport and force me to work at brothel. He is in line today.
-BrothelHelpInner,Please do something.,Please do something.
-BulletinInnerDiploTut,Diplomat,Diplomat
-BulletinInnerDiploTut,Verification Procedure,Verification Procedure
-BulletinInnerDiploTut,Verify issuing country,Verify issuing country
-BulletinInnerDiploTut,Verify identity,Verify identity
-BulletinInnerDiploTut,Verify diplomatic access to Arstotzka,Verify diplomatic access to Arstotzka
-BulletinInnerMissingTut,Missing documents can be correlated by highlighting counter and pertinent entry in rule book.,Missing documents can be correlated by highlighting counter and pertinent entry in rule book.
-BulletinInnerRuleTut,Correlate pertinent entry in rule book with violating information to enable further options.,Correlate pertinent entry in rule book with violating information to enable further options.
-BulletinInnerContraTut,Correlate discovered weapons and contraband with rulebook entry.,Correlate discovered weapons and contraband with rulebook entry.
-BulletinInnerCorrelateTut,Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.,Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.
-BulletinInnerTouchTut,Touch and drag to fine-tune highlighted selection.,Touch and drag to fine-tune highlighted selection.
-BulletinInnerPassportTut,Pay attention to passport nationality.,Pay attention to passport nationality.
-BulletinInnerBoothTut,Arstotzkan<br>Ministry of Admission,Arstotzkan<br>Ministry of Admission
-BulletinInnerBoothTut,Inspector's Booth,Inspector's Booth
-BulletinInnerBoothTut,Shutter,Shutter
-BulletinInnerBoothTut,Counter,Counter
-BulletinInnerBoothTut,Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date,Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date
-BulletinInnerBoothTut2,Arstotzkan<br>Ministry of Admission,Arstotzkan<br>Ministry of Admission
-BulletinInnerBoothTut2,Inspector's Booth,Inspector's Booth
-BulletinInnerBoothTut2,Shutter,Shutter
-BulletinInnerBoothTut2,Counter,Counter
-BulletinInnerBoothTut2,Audio Transcript<br>Rule Book<br>Weight<br>,Audio Transcript<br>Rule Book<br>Weight<br>
-BulletinInnerBoothTut2,Bulletin Storage<br>Time &amp; Date,Bulletin Storage<br>Time &amp; Date
-BulletinInnerBoothTut3,Arstotzkan<br>Ministry of Admission,Arstotzkan<br>Ministry of Admission
-BulletinInnerBoothTut3,Inspector's Booth,Inspector's Booth
-BulletinInnerBoothTut3,Shutter<br>Time &amp; Date<br>Weight,Shutter<br>Time &amp; Date<br>Weight
-BulletinInnerBoothTut3,Counter,Counter
-BulletinInnerBoothTut3,Rule Book<br>Audio Transcript<br>Bulletin,Rule Book<br>Audio Transcript<br>Bulletin
-BulletinInnerGunTut,Weapons Protocol,Weapons Protocol
-BulletinInnerGunTut,WHEN ALARM SOUNDS,WHEN ALARM SOUNDS
-BulletinInnerGunTut,Drop key on tumbler to unlock weapon.,Drop key on tumbler to unlock weapon.
-BulletinInnerGunTut,"Select gun, aim and fire.","Select gun, aim and fire."
-BulletinInnerGunTut,Time is short. Act fast.,Time is short. Act fast.
-BulletinInnerFilerTut,ALTAN &nbsp; DISTRICT,ALTAN &nbsp; DISTRICT
-BulletinInnerFilerTut,Passport Confiscation,Passport Confiscation
-BulletinInnerFilerTut,Verify ALTAN resident on id.,Verify ALTAN resident on id.
-BulletinInnerFilerTut,Drop passport in confiscation drawer.,Drop passport in confiscation drawer.
-BulletinInnerFilerTut,"If arresting, confiscate before detaining.","If arresting, confiscate before detaining."
-BulletinInnerCriminals,Ministry of Justice,Ministry of Justice
-BulletinInnerCriminals,WANTED CRIMINALS,WANTED CRIMINALS
-BulletinInnerNews,NEWS,NEWS
-BulletinPagesNote,CHECK ALL<br>PAGES,CHECK ALL<br>PAGES
-CitationInner,M.O.A. CITATION,M.O.A. CITATION
-DiplomaticAuthInner,Diplomatic<br>Authorization,Diplomatic<br>Authorization
-DiplomaticAuthInner,This document authorizes named agent as a diplomatic entity of a Council of Nations member state.,This document authorizes named agent as a diplomatic entity of a Council of Nations member state.
-DiplomaticAuthInner,AGENT,AGENT
-DiplomaticAuthInner,PASSPORT,PASSPORT
-DiplomaticAuthInner,Unconditional access to all named Council of Nations member states must be granted upon presentation.,Unconditional access to all named Council of Nations member states must be granted upon presentation.
-DiplomaticAuthInner,This document has no expiry.,This document has no expiry.
-DiplomaticAuthInner,COUNCIL OF NATIONS - SEVEN MEMBER FORUM,COUNCIL OF NATIONS - SEVEN MEMBER FORUM
-EntryPermitInner,ARSTOTZKA,ARSTOTZKA
-EntryPermitInner,Entry Permit,Entry Permit
-EntryPermitInner,Conditional entry to the sovereign nation of Arstotzka is hereby granted to,Conditional entry to the sovereign nation of Arstotzka is hereby granted to
-EntryPermitInner,bearing passport number,bearing passport number
-EntryPermitInner,Purpose,Purpose
-EntryPermitInner,Duration,Duration
-EntryPermitInner,Enter by,Enter by
-EntryPermitInner,Ministry of Admission,Ministry of Admission
-EntryTicketInner,Arstotzka,Arstotzka
-EntryTicketInner,ENTRY TICKET,ENTRY TICKET
-EntryTicketInner,VALID ON,VALID ON
-EzicNoteInnerOpen,READ QUICKLY,READ QUICKLY
-EzicNoteInnerOpen,RETURN TO MESSENGER,RETURN TO MESSENGER
-FamilyPhotoInner,HANG ON WALL,HANG ON WALL
-FingerprintsInner,GIVE THIS PAPER TO APPLICANT,GIVE THIS PAPER TO APPLICANT
-ForgeryFlyerInnerFront,NEED FORGED<br>OBRISTAN DOCS?,NEED FORGED<br>OBRISTAN DOCS?
-ForgeryFlyerInnerFront,"""It looks so real!""","""It looks so real!"""
-ForgeryFlyerInnerFront,"""Approved for entry!""","""Approved for entry!"""
-ForgeryFlyerInnerFront,Fair rates!,Fair rates!
-ForgeryFlyerInnerFront,No questions asked!,No questions asked!
-ForgeryFlyerInnerFront,Fast turnaround!,Fast turnaround!
-ForgeryFlyerInnerFront,CONDITIONS ON BACK,CONDITIONS ON BACK
-ForgeryFlyerInnerBack,PRICING (EACH),PRICING (EACH)
-ForgeryFlyerInnerBack,Passport *,Passport *
-ForgeryFlyerInnerBack,Entry Ticket,Entry Ticket
+AccessPermitInner,ARSTOTZKA,أرستوتزكا
+AccessPermitInner,Access Permit,تصريح دخول
+AccessPermitInner,This permit grants conditional access to the sovereign nation of Arstotzka,هذا التصريح يمنح دخولًا مشروطًا إلى دولة أرستوتزكا السيادية
+AccessPermitInner,NAME,الاسم
+AccessPermitInner,NATIONALITY,الجنسية
+AccessPermitInner,PURPOSE,الغرض
+AccessPermitInner,HEIGHT,الطول
+AccessPermitInner,PHYSICAL APPEARANCE,المظهر الجسدي
+AccessPermitInner,ID NUMBER,رقم الهوية
+AccessPermitInner,DURATION,المدة
+AccessPermitInner,WEIGHT,الوزن
+AccessPermitInner,ENTER BY,الدخول قبل
+AccessPermitInner,Keep on person,احتفظ به معك
+AccessPermitInner,Ministry of Admission,وزارة القبول
+AsylumGrantInner,Arstotzka,أرستوتزكا
+AsylumGrantInner,GRANT of ASYLUM,منح اللجوء
+AsylumGrantInner,This document grants conditional asylum status within Arstotzkan borders,هذا المستند يمنح وضع اللجوء المشروط داخل حدود أرستوتزكا
+AsylumGrantInner,NAT,الجنسية
+AsylumGrantInner,ID#,رقم الهوية
+AsylumGrantInner,DOB,تاريخ الميلاد
+AsylumGrantInner,HT,الطول
+AsylumGrantInner,WT,الوزن
+AsylumGrantInner,Offer expires after,ينتهي العرض بعد
+AsylumGrantInner,Ministry of Admission,وزارة القبول
+BizCardInnerFront,ENGINEERING,هندسة
+BizCardInnerFront,Director,مدير
+BizCardInnerBack,WE NEED ENGINEERS,نحتاج مهندسين
+BizCardInnerBack,WILL BEAT .GOV PAY,سنتفوق على رواتب الحكومة
+BizCardInnerBack,CONTACT NOW,اتصل الآن
+BrothelHelpInner,A man named <span>Dari Ludum</span> promised me and my sister good work in Arstotzka.,رجل يدعى <span>داري لودوم</span> وعدني وأختي بعمل جيد في أرستوتزكا.
+BrothelHelpInner,I do not trust him. I am afraid he will take my passport and force me to work at brothel. He is in line today.,لا أثق به. أخشى أن يأخذ جواز سفري ويجبرني على العمل في بيت دعارة. إنه في الطابور اليوم.
+BrothelHelpInner,Please do something.,من فضلك افعل شيئًا.
+BulletinInnerDiploTut,Diplomat,دبلوماسي
+BulletinInnerDiploTut,Verification Procedure,إجراء التحقق
+BulletinInnerDiploTut,Verify issuing country,تحقق من دولة الإصدار
+BulletinInnerDiploTut,Verify identity,تحقق من الهوية
+BulletinInnerDiploTut,Verify diplomatic access to Arstotzka,تحقق من الوصول الدبلوماسي إلى أرستوتزكا
+BulletinInnerMissingTut,Missing documents can be correlated by highlighting counter and pertinent entry in rule book.,يمكن ربط المستندات المفقودة عن طريق تسليط الضوء على العداد والإدخال ذي الصلة في كتاب القواعد.
+BulletinInnerRuleTut,Correlate pertinent entry in rule book with violating information to enable further options.,اربط الإدخال ذي الصلة في كتاب القواعد بالمعلومات المخالفة لتمكين خيارات إضافية.
+BulletinInnerContraTut,Correlate discovered weapons and contraband with rulebook entry.,اربط الأسلحة والممنوعات المكتشفة بإدخال كتاب القواعد.
+BulletinInnerCorrelateTut,Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.,سلط الضوء على قطعتين من المعلومات المتناقضة من وضع التفتيش لتمكين الاستجواب.
+BulletinInnerTouchTut,Touch and drag to fine-tune highlighted selection.,المس واسحب لضبط التحديد المميز.
+BulletinInnerPassportTut,Pay attention to passport nationality.,انتبه إلى جنسية جواز السفر.
+BulletinInnerBoothTut,Arstotzkan<br>Ministry of Admission,أرستوتزكا<br>وزارة القبول
+BulletinInnerBoothTut,Inspector's Booth,كشك المفتش
+BulletinInnerBoothTut,Shutter,مصراع
+BulletinInnerBoothTut,Counter,عداد
+BulletinInnerBoothTut,Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date,كتاب القواعد<br>نص صوتي<br>تخزين النشرات<br>الوقت والتاريخ
+BulletinInnerBoothTut2,Arstotzkan<br>Ministry of Admission,أرستوتزكا<br>وزارة القبول
+BulletinInnerBoothTut2,Inspector's Booth,كشك المفتش
+BulletinInnerBoothTut2,Shutter,مصراع
+BulletinInnerBoothTut2,Counter,عداد
+BulletinInnerBoothTut2,Audio Transcript<br>Rule Book<br>Weight<br>,نص صوتي<br>كتاب القواعد<br>الوزن<br>
+BulletinInnerBoothTut2,Bulletin Storage<br>Time &amp; Date,تخزين النشرات<br>الوقت والتاريخ
+BulletinInnerBoothTut3,Arstotzkan<br>Ministry of Admission,أرستوتزكا<br>وزارة القبول
+BulletinInnerBoothTut3,Inspector's Booth,كشك المفتش
+BulletinInnerBoothTut3,Shutter<br>Time &amp; Date<br>Weight,مصراع<br>الوقت والتاريخ<br>الوزن
+BulletinInnerBoothTut3,Counter,عداد
+BulletinInnerBoothTut3,Rule Book<br>Audio Transcript<br>Bulletin,كتاب القواعد<br>نص صوتي<br>النشرة
+BulletinInnerGunTut,Weapons Protocol,بروتوكول الأسلحة
+BulletinInnerGunTut,WHEN ALARM SOUNDS,عند سماع الإنذار
+BulletinInnerGunTut,Drop key on tumbler to unlock weapon.,أسقط المفتاح على المقبض لفتح السلاح.
+BulletinInnerGunTut,"Select gun, aim and fire.","اختر السلاح، صوب وأطلق النار."
+BulletinInnerGunTut,Time is short. Act fast.,الوقت قصير. تصرف بسرعة.
+BulletinInnerFilerTut,ALTAN &nbsp; DISTRICT,حي التان
+BulletinInnerFilerTut,Passport Confiscation,مصادرة جواز السفر
+BulletinInnerFilerTut,Verify ALTAN resident on id.,تحقق من سكن التان على الهوية.
+BulletinInnerFilerTut,Drop passport in confiscation drawer.,أسقط جواز السفر في درج المصادرة.
+BulletinInnerFilerTut,"If arresting, confiscate before detaining.","إذا كنت تقبض، صادر قبل الاحتجاز."
+BulletinInnerCriminals,Ministry of Justice,وزارة العدل
+BulletinInnerCriminals,WANTED CRIMINALS,مجرمون مطلوبون
+BulletinInnerNews,NEWS,أخبار
+BulletinPagesNote,CHECK ALL<br>PAGES,تحقق من جميع<br>الصفحات
+CitationInner,M.O.A. CITATION,استدعاء وزارة القبول
+DiplomaticAuthInner,Diplomatic<br>Authorization,تفويض<br>دبلوماسي
+DiplomaticAuthInner,This document authorizes named agent as a diplomatic entity of a Council of Nations member state.,هذا المستند يفوض الوكيل المذكور ككيان دبلوماسي لدولة عضو في مجلس الأمم.
+DiplomaticAuthInner,AGENT,الوكيل
+DiplomaticAuthInner,PASSPORT,جواز السفر
+DiplomaticAuthInner,Unconditional access to all named Council of Nations member states must be granted upon presentation.,يجب منح دخول غير مشروط لجميع دول مجلس الأمم المذكورة عند العرض.
+DiplomaticAuthInner,This document has no expiry.,هذا المستند لا ينتهي.
+DiplomaticAuthInner,COUNCIL OF NATIONS - SEVEN MEMBER FORUM,مجلس الأمم - منتدى الأعضاء السبعة
+EntryPermitInner,ARSTOTZKA,أرستوتزكا
+EntryPermitInner,Entry Permit,تصريح دخول
+EntryPermitInner,Conditional entry to the sovereign nation of Arstotzka is hereby granted to,تم منح دخول مشروط إلى دولة أرستوتزكا السيادية لـ
+EntryPermitInner,bearing passport number,حامل جواز السفر رقم
+EntryPermitInner,Purpose,الغرض
+EntryPermitInner,Duration,المدة
+EntryPermitInner,Enter by,الدخول قبل
+EntryPermitInner,Ministry of Admission,وزارة القبول
+EntryTicketInner,Arstotzka,أرستوتزكا
+EntryTicketInner,ENTRY TICKET,تذكرة دخول
+EntryTicketInner,VALID ON,صالح في
+EzicNoteInnerOpen,READ QUICKLY,اقرأ بسرعة
+EzicNoteInnerOpen,RETURN TO MESSENGER,أعد إلى الرسول
+FamilyPhotoInner,HANG ON WALL,علق على الحائط
+FingerprintsInner,GIVE THIS PAPER TO APPLICANT,أعط هذه الورقة للمتقدم
+ForgeryFlyerInnerFront,NEED FORGED<br>OBRISTAN DOCS?,تحتاج مستندات<br>أوبريستان مزورة؟
+ForgeryFlyerInnerFront,"""It looks so real!""","""تبدو حقيقية جدًا!"""
+ForgeryFlyerInnerFront,"""Approved for entry!""","""مقبولة للدخول!"""
+ForgeryFlyerInnerFront,Fair rates!,أسعار عادلة!
+ForgeryFlyerInnerFront,No questions asked!,لا أسئلة تطرح!
+ForgeryFlyerInnerFront,Fast turnaround!,إنجاز سريع!
+ForgeryFlyerInnerFront,CONDITIONS ON BACK,الشروط على الظهر
+ForgeryFlyerInnerBack,PRICING (EACH),التسعير (كل)
+ForgeryFlyerInnerBack,Passport *,جواز سفر *
+ForgeryFlyerInnerBack,Entry Ticket,تذكرة دخول
 ForgeryFlyerInnerBack,*<br>,*<br>
-ForgeryFlyerInnerBack,Client must provide existing Obristan passport to be modified with new info,Client must provide existing Obristan passport to be modified with new info
-ForgeryFlyerInnerBack,Service at border Arstotzka/Obristan,Service at border Arstotzka/Obristan
-ForgeryFlyerInnerBack,Ask for Timofei Wee,Ask for Timofei Wee
-GymFlyerInner,Underweight?Weak?Tired?,Underweight?Weak?Tired?
-GymFlyerInner,JOIN BEST GYM!,JOIN BEST GYM!
-GymFlyerInner,GET BIG TOWN,GET BIG TOWN
-GymFlyerInner,East Grestin,East Grestin
-HintMissingInner,THIS ENTRANT HAS NO DOCUMENTS,THIS ENTRANT HAS NO DOCUMENTS
-HintMissingInner,"To proceed, use INSPECT mode to interrogate.","To proceed, use INSPECT mode to interrogate."
-HintMissingInner,Review page 2 of today's bulletin for full instructions.,Review page 2 of today's bulletin for full instructions.
-IdCardInner,ARSTOTZKA IDENTITY CARD,ARSTOTZKA IDENTITY CARD
-IdCardInner,DOB,DOB
-IdCardInner,HT.,HT.
-IdCardInner,WT.,WT.
-IdentityRecordInner,M.O.A. IDENTITY RECORD,M.O.A. IDENTITY RECORD
-IdentityRecordInner,NAME:,NAME:
-IdentityRecordInner,ALIAS:,ALIAS:
-IdentityRecordInner,Applicant's fingerprints and claimed name/alias must match this record.,Applicant's fingerprints and claimed name/alias must match this record.
-IdSupplementInner,IDENTITY<br>SUPPLEMENT,IDENTITY<br>SUPPLEMENT
-IdSupplementInner,HT,HT
-IdSupplementInner,WT,WT
-IdSupplementInner,DESCRIPTION,DESCRIPTION
-IdSupplementInner,THUMB,THUMB
-IdSupplementInner,Keep on person,Keep on person
-IdSupplementInner,EXP.,EXP.
-LocketInnerOpen,To Sergiu from your Elisa,To Sergiu from your Elisa
-LocketInnerOpen,I Love You Always,I Love You Always
-LoveSongInner1,YOU,YOU
-LoveSongInner1,YOU ARE HOT LIKE FIRE,YOU ARE HOT LIKE FIRE
-LoveSongInner2,you,you
-LoveSongInner2,OBJECT OF DESIRE,OBJECT OF DESIRE
-LoveSongInner3,YOU<br>(AGAIN),YOU<br>(AGAIN)
-LoveSongInner3,WRAP MY HEART IN WIRE,WRAP MY HEART IN WIRE
-LoveSongInner4,ApPROVED,ApPROVED
-LoveSongInner4,APPROVE MY VISA,APPROVE MY VISA
+ForgeryFlyerInnerBack,Client must provide existing Obristan passport to be modified with new info,يجب على العميل تقديم جواز سفر أوبريستان موجود لتعديله بمعلومات جديدة
+ForgeryFlyerInnerBack,Service at border Arstotzka/Obristan,الخدمة عند الحدود أرستوتزكا/أوبريستان
+ForgeryFlyerInnerBack,Ask for Timofei Wee,اسأل عن تيموفي وي
+GymFlyerInner,Underweight?Weak?Tired?,نحيف؟ ضعيف؟ متعب؟
+GymFlyerInner,JOIN BEST GYM!,انضم لأفضل نادي!
+GymFlyerInner,GET BIG TOWN,احصل على جسم كبير
+GymFlyerInner,East Grestin,شرق جريستين
+HintMissingInner,THIS ENTRANT HAS NO DOCUMENTS,هذا الداخل ليس لديه مستندات
+HintMissingInner,"To proceed, use INSPECT mode to interrogate.","للمتابعة، استخدم وضع التفتيش للاستجواب."
+HintMissingInner,Review page 2 of today's bulletin for full instructions.,راجع الصفحة 2 من نشرة اليوم للحصول على تعليمات كاملة.
+IdCardInner,ARSTOTZKA IDENTITY CARD,بطاقة هوية أرستوتزكا
+IdCardInner,DOB,تاريخ الميلاد
+IdCardInner,HT.,الطول.
+IdCardInner,WT.,الوزن.
+IdentityRecordInner,M.O.A. IDENTITY RECORD,سجل هوية وزارة القبول
+IdentityRecordInner,NAME:,الاسم:
+IdentityRecordInner,ALIAS:,الاسم المستعار:
+IdentityRecordInner,Applicant's fingerprints and claimed name/alias must match this record.,يجب أن تطابق بصمات المتقدم والاسم/الاسم المستعار المزعوم هذا السجل.
+IdSupplementInner,IDENTITY<br>SUPPLEMENT,ملحق<br>الهوية
+IdSupplementInner,HT,الطول
+IdSupplementInner,WT,الوزن
+IdSupplementInner,DESCRIPTION,الوصف
+IdSupplementInner,THUMB,الإبهام
+IdSupplementInner,Keep on person,احتفظ معك
+IdSupplementInner,EXP.,انتهاء الصلاحية.
+LocketInnerOpen,To Sergiu from your Elisa,إلى سيرجي من إليزا
+LocketInnerOpen,I Love You Always,أحبك دائمًا
+LoveSongInner1,YOU,أنت
+LoveSongInner1,YOU ARE HOT LIKE FIRE,أنت ساخن مثل النار
+LoveSongInner2,you,أنت
+LoveSongInner2,OBJECT OF DESIRE,موضوع الرغبة
+LoveSongInner3,YOU<br>(AGAIN),أنت<br>(مرة أخرى)
+LoveSongInner3,WRAP MY HEART IN WIRE,لف قلبي بالسلك
+LoveSongInner4,ApPROVED,مقبول
+LoveSongInner4,APPROVE MY VISA,وافق على تأشيرتي
 tweak-passport-field-padding-left,2px,2px
-PassportInnerAntegria,ENTRY VISA,ENTRY VISA
-PassportInnerAntegria,DOB.,DOB.
-PassportInnerAntegria,SEX,SEX
-PassportInnerAntegria,ISS.,ISS.
-PassportInnerAntegria,EXP.,EXP.
-PassportInnerAntegria,ANTEGRIA,ANTEGRIA
+PassportInnerAntegria,ENTRY VISA,تأشيرة دخول
+PassportInnerAntegria,DOB.,تاريخ الميلاد.
+PassportInnerAntegria,SEX,الجنس
+PassportInnerAntegria,ISS.,الإصدار.
+PassportInnerAntegria,EXP.,انتهاء الصلاحية.
+PassportInnerAntegria,ANTEGRIA,أنتيجريا
 tweak-passport-arstotzka-nation,16px,16px
-PassportInnerArstotzka,ENTRY VISA,ENTRY VISA
-PassportInnerArstotzka,DOB.,DOB.
-PassportInnerArstotzka,SEX,SEX
-PassportInnerArstotzka,ISS.,ISS.
-PassportInnerArstotzka,EXP.,EXP.
-PassportInnerArstotzka,ARSTOTZKA,ARSTOTZKA
-PassportInnerImpor,ENTRY VISA,ENTRY VISA
-PassportInnerImpor,DOB.,DOB.
-PassportInnerImpor,SEX,SEX
-PassportInnerImpor,ISS.,ISS.
-PassportInnerImpor,EXP.,EXP.
-PassportInnerImpor,IMPOR,IMPOR
-PassportInnerKolechia,ENTRY VISA,ENTRY VISA
-PassportInnerKolechia,DOB.,DOB.
-PassportInnerKolechia,SEX,SEX
-PassportInnerKolechia,ISS.,ISS.
-PassportInnerKolechia,EXP.,EXP.
-PassportInnerKolechia,KOLECHIA,KOLECHIA
-PassportInnerObristan,ENTRY VISA,ENTRY VISA
-PassportInnerObristan,DOB.,DOB.
-PassportInnerObristan,SEX,SEX
-PassportInnerObristan,ISS.,ISS.
-PassportInnerObristan,EXP.,EXP.
-PassportInnerObristan,OBRISTAN,OBRISTAN
-PassportInnerRepublia,ENTRY VISA,ENTRY VISA
-PassportInnerRepublia,DOB.,DOB.
-PassportInnerRepublia,SEX,SEX
-PassportInnerRepublia,ISS.,ISS.
-PassportInnerRepublia,EXP.,EXP.
-PassportInnerRepublia,REPUBLIA,REPUBLIA
-PassportInnerUnitedFed,ENTRY VISA,ENTRY VISA
-PassportInnerUnitedFed,DOB.,DOB.
-PassportInnerUnitedFed,SEX,SEX
-PassportInnerUnitedFed,ISS.,ISS.
-PassportInnerUnitedFed,EXP.,EXP.
-PassportInnerUnitedFed,UNITED FEDERATION,UNITED FEDERATION
-PlaqueOneInner,Ministry of Admission,Ministry of Admission
-PlaqueOneInner,RECOGNITION,RECOGNITION
-PlaqueOneInner,FOR,FOR
-PlaqueOneInner,HANG ON WALL,HANG ON WALL
-PlaqueTwoInner,Ministry of Admission,Ministry of Admission
-PlaqueTwoInner,RECOGNITION,RECOGNITION
-PlaqueTwoInner,FOR,FOR
-PlaqueTwoInner,HANG ON WALL,HANG ON WALL
-PoisonInnerBack,OPEN,OPEN
-PoisonInnerOpen1,DO NOT TOUCH POWDER,DO NOT TOUCH POWDER
-PoisonInnerOpen1,CLOSE,CLOSE
-PoisonInnerOpen2,ALIGN POWDER OVER PASSPORT,ALIGN POWDER OVER PASSPORT
-PoisonInnerOpen2,PUSH HARD TO AFFIX,PUSH HARD TO AFFIX
-PoisonInnerOpen2,CLOSE,CLOSE
-PoliceBadgeInner,MINISTRY OF INFORMATION,MINISTRY OF INFORMATION
-PoliceBadgeInner,Office of Investigation,Office of Investigation
-PoliceBadgeInner,East Grestin Division,East Grestin Division
-PoliceBadgeInner,Special Investigator,Special Investigator
-PoliceBadgeInner,MOI,MOI
+PassportInnerArstotzka,ENTRY VISA,تأشيرة دخول
+PassportInnerArstotzka,DOB.,تاريخ الميلاد.
+PassportInnerArstotzka,SEX,الجنس
+PassportInnerArstotzka,ISS.,الإصدار.
+PassportInnerArstotzka,EXP.,انتهاء الصلاحية.
+PassportInnerArstotzka,ARSTOTZKA,أرستوتزكا
+PassportInnerImpor,ENTRY VISA,تأشيرة دخول
+PassportInnerImpor,DOB.,تاريخ الميلاد.
+PassportInnerImpor,SEX,الجنس
+PassportInnerImpor,ISS.,الإصدار.
+PassportInnerImpor,EXP.,انتهاء الصلاحية.
+PassportInnerImpor,IMPOR,إمبور
+PassportInnerKolechia,ENTRY VISA,تأشيرة دخول
+PassportInnerKolechia,DOB.,تاريخ الميلاد.
+PassportInnerKolechia,SEX,الجنس
+PassportInnerKolechia,ISS.,الإصدار.
+PassportInnerKolechia,EXP.,انتهاء الصلاحية.
+PassportInnerKolechia,KOLECHIA,كوليتشيا
+PassportInnerObristan,ENTRY VISA,تأشيرة دخول
+PassportInnerObristan,DOB.,تاريخ الميلاد.
+PassportInnerObristan,SEX,الجنس
+PassportInnerObristan,ISS.,الإصدار.
+PassportInnerObristan,EXP.,انتهاء الصلاحية.
+PassportInnerObristan,OBRISTAN,أوبريستان
+PassportInnerRepublia,ENTRY VISA,تأشيرة دخول
+PassportInnerRepublia,DOB.,تاريخ الميلاد.
+PassportInnerRepublia,SEX,الجنس
+PassportInnerRepublia,ISS.,الإصدار.
+PassportInnerRepublia,EXP.,انتهاء الصلاحية.
+PassportInnerRepublia,REPUBLIA,ريبوبليا
+PassportInnerUnitedFed,ENTRY VISA,تأشيرة دخول
+PassportInnerUnitedFed,DOB.,تاريخ الميلاد.
+PassportInnerUnitedFed,SEX,الجنس
+PassportInnerUnitedFed,ISS.,الإصدار.
+PassportInnerUnitedFed,EXP.,انتهاء الصلاحية.
+PassportInnerUnitedFed,UNITED FEDERATION,الاتحاد المتحد
+PlaqueOneInner,Ministry of Admission,وزارة القبول
+PlaqueOneInner,RECOGNITION,اعتراف
+PlaqueOneInner,FOR,لـ
+PlaqueOneInner,HANG ON WALL,علق على الحائط
+PlaqueTwoInner,Ministry of Admission,وزارة القبول
+PlaqueTwoInner,RECOGNITION,اعتراف
+PlaqueTwoInner,FOR,لـ
+PlaqueTwoInner,HANG ON WALL,علق على الحائط
+PoisonInnerBack,OPEN,افتح
+PoisonInnerOpen1,DO NOT TOUCH POWDER,لا تلمس المسحوق
+PoisonInnerOpen1,CLOSE,أغلق
+PoisonInnerOpen2,ALIGN POWDER OVER PASSPORT,اصطف المسحوق فوق جواز السفر
+PoisonInnerOpen2,PUSH HARD TO AFFIX,اضغط بقوة للإلصاق
+PoisonInnerOpen2,CLOSE,أغلق
+PoliceBadgeInner,MINISTRY OF INFORMATION,وزارة المعلومات
+PoliceBadgeInner,Office of Investigation,مكتب التحقيق
+PoliceBadgeInner,East Grestin Division,فرع شرق جريستين
+PoliceBadgeInner,Special Investigator,محقق خاص
+PoliceBadgeInner,MOI,وزارة المعلومات
 tweak-press-pass-title-weight,'wght' 900,'wght' 900
-PressPassInner,INTERNATIONAL,INTERNATIONAL
-PressPassInner,PRESS,PRESS
-PressPassInner,IDENTIFICATION,IDENTIFICATION
-RuleDiploAccess,AUTHORIZATION MUST GRANT ACCESS<br> TO ARSTOTZKA,AUTHORIZATION MUST GRANT ACCESS<br> TO ARSTOTZKA
-RuleIssuingCity,PASSPORT <span>ISS.</span> FIELD MUST BE VALID,PASSPORT <span>ISS.</span> FIELD MUST BE VALID
-RuleSealRequired,DOCUMENT MUST<br>HAVE A SEAL,DOCUMENT MUST<br>HAVE A SEAL
-RulesInnerHome,Arstotzkan,Arstotzkan
-RulesInnerHome,Ministry<span>of</span>Admission,Ministry<span>of</span>Admission
-RulesInnerHome,RULES,RULES
-RulesInnerHome,&amp;,&amp;
-RulesInnerHome,REGULATIONS,REGULATIONS
-RulesInnerHome,for Inspectors,for Inspectors
-RulesInnerHome,CONTENTS,CONTENTS
-RulesInnerHome,PROPERTY OF,PROPERTY OF
-RulesInnerHome,M.O.A,M.O.A
-RulesInnerBasic,RULES,RULES
-RulesInnerRegion,DIPLOMATIC SEALS,DIPLOMATIC SEALS
-RulesInnerRegion,PASSPORT,PASSPORT
-RulesInnerRegion,ISSUING CITIES,ISSUING CITIES
-RulesInnerRegionArstotzka,DISTRICTS,DISTRICTS
-RulesInnerRegionArstotzka,PASSPORT,PASSPORT
-RulesInnerRegionArstotzka,ISSUING CITIES,ISSUING CITIES
-RulesInnerBooth,INSPECTOR'S BOOTH,INSPECTOR'S BOOTH
-RulesInnerBooth,Shutter,Shutter
-RulesInnerBooth,Counter,Counter
-RulesInnerBooth,Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date,Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date
-RulesInnerBooth,UPGRADES,UPGRADES
-RulesInnerBooth,NO UPGRADES<br>INSTALLED,NO UPGRADES<br>INSTALLED
-RulesInnerBooth2,INSPECTOR'S BOOTH,INSPECTOR'S BOOTH
-RulesInnerBooth2,Shutter,Shutter
-RulesInnerBooth2,Counter,Counter
-RulesInnerBooth2,Audio Trans.<br>Rule Book<br>Weight,Audio Trans.<br>Rule Book<br>Weight
-RulesInnerBooth2,Bulletin<br>Time &amp; Date,Bulletin<br>Time &amp; Date
-RulesInnerBooth2,UPGRADES,UPGRADES
-RulesInnerBooth2,NO UPGRADES<br>INSTALLED,NO UPGRADES<br>INSTALLED
-RulesInnerBooth3,INSPECTOR'S BOOTH,INSPECTOR'S BOOTH
-RulesInnerBooth3,Shutter<br>Time &amp; Date<br>Weight,Shutter<br>Time &amp; Date<br>Weight
-RulesInnerBooth3,Counter,Counter
-RulesInnerBooth3,Rule Book<br>Audio Trans.<br>Bulletin,Rule Book<br>Audio Trans.<br>Bulletin
-RulesInnerBooth3,UPGRADES,UPGRADES
-RulesInnerBooth3,NO UPGRADES<br>INSTALLED,NO UPGRADES<br>INSTALLED
-RulesInnerDocs,OFFICIALLY RECOGNIZED,OFFICIALLY RECOGNIZED
-RulesInnerDocs,DOCUMENTS,DOCUMENTS
-RulesInnerDocs,CONTENTS,CONTENTS
-RulesInnerEntryPermit,ENTRY PERMIT,ENTRY PERMIT
-RulesInnerEntryPermit,VALID SEALS,VALID SEALS
-RulesInnerIdCard,ARSTOTZKAN<br>ID CARD,ARSTOTZKAN<br>ID CARD
-RulesInnerIdCard,ISSUED TO ALL ARSTOTZKAN CITIZENS,ISSUED TO ALL ARSTOTZKAN CITIZENS
-RulesInnerIdCard,DISTRICTS,DISTRICTS
-RulesInnerIdSupplement,IDENTITY<br>SUPPLEMENT,IDENTITY<br>SUPPLEMENT
-RulesInnerIdSupplement,ISSUED TO ALL QUALIFIED FOREIGNERS,ISSUED TO ALL QUALIFIED FOREIGNERS
-RulesInnerIdSupplement,FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE,FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE
-RulesInnerIdSupplement,VERIFY THUMBPRINT ONLY WHEN FINGERPRINT RECORD IS AVAILABLE,VERIFY THUMBPRINT ONLY WHEN FINGERPRINT RECORD IS AVAILABLE
-RulesInnerIdSupplement,THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY,THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY
-RulesInnerAccessPermit,ACCESS PERMIT,ACCESS PERMIT
-RulesInnerAccessPermit,VALID SEALS,VALID SEALS
-RulesInnerAccessPermit,THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT,THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT
-RulesInnerWorkPermit,WORK PASS,WORK PASS
-RulesInnerWorkPermit,ISSUED TO ALL QUALIFIED FOREIGN LABOR,ISSUED TO ALL QUALIFIED FOREIGN LABOR
-RulesInnerWorkPermit,VALID SEALS,VALID SEALS
-RulesInnerDiplomaticAuth,DIPLOMATIC,DIPLOMATIC
-RulesInnerDiplomaticAuth,AUTHORIZATION,AUTHORIZATION
-RulesInnerDiplomaticAuth,VALIDATE SEAL WITH COUNTRY PAGE,VALIDATE SEAL WITH COUNTRY PAGE
-RulesInnerAsylumGrant,GRANT OF<br>ASYLUM,GRANT OF<br>ASYLUM
-RulesInnerAsylumGrant,VALID SEALS,VALID SEALS
-RulesInnerAsylumGrant,ALWAYS VERIFY FINGERPRINTS,ALWAYS VERIFY FINGERPRINTS
-RulesInnerVaccineCert,VACCINE CERTIFICATE,VACCINE CERTIFICATE
-RulesInnerVaccineCert,MINISTRY,MINISTRY
-RulesInnerVaccineCert,OF,OF
-RulesInnerVaccineCert,HEALTH,HEALTH
-RulesInnerVaccineCert,REGULATION DOCUMENT,REGULATION DOCUMENT
-RulesInnerVaccineCert,POLIO VACCINATION REQUIRED FOR ALL ENTRANTS,POLIO VACCINATION REQUIRED FOR ALL ENTRANTS
-RulesInnerVaccineCert,NO EXCEPTIONS,NO EXCEPTIONS
-RulesInnerConfiscation,PASSPORT CONFISCATION,PASSPORT CONFISCATION
-RulesInnerConfiscation,DROP PASSPORT IN CONFISCATION DRAWER,DROP PASSPORT IN CONFISCATION DRAWER
-RulesInnerConfiscation,POLICY,POLICY
-RulesInnerConfiscation,PASSPORT MUST BE CONFISCATED BEFORE DETAINING,PASSPORT MUST BE CONFISCATED BEFORE DETAINING
-RulesInnerConfiscation,MOI,MOI
-tweak-rulesinnerlast-moa-style,propaganda,propaganda
+PressPassInner,INTERNATIONAL,دولي
+PressPassInner,PRESS,صحافة
+PressPassInner,IDENTIFICATION,تعريف
+RuleDiploAccess,AUTHORIZATION MUST GRANT ACCESS<br> TO ARSTOTZKA,يجب أن يمنح التفويض الوصول<br> إلى أرستوتزكا
+RuleIssuingCity,PASSPORT <span>ISS.</span> FIELD MUST BE VALID,يجب أن يكون حقل <span>الإصدار</span> في جواز السفر صالحًا
+RuleSealRequired,DOCUMENT MUST<br>HAVE A SEAL,يجب أن يحتوي المستند<br> على ختم
+RulesInnerHome,Arstotzkan,أرستوتزكي
+RulesInnerHome,Ministry<span>of</span>Admission,وزارة<span>القبول</span>
+RulesInnerHome,RULES,قواعد
+RulesInnerHome,&amp;,و
+RulesInnerHome,REGULATIONS,لوائح
+RulesInnerHome,for Inspectors,للمفتشين
+RulesInnerHome,CONTENTS,محتويات
+RulesInnerHome,PROPERTY OF,ملك لـ
+RulesInnerHome,M.O.A,وزارة القبول
+RulesInnerBasic,RULES,قواعد
+RulesInnerRegion,DIPLOMATIC SEALS,أختام دبلوماسية
+RulesInnerRegion,PASSPORT,جواز السفر
+RulesInnerRegion,ISSUING CITIES,مدن الإصدار
+RulesInnerRegionArstotzka,DISTRICTS,أحياء
+RulesInnerRegionArstotzka,PASSPORT,جواز السفر
+RulesInnerRegionArstotzka,ISSUING CITIES,مدن الإصدار
+RulesInnerBooth,INSPECTOR'S BOOTH,كشك المفتش
+RulesInnerBooth,Shutter,مصراع
+RulesInnerBooth,Counter,عداد
+RulesInnerBooth,Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date,كتاب القواعد<br>نص صوتي<br>النشرة<br>الوقت والتاريخ
+RulesInnerBooth,UPGRADES,ترقيات
+RulesInnerBooth,NO UPGRADES<br>INSTALLED,لا توجد ترقيات<br>مثبتة
+RulesInnerBooth2,INSPECTOR'S BOOTH,كشك المفتش
+RulesInnerBooth2,Shutter,مصراع
+RulesInnerBooth2,Counter,عداد
+RulesInnerBooth2,Audio Trans.<br>Rule Book<br>Weight,نص صوتي<br>كتاب القواعد<br>الوزن
+RulesInnerBooth2,Bulletin<br>Time &amp; Date,النشرة<br>الوقت والتاريخ
+RulesInnerBooth2,UPGRADES,ترقيات
+RulesInnerBooth2,NO UPGRADES<br>INSTALLED,لا توجد ترقيات<br>مثبتة
+RulesInnerBooth3,INSPECTOR'S BOOTH,كشك المفتش
+RulesInnerBooth3,Shutter<br>Time &amp; Date<br>Weight,مصراع<br>الوقت والتاريخ<br>الوزن
+RulesInnerBooth3,Counter,عداد
+RulesInnerBooth3,Rule Book<br>Audio Trans.<br>Bulletin,كتاب القواعد<br>نص صوتي<br>النشرة
+RulesInnerBooth3,UPGRADES,ترقيات
+RulesInnerBooth3,NO UPGRADES<br>INSTALLED,لا توجد ترقيات<br>مثبتة
+RulesInnerDocs,OFFICIALLY RECOGNIZED,معترف به رسميًا
+RulesInnerDocs,DOCUMENTS,مستندات
+RulesInnerDocs,CONTENTS,محتويات
+RulesInnerEntryPermit,ENTRY PERMIT,تصريح دخول
+RulesInnerEntryPermit,VALID SEALS,أختام صالحة
+RulesInnerIdCard,ARSTOTZKAN<br>ID CARD,بطاقة هوية<br>أرستوتزكا
+RulesInnerIdCard,ISSUED TO ALL ARSTOTZKAN CITIZENS,صادرة لجميع مواطني أرستوتزكا
+RulesInnerIdCard,DISTRICTS,أحياء
+RulesInnerIdSupplement,IDENTITY<br>SUPPLEMENT,ملحق<br>الهوية
+RulesInnerIdSupplement,ISSUED TO ALL QUALIFIED FOREIGNERS,صادرة لجميع الأجانب المؤهلين
+RulesInnerIdSupplement,FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE,للتحقق من المظهر الجسدي للأجنبي
+RulesInnerIdSupplement,VERIFY THUMBPRINT ONLY WHEN FINGERPRINT RECORD IS AVAILABLE,تحقق من بصمة الإبهام فقط عند توفر سجل البصمات
+RulesInnerIdSupplement,THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY,هذا مستند إصدار قصير - تحقق من انتهاء الصلاحية بعناية
+RulesInnerAccessPermit,ACCESS PERMIT,تصريح دخول
+RulesInnerAccessPermit,VALID SEALS,أختام صالحة
+RulesInnerAccessPermit,THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT,هذا المستند يحل محل تصريح الدخول وملحق الهوية
+RulesInnerWorkPermit,WORK PASS,تصريح عمل
+RulesInnerWorkPermit,ISSUED TO ALL QUALIFIED FOREIGN LABOR,صادرة لجميع العمال الأجانب المؤهلين
+RulesInnerWorkPermit,VALID SEALS,أختام صالحة
+RulesInnerDiplomaticAuth,DIPLOMATIC,دبلوماسي
+RulesInnerDiplomaticAuth,AUTHORIZATION,تفويض
+RulesInnerDiplomaticAuth,VALIDATE SEAL WITH COUNTRY PAGE,تحقق من الختم بصفحة الدولة
+RulesInnerAsylumGrant,GRANT OF<br>ASYLUM,منح<br>لجوء
+RulesInnerAsylumGrant,VALID SEALS,أختام صالحة
+RulesInnerAsylumGrant,ALWAYS VERIFY FINGERPRINTS,تحقق دائمًا من البصمات
+RulesInnerVaccineCert,VACCINE CERTIFICATE,شهادة تطعيم
+RulesInnerVaccineCert,MINISTRY,وزارة
+RulesInnerVaccineCert,OF,ال
+RulesInnerVaccineCert,HEALTH,صحة
+RulesInnerVaccineCert,REGULATION DOCUMENT,مستند تنظيمي
+RulesInnerVaccineCert,POLIO VACCINATION REQUIRED FOR ALL ENTRANTS,التطعيم ضد شلل الأطفال مطلوب لجميع الداخلين
+RulesInnerVaccineCert,NO EXCEPTIONS,لا استثناءات
+RulesInnerConfiscation,PASSPORT CONFISCATION,مصادرة جواز السفر
+RulesInnerConfiscation,DROP PASSPORT IN CONFISCATION DRAWER,أسقط جواز السفر في درج المصادرة
+RulesInnerConfiscation,POLICY,سياسة
+RulesInnerConfiscation,PASSPORT MUST BE CONFISCATED BEFORE DETAINING,يجب مصادرة جواز السفر قبل الاحتجاز
+RulesInnerConfiscation,MOI,وزارة المعلومات
+tweak-rulesinnerlast-moa-style,propaganda,دعاية
 tweak-rulesinnerlast-moa-style,0px,0px
-RulesInnerLast,PROPERTY OF,PROPERTY OF
-RulesInnerLast,M.O.A.,M.O.A.
-RulesInnerLast,GLORY TO ARSTOTZKA,GLORY TO ARSTOTZKA
-RulesInnerLast,Arstotzkan,Arstotzkan
-RulesInnerLast,Ministry of Admission,Ministry of Admission
-RulesInnerLast,Rules &amp; Regulations,Rules &amp; Regulations
-RulesInnerLast,for Inspectors,for Inspectors
-RulesInnerLast,1982-1983 Edition,1982-1983 Edition
-RulesInnerLast,DO NOT DISTRIBUTE UNDER SEVERE<br>PENALTY,DO NOT DISTRIBUTE UNDER SEVERE<br>PENALTY
-RulesTabConfL,CONF.,CONF.
-RulesTabConfR,CONF.,CONF.
-RulesTabDocsL,DOCS,DOCS
-RulesTabDocsR,DOCS,DOCS
-RulesTabMapL,MAP,MAP
-RulesTabMapR,MAP,MAP
-RulesTabRulesL,RULES,RULES
-RulesTabRulesR,RULES,RULES
-RulesUpgrade0,TOGGLE INSPECT,TOGGLE INSPECT
-RulesUpgrade0,SPACE,SPACE
-RulesUpgrade1,TOGGLE STAMP BAR,TOGGLE STAMP BAR
-RulesUpgrade1,TAB,TAB
-RulesUpgrade2,RULEBOOK SHORTCUTS,RULEBOOK SHORTCUTS
-RulesUpgrade3,QUICK INSPECT,QUICK INSPECT
-RulesUpgrade3,DOUBLE-CLICK,DOUBLE-CLICK
-RulesUpgrade4,MULTITOUCH,MULTITOUCH
-SeizureSlipInner,Arstotzka Ministry of Admission,Arstotzka Ministry of Admission
-SeizureSlipInner,PASSPORT SEIZURE SLIP,PASSPORT SEIZURE SLIP
-SeizureSlipInner,ENTRY VISA,ENTRY VISA
-SeizureSlipInner,Your passport has been seized.,Your passport has been seized.
-SeizureSlipInner,Contact 1509-6103 for redress.,Contact 1509-6103 for redress.
-SpyDocsInnerBack,Mating Habits of Lesser Kolechian Waterfowl,Mating Habits of Lesser Kolechian Waterfowl
-SpyDocsInnerBack,A FULL REPORT,A FULL REPORT
-SpyDocsInnerBack,Ministry of Information,Ministry of Information
-TranscriptInner,AUDIO TRANSCRIPT,AUDIO TRANSCRIPT
-VaccineCertInner,Certificate<span>of</span>Vaccination,Certificate<span>of</span>Vaccination
-VaccineCertInner,ID#,ID#
-VaccineCertInner,DATE,DATE
-VaccineCertInner,VACCINE,VACCINE
-VaccineCertInner,Vax valid for 3 years,Vax valid for 3 years
-VisaSlipInner,TEMPORARY VISA SLIP,TEMPORARY VISA SLIP
-VisaSlipInner,ENTRY VISA,ENTRY VISA
-VisaSlipInner,TO BE USED FOR DENIALS ONLY,TO BE USED FOR DENIALS ONLY
-WorkPermitInner,Ministry of Labor,Ministry of Labor
-WorkPermitInner,Work Pass,Work Pass
-WorkPermitInner,This pass grants its holder the right to work in a specific field for a limited time.,This pass grants its holder the right to work in a specific field for a limited time.
-WorkPermitInner,HOLDER,HOLDER
-WorkPermitInner,FIELD,FIELD
-WorkPermitInner,UNTIL,UNTIL
-WorkPermitInner,Keep this pass with you at all times.,Keep this pass with you at all times.
-EndNews,Kolechian Consensus Reached Over Grestin,Kolechian Consensus Reached Over Grestin
-ApartmentClass,CLASS,CLASS
-DetainButton,DETAIN,DETAIN
-FingerprintButton,FINGERPRINT,FINGERPRINT
+RulesInnerLast,PROPERTY OF,ملك لـ
+RulesInnerLast,M.O.A.,وزارة القبول.
+RulesInnerLast,GLORY TO ARSTOTZKA,المجد لأرستوتزكا
+RulesInnerLast,Arstotzkan,أرستوتزكي
+RulesInnerLast,Ministry of Admission,وزارة القبول
+RulesInnerLast,Rules &amp; Regulations,قواعد ولوائح
+RulesInnerLast,for Inspectors,للمفتشين
+RulesInnerLast,1982-1983 Edition,إصدار 1982-1983
+RulesInnerLast,DO NOT DISTRIBUTE UNDER SEVERE<br>PENALTY,لا توزع تحت طائلة<br>عقوبة شديدة
+RulesTabConfL,CONF.,تأكيد.
+RulesTabConfR,CONF.,تأكيد.
+RulesTabDocsL,DOCS,مستندات
+RulesTabDocsR,DOCS,مستندات
+RulesTabMapL,MAP,خريطة
+RulesTabMapR,MAP,خريطة
+RulesTabRulesL,RULES,قواعد
+RulesTabRulesR,RULES,قواعد
+RulesUpgrade0,TOGGLE INSPECT,تبديل التفتيش
+RulesUpgrade0,SPACE,مسافة
+RulesUpgrade1,TOGGLE STAMP BAR,تبديل شريط الختم
+RulesUpgrade1,TAB,تبويب
+RulesUpgrade2,RULEBOOK SHORTCUTS,اختصارات كتاب القواعد
+RulesUpgrade3,QUICK INSPECT,تفتيش سريع
+RulesUpgrade3,DOUBLE-CLICK,نقر مزدوج
+RulesUpgrade4,MULTITOUCH,لمس متعدد
+SeizureSlipInner,Arstotzka Ministry of Admission,وزارة القبول أرستوتزكا
+SeizureSlipInner,PASSPORT SEIZURE SLIP,إيصال مصادرة جواز السفر
+SeizureSlipInner,ENTRY VISA,تأشيرة دخول
+SeizureSlipInner,Your passport has been seized.,تمت مصادرة جواز سفرك.
+SeizureSlipInner,Contact 1509-6103 for redress.,اتصل بـ 1509-6103 للتعويض.
+SpyDocsInnerBack,Mating Habits of Lesser Kolechian Waterfowl,عادات التزاوج لطيور كوليتشيا المائية الصغيرة
+SpyDocsInnerBack,A FULL REPORT,تقرير كامل
+SpyDocsInnerBack,Ministry of Information,وزارة المعلومات
+TranscriptInner,AUDIO TRANSCRIPT,نص صوتي
+VaccineCertInner,Certificate<span>of</span>Vaccination,شهادة<span>تطعيم</span>
+VaccineCertInner,ID#,رقم الهوية
+VaccineCertInner,DATE,التاريخ
+VaccineCertInner,VACCINE,التطعيم
+VaccineCertInner,Vax valid for 3 years,التطعيم صالح لمدة 3 سنوات
+VisaSlipInner,TEMPORARY VISA SLIP,إيصال تأشيرة مؤقت
+VisaSlipInner,ENTRY VISA,تأشيرة دخول
+VisaSlipInner,TO BE USED FOR DENIALS ONLY,للاستخدام في الرفض فقط
+WorkPermitInner,Ministry of Labor,وزارة العمل
+WorkPermitInner,Work Pass,تصريح عمل
+WorkPermitInner,This pass grants its holder the right to work in a specific field for a limited time.,يمنح هذا التصريح لحامله الحق في العمل في مجال محدد لوقت محدود.
+WorkPermitInner,HOLDER,الحامل
+WorkPermitInner,FIELD,المجال
+WorkPermitInner,UNTIL,حتى
+WorkPermitInner,Keep this pass with you at all times.,احتفظ بهذا التصريح معك في جميع الأوقات.
+EndNews,Kolechian Consensus Reached Over Grestin,تم التوصل إلى إجماع كوليتشي حول جريستين
+ApartmentClass,CLASS,فئة
+DetainButton,DETAIN,احتجاز
+FingerprintButton,FINGERPRINT,بصمة
 tweak-searchbutton-padding-left,4px,4px
-SearchButton,SEARCH,SEARCH
-EmblemsMOA,M.O.A,M.O.A
-EmblemsMOA,M.O.L,M.O.L
-EmblemsMOL,M.O.L,M.O.L
-Filer,CONFISCATED DOCUMENTS,CONFISCATED DOCUMENTS
-Filer,PROPERTY OF,PROPERTY OF
-Filer,M.O.A.,M.O.A.
-GiveIcon,GIVE,GIVE
-LoadButtonNew,NEW,NEW
-LoadDay,DAY,DAY
-LoadDrag,DRAG TO SCROLL,DRAG TO SCROLL
-News,The Truth of Arstotzka,The Truth of Arstotzka
-News,No Charge,No Charge
-ReasonButton,REASON,REASON
-RifleKill,KILL,KILL
-RifleTranq,TRANQ,TRANQ
-StampBarMid,ALIGN VISA BENEATH STAMP,ALIGN VISA BENEATH STAMP
-Upgrades,SPACE,SPACE
-Upgrades,TAB,TAB
+SearchButton,SEARCH,بحث
+EmblemsMOA,M.O.A,وزارة القبول
+EmblemsMOA,M.O.L,وزارة العمل
+EmblemsMOL,M.O.L,وزارة العمل
+Filer,CONFISCATED DOCUMENTS,مستندات مصادرة
+Filer,PROPERTY OF,ملك لـ
+Filer,M.O.A.,وزارة القبول.
+GiveIcon,GIVE,أعط
+LoadButtonNew,NEW,جديد
+LoadDay,DAY,يوم
+LoadDrag,DRAG TO SCROLL,اسحب للتمرير
+News,The Truth of Arstotzka,حقيقة أرستوتزكا
+News,No Charge,بدون تكلفة
+ReasonButton,REASON,سبب
+RifleKill,KILL,قتل
+RifleTranq,TRANQ,مهدئ
+StampBarMid,ALIGN VISA BENEATH STAMP,اصطف التأشيرة أسفل الختم
+Upgrades,SPACE,مسافة
+Upgrades,TAB,تبويب
 image:ArskickersInner.png,capture/ArskickersInner.png,capture/ArskickersInner.png
-ArskickersInner,HANG ON WALL,HANG ON WALL
+ArskickersInner,HANG ON WALL,علق على الحائط
 image:BrothelFlyerInner.png,capture/BrothelFlyerInner.png,capture/BrothelFlyerInner.png
-BrothelFlyerInner,East Grestin,East Grestin
-BrothelFlyerInner,FOR ALL YOUR FANTASIES,FOR ALL YOUR FANTASIES
+BrothelFlyerInner,East Grestin,شرق جريستين
+BrothelFlyerInner,FOR ALL YOUR FANTASIES,لجميع خيالاتك
 image:PezpertInner.png,capture/PezpertInner.png,capture/PezpertInner.png
-PezpertInner,STAMP HERE,STAMP HERE
+PezpertInner,STAMP HERE,اختم هنا
 image:SonDrawingInner.png,capture/SonDrawingInner.png,capture/SonDrawingInner.png
-SonDrawingInner,hanG on wAll,hanG on wAll
+SonDrawingInner,hanG on wAll,علق على الحائط
 image:SonDrawingOuter.png,capture/SonDrawingOuter.png,capture/SonDrawingOuter.png
 image:SonDrawingMount.png,capture/SonDrawingMount.png,capture/SonDrawingMount.png
 image:VictimPhotoInnerBack.png,capture/VictimPhotoInnerBack.png,capture/VictimPhotoInnerBack.png
@@ -382,222 +382,222 @@ image:Arstotzka.png,export/Arstotzka.png,export/Arstotzka.png
 image:Intro1.png,export/Intro1.png,export/Intro1.png
 image:Obrinspector.png,export/Obrinspector.png,export/Obrinspector.png
 image:Shutter.png,export/Shutter.png,export/Shutter.png
-news:RANDOM_WEATHER,The Weather,The Weather
-news:RANDOM_SPORTS,Sports,Sports
-news:RANDOM_ENTERTAINMENT,Entertainment,Entertainment
-news:RANDOM_POLITICS,Politics,Politics
-news:FIRST_DAY,Grestin Border Checkpoint Opens At Last!,Grestin Border Checkpoint Opens At Last!
-news:FIRST_DAY,After 6 Long Years. Can the Ministry of Admission Keep Us Safe?,After 6 Long Years. Can the Ministry of Admission Keep Us Safe?
-news:FIRST_DAY,Families To Reunite,Families To Reunite
-news:CHECKPOINT_SUCCESS,Grestin Checkpoint a Success!,Grestin Checkpoint a Success!
-news:CHECKPOINT_SUCCESS,"Entry Restrictions To Relax, Admit Foreigners","Entry Restrictions To Relax, Admit Foreigners"
-news:CHECKPOINT_SUCCESS,Analysts Upbeat,Analysts Upbeat
-news:CHECKPOINT_SUCCESS,Increased Trade And Cooperation Predicted,Increased Trade And Cooperation Predicted
-news:FIRST_TERRORISTS,Terrorists Strike At Grestin!,Terrorists Strike At Grestin!
-news:FIRST_TERRORISTS,Kolechian Agitators Suspected.,Kolechian Agitators Suspected.
-news:FIRST_TERRORISTS,Checkpoint Lockdown,Checkpoint Lockdown
-news:FIRST_TERRORISTS,More Guards - More Scrutiny,More Guards - More Scrutiny
-news:BLACKMARKET_EXPLODES,Blackmarket Activity Explodes,Blackmarket Activity Explodes
-news:BLACKMARKET_EXPLODES,Government Blames Lax Immigration Controls,Government Blames Lax Immigration Controls
-news:BLACKMARKET_EXPLODES,Checkpoint Expansion Postponed,Checkpoint Expansion Postponed
-news:WORKPERMIT_FIRST,"Jobs Few, Becoming Fewer","Jobs Few, Becoming Fewer"
-news:WORKPERMIT_FIRST,Immigrants Taking Jobs From Locals,Immigrants Taking Jobs From Locals
-news:KOLECHIA_COMPLAINS_SEARCH,Kolechian Leader Files Complaint,Kolechian Leader Files Complaint
-news:KOLECHIA_COMPLAINS_SEARCH,Claims Unprovoked Border Searches Violate Rights,Claims Unprovoked Border Searches Violate Rights
-news:AFTER_SUICIDE_BOMBER,Another Attack At Grestin Checkpoint!,Another Attack At Grestin Checkpoint!
-news:AFTER_SUICIDE_BOMBER,Suicide Bomber Slips Through Security,Suicide Bomber Slips Through Security
-news:GENERIC_BOMBER,Grestin Suffers Another Border Attack,Grestin Suffers Another Border Attack
-news:GENERIC_BOMBER,Suicide Bombings Becoming Routine,Suicide Bombings Becoming Routine
-news:PIMP_BUSTED,Human Trafficking Ring Shut Down!,Human Trafficking Ring Shut Down!
-news:PIMP_BUSTED,Grestin Checkpoint Officer Nabs Mastermind,Grestin Checkpoint Officer Nabs Mastermind
-news:PIMP_ESCAPED,Dancers At Grestin Club Found Dead!,Dancers At Grestin Club Found Dead!
-news:PIMP_ESCAPED,Newly Immigrated Girls Victims Of Human Trafficking,Newly Immigrated Girls Victims Of Human Trafficking
-news:KILLERATHLETE,Republian Track Star Wanted For Murder!,Republian Track Star Wanted For Murder!
-news:KILLERATHLETE,Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia,Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia
-news:KILLERATHLETE,Vince Lestrade: Profile,Vince Lestrade: Profile
-news:KILLERATHLETE,Girlfriend Killed In Jealous Rage?,Girlfriend Killed In Jealous Rage?
-news:KILLERATHLETE_DETAINED,Vince Lestrade Apprehended In Grestin!,Vince Lestrade Apprehended In Grestin!
-news:KILLERATHLETE_DETAINED,Track Champ Looks Quite Guilty Now,Track Champ Looks Quite Guilty Now
-news:KILLERATHLETE_APPROVED,Vince Lestrade Spotted in Arstotzka,Vince Lestrade Spotted in Arstotzka
-news:KILLERATHLETE_DENIED,Vince Lestrade Apprehended In Kolechia!,Vince Lestrade Apprehended In Kolechia!
-news:DIPLOMAT_FIRST,Kolechia Sends Top-Level Diplomat,Kolechia Sends Top-Level Diplomat
-news:DIPLOMAT_FIRST,Normalizing Trade Top Issue,Normalizing Trade Top Issue
-news:BUSTED_SPY,Top-level Kolechian Exposed as Arstotzkan Spy!,Top-level Kolechian Exposed as Arstotzkan Spy!
-news:BUSTED_SPY,"Missing From Post, Presumed Dead","Missing From Post, Presumed Dead"
-news:BUSTED_SPY_GAVEREALDOCS,Kolechia Cleans House - Eliminates Arstotzkan Spies,Kolechia Cleans House - Eliminates Arstotzkan Spies
-news:BUSTED_SPY_GAVEREALDOCS,Heroic Agents Compromised,Heroic Agents Compromised
-news:BUSTED_SPY_GAVEFAKEDOCS,Kolechia Cleans House - Attacks Its Own!,Kolechia Cleans House - Attacks Its Own!
-news:BUSTED_SPY_GAVEFAKEDOCS,Round Of Disappearances Blamed On Faulty Evidence,Round Of Disappearances Blamed On Faulty Evidence
-news:FORGERY_NEWS,Theft At Ministry Of Admission!,Theft At Ministry Of Admission!
-news:FORGERY_NEWS,Limited Effects - Few Items Stolen,Limited Effects - Few Items Stolen
-news:SECRET_SOCIETY,The History of Arstotzka,The History of Arstotzka
-news:SECRET_SOCIETY,In Pictures and Words - Mostly Words,In Pictures and Words - Mostly Words
-news:CRIMINAL_ACTIVITY,A Criminal's Safe Haven,A Criminal's Safe Haven
-news:CRIMINAL_ACTIVITY,Arstotzka Earns Dubious Reputation,Arstotzka Earns Dubious Reputation
-news:LOSING_GUARDS,Ministries Fight Over Staff,Ministries Fight Over Staff
-news:LOSING_GUARDS,"Qualified Guards, Soldiers In Demand","Qualified Guards, Soldiers In Demand"
-news:LOSING_GUARDS,"Consolidation, Reassignment At Border","Consolidation, Reassignment At Border"
-news:LOSING_GUARDS,Still Safe With Smaller Detail?,Still Safe With Smaller Detail?
-news:RUNNER_AFTER_TRANQ,Grestin Incident Highlights Security Risks,Grestin Incident Highlights Security Risks
-news:RUNNER_AFTER_TRANQ,Further Breaches Predicted,Further Breaches Predicted
-news:BIKE_ATTACK,Daring Bike Attack At Grestin Checkpoint!,Daring Bike Attack At Grestin Checkpoint!
-news:BIKE_ATTACK,Extremists Growing Bolder - Grestin Like Magnet,Extremists Growing Bolder - Grestin Like Magnet
-news:BORDER_TARGETED,Can The Wall Hold?,Can The Wall Hold?
-news:BORDER_TARGETED,Border Safety Continually Questioned,Border Safety Continually Questioned
-news:BIKERUNNER_NEWS,Coordinated Border Breach!,Coordinated Border Breach!
-news:BIKERUNNER_NEWS,Unknown Assailants Swamp Security,Unknown Assailants Swamp Security
-news:NOSY_JOURNALIST_APPROVED,Arstotzka's Frail Border,Arstotzka's Frail Border
-news:NOSY_JOURNALIST_APPROVED,United Fed Reporter Exposes Lax Protocols,United Fed Reporter Exposes Lax Protocols
-news:NOSY_JOURNALIST_DENIED,Arstotzka's Iron Border,Arstotzka's Iron Border
-news:NOSY_JOURNALIST_DENIED,Int. Media Reveals Entry Visa Bias,Int. Media Reveals Entry Visa Bias
-news:IDSUPPLEMENT_INTRO,Another Bomber Slips Through!,Another Bomber Slips Through!
-news:IDSUPPLEMENT_INTRO,Immigrant Screening Falls Short,Immigrant Screening Falls Short
-news:IDSUPPLEMENT_INTRO,M.O.A. Gets New Director,M.O.A. Gets New Director
-news:IDSUPPLEMENT_INTRO,Stricter Protocols Promised at Border,Stricter Protocols Promised at Border
-news:WHISTLEBLOWER_SETUP0,Antegria Domestic Spying Exposed!,Antegria Domestic Spying Exposed!
-news:WHISTLEBLOWER_SETUP0,Whistleblower On The Run,Whistleblower On The Run
-news:WHISTLEBLOWER_SETUP1,Antegrian Whistleblower Denied Asylum In Republia,Antegrian Whistleblower Denied Asylum In Republia
-news:WHISTLEBLOWER_SETUP2,Antegrian Whistleblower Turned Away From United Fed,Antegrian Whistleblower Turned Away From United Fed
-news:WHISTLEBLOWER_COMING,Antegrian Whistleblower Accepted By Arstotzka,Antegrian Whistleblower Accepted By Arstotzka
-news:WHISTLEBLOWER_COMING,Move Risks Angering Neighbors,Move Risks Angering Neighbors
-news:WHISTLEBLOWER_IN,Antegrian Whistleblower Arrives - Disappears Immediately,Antegrian Whistleblower Arrives - Disappears Immediately
-news:WHISTLEBLOWER_OUT,Antegrian Whistleblower Turned Away - Whereabouts Unknown,Antegrian Whistleblower Turned Away - Whereabouts Unknown
-news:IMPOR_UNHAPPY,Impor Protests Unbalanced Trade Restrictions,Impor Protests Unbalanced Trade Restrictions
-news:IMPOR_UNHAPPY,Claims Arstotzka Unfairly Taxes Imporian Goods,Claims Arstotzka Unfairly Taxes Imporian Goods
-news:IMPOR_SANCTIONS_START,Impor Begins Trade Sanctions!,Impor Begins Trade Sanctions!
-news:IMPOR_SANCTIONS_START,Immediately Restricts All Imports From Arstotzka,Immediately Restricts All Imports From Arstotzka
-news:IMPOR_SANCTIONS_END,Impor Sanctions End!,Impor Sanctions End!
-news:IMPOR_SANCTIONS_END,Over So Fast? What Happened?,Over So Fast? What Happened?
-news:SURGERY_SETUP,Breakthrough Spinal Surgery Perfected,Breakthrough Spinal Surgery Perfected
-news:SURGERY_SETUP,Only Possible With Arstotzkan Expertise,Only Possible With Arstotzkan Expertise
-news:VIRUS_PRIMER,Polio Resurfaces In United Fed,Polio Resurfaces In United Fed
-news:VIRUS_PRIMER,Isolated Diagnosis Or Something More?,Isolated Diagnosis Or Something More?
-news:VIRUS_BAN_UNITED_FED,Full-blown Epidemic Threatens United Fed!,Full-blown Epidemic Threatens United Fed!
-news:VIRUS_BAN_UNITED_FED,"Previously Under Control, Polio Back With Vengeance","Previously Under Control, Polio Back With Vengeance"
-news:VIRUS_REQUIRE_CERT,Ministry of Health Acts To Protect Citizens,Ministry of Health Acts To Protect Citizens
-news:VIRUS_REQUIRE_CERT,"New Policy, Safeguards At Borders","New Policy, Safeguards At Borders"
-news:SERIAL_KILLER,Serial Child Killer Escapes United Fed Prison!,Serial Child Killer Escapes United Fed Prison!
-news:SERIAL_KILLER,Simon Wens: An Arstotzkan Native - Returning Home?,Simon Wens: An Arstotzkan Native - Returning Home?
-news:SERIAL_KILLER_MURDERED,Bloody Scene In Gennistora!,Bloody Scene In Gennistora!
-news:SERIAL_KILLER_MURDERED,Simon Wens Found Dead In Confusing Mess,Simon Wens Found Dead In Confusing Mess
-news:EZIC_ATTACK0,Grestin Metro Halted,Grestin Metro Halted
-news:EZIC_ATTACK0,"Tunnel Cave-in, Hints At Sabotage","Tunnel Cave-in, Hints At Sabotage"
-news:EZIC_ATTACK1_GIFT,Gov't Headquarters In Paradizna Evacuated!,Gov't Headquarters In Paradizna Evacuated!
-news:EZIC_ATTACK1_GIFT,"Strange Gas Detected - Staff Safe, Records Missing","Strange Gas Detected - Staff Safe, Records Missing"
-news:EZIC_ATTACK1_NOGIFT,Head Minister Of Finance Missing!,Head Minister Of Finance Missing!
-news:EZIC_ATTACK1_NOGIFT,"Markets React With Fast Selling, Instability","Markets React With Fast Selling, Instability"
-news:POISONING,Mysterious Poison Hospitalizes Several!,Mysterious Poison Hospitalizes Several!
-news:POISONING,Unnamed Immigrant Smuggles Deadly Agent,Unnamed Immigrant Smuggles Deadly Agent
-news:MARKED_DIPLOMAT,Top-Level Talks Called,Top-Level Talks Called
-news:MARKED_DIPLOMAT,Grestin Territory Remains Dividing Issue,Grestin Territory Remains Dividing Issue
-news:DIPLOMAT_SWAPPED,Kolechians Are Crazy,Kolechians Are Crazy
-news:DIPLOMAT_SWAPPED,Bizarre Behavior From Top Negotiator Spoils Talks,Bizarre Behavior From Top Negotiator Spoils Talks
-news:DIPLOMAT_ORIGINAL,A Tentative Understanding,A Tentative Understanding
-news:DIPLOMAT_ORIGINAL,Kolechian Talks Establish Common Ground,Kolechian Talks Establish Common Ground
-news:TALKS_BREAK_DOWN,Roadblock To Kolechian Resolution,Roadblock To Kolechian Resolution
-news:TALKS_BREAK_DOWN,Contested City Drives Wedge,Contested City Drives Wedge
-news:BORDER_CLOSING,Grestin Checkpoint Future Uncertain,Grestin Checkpoint Future Uncertain
-news:BORDER_CLOSING,"Too Open, Too Soon?","Too Open, Too Soon?"
-text:language_code,en,en
-text:language_name,ENGLISH,ENGLISH
-text:language_author,Author,Author
+news:RANDOM_WEATHER,The Weather,الطقس
+news:RANDOM_SPORTS,Sports,رياضة
+news:RANDOM_ENTERTAINMENT,Entertainment,ترفيه
+news:RANDOM_POLITICS,Politics,سياسة
+news:FIRST_DAY,Grestin Border Checkpoint Opens At Last!,افتتاح نقطة تفتيش حدود جريستين أخيرًا!
+news:FIRST_DAY,After 6 Long Years. Can the Ministry of Admission Keep Us Safe?,بعد 6 سنوات طويلة. هل تستطيع وزارة القبول أن تحمينا؟
+news:FIRST_DAY,Families To Reunite,عائلات لتعود
+news:CHECKPOINT_SUCCESS,Grestin Checkpoint a Success!,نقطة تفتيش جريستين نجاح!
+news:CHECKPOINT_SUCCESS,"Entry Restrictions To Relax, Admit Foreigners","تخفيف قيود الدخول، قبول الأجانب"
+news:CHECKPOINT_SUCCESS,Analysts Upbeat,المحللون متفائلون
+news:CHECKPOINT_SUCCESS,Increased Trade And Cooperation Predicted,توقع زيادة التجارة والتعاون
+news:FIRST_TERRORISTS,Terrorists Strike At Grestin!,إرهابيون يضربون في جريستين!
+news:FIRST_TERRORISTS,Kolechian Agitators Suspected.,مشاغلون كوليتشيون مشتبه بهم.
+news:FIRST_TERRORISTS,Checkpoint Lockdown,إغلاق نقطة التفتيش
+news:FIRST_TERRORISTS,More Guards - More Scrutiny,المزيد من الحراس - المزيد من التدقيق
+news:BLACKMARKET_EXPLODES,Blackmarket Activity Explodes,انفجار نشاط السوق السوداء
+news:BLACKMARKET_EXPLODES,Government Blames Lax Immigration Controls,الحكومة تلوم ضعف ضوابط الهجرة
+news:BLACKMARKET_EXPLODES,Checkpoint Expansion Postponed,تأجيل توسيع نقطة التفتيش
+news:WORKPERMIT_FIRST,"Jobs Few, Becoming Fewer","وظائف قليلة، تصبح أقل"
+news:WORKPERMIT_FIRST,Immigrants Taking Jobs From Locals,المهاجرون يأخذون وظائف السكان المحليين
+news:KOLECHIA_COMPLAINS_SEARCH,Kolechian Leader Files Complaint,زعيم كوليتشي يقدم شكوى
+news:KOLECHIA_COMPLAINS_SEARCH,Claims Unprovoked Border Searches Violate Rights,يدعي أن عمليات التفتيش الحدودية غير المبررة تنتهك الحقوق
+news:AFTER_SUICIDE_BOMBER,Another Attack At Grestin Checkpoint!,هجوم آخر في نقطة تفتيش جريستين!
+news:AFTER_SUICIDE_BOMBER,Suicide Bomber Slips Through Security,انتحاري يتسلل عبر الأمن
+news:GENERIC_BOMBER,Grestin Suffers Another Border Attack,جريستين تعاني من هجوم حدودي آخر
+news:GENERIC_BOMBER,Suicide Bombings Becoming Routine,تفجيرات انتحارية تصبح روتينية
+news:PIMP_BUSTED,Human Trafficking Ring Shut Down!,إغلاق شبكة الاتجار بالبشر!
+news:PIMP_BUSTED,Grestin Checkpoint Officer Nabs Mastermind,ضابط نقطة تفتيش جريستين يمسك بالعقل المدبر
+news:PIMP_ESCAPED,Dancers At Grestin Club Found Dead!,راقصات في نادي جريستين وجدن ميتات!
+news:PIMP_ESCAPED,Newly Immigrated Girls Victims Of Human Trafficking,فتيات مهاجرات حديثًا ضحايا للاتجار بالبشر
+news:KILLERATHLETE,Republian Track Star Wanted For Murder!,نجم المضمار الريبوبلي مطلوب للقتل!
+news:KILLERATHLETE,Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia,مكان فينس ليستراد مجهول - من المحتمل أنه هرب من ريبوبليا
+news:KILLERATHLETE,Vince Lestrade: Profile,فنس ليستراد: ملف شخصي
+news:KILLERATHLETE,Girlfriend Killed In Jealous Rage?,صديقته قتلت في نوبة غيرة؟
+news:KILLERATHLETE_DETAINED,Vince Lestrade Apprehended In Grestin!,القبض على فينس ليستراد في جريستين!
+news:KILLERATHLETE_DETAINED,Track Champ Looks Quite Guilty Now,بطل المضمار يبدو مذنبًا جدًا الآن
+news:KILLERATHLETE_APPROVED,Vince Lestrade Spotted in Arstotzka,رصد فينس ليستراد في أرستوتزكا
+news:KILLERATHLETE_DENIED,Vince Lestrade Apprehended In Kolechia!,القبض على فينس ليستراد في كوليتشيا!
+news:DIPLOMAT_FIRST,Kolechia Sends Top-Level Diplomat,كوليتشيا ترسل دبلوماسيًا رفيع المستوى
+news:DIPLOMAT_FIRST,Normalizing Trade Top Issue,تطبيع التجارة قضية رئيسية
+news:BUSTED_SPY,Top-level Kolechian Exposed as Arstotzkan Spy!,كشف النقاب عن كوليتشي رفيع المستوى كجاسوس أرستوتزكي!
+news:BUSTED_SPY,"Missing From Post, Presumed Dead","مفقود من منصبه، مفترض أنه ميت"
+news:BUSTED_SPY_GAVEREALDOCS,Kolechia Cleans House - Eliminates Arstotzkan Spies,كوليتشيا تنظف البيت - تقضي على جواسيس أرستوتزكا
+news:BUSTED_SPY_GAVEREALDOCS,Heroic Agents Compromised,تعرض عملاء أبطال للخطر
+news:BUSTED_SPY_GAVEFAKEDOCS,Kolechia Cleans House - Attacks Its Own!,كوليتشيا تنظف البيت - تهاجم نفسها!
+news:BUSTED_SPY_GAVEFAKEDOCS,Round Of Disappearances Blamed On Faulty Evidence,جولة من الاختفاءات تُلقى باللوم على أدلة معيبة
+news:FORGERY_NEWS,Theft At Ministry Of Admission!,سرقة في وزارة القبول!
+news:FORGERY_NEWS,Limited Effects - Few Items Stolen,آثار محدودة - سرقة عدد قليل من العناصر
+news:SECRET_SOCIETY,The History of Arstotzka,تاريخ أرستوتزكا
+news:SECRET_SOCIETY,In Pictures and Words - Mostly Words,بالصور والكلمات - معظمها كلمات
+news:CRIMINAL_ACTIVITY,A Criminal's Safe Haven,ملاذ آمن للمجرمين
+news:CRIMINAL_ACTIVITY,Arstotzka Earns Dubious Reputation,أرستوتزكا تكسب سمعة مشكوك فيها
+news:LOSING_GUARDS,Ministries Fight Over Staff,وزارات تتقاتل على الموظفين
+news:LOSING_GUARDS,"Qualified Guards, Soldiers In Demand","حراس مؤهلون، جنود مطلوبون"
+news:LOSING_GUARDS,"Consolidation, Reassignment At Border","توحيد، إعادة تعيين عند الحدود"
+news:LOSING_GUARDS,Still Safe With Smaller Detail?,هل ما زال آمناً مع تفاصيل أصغر؟
+news:RUNNER_AFTER_TRANQ,Grestin Incident Highlights Security Risks,حادثة جريستين تسلط الضوء على مخاطر أمنية
+news:RUNNER_AFTER_TRANQ,Further Breaches Predicted,توقع المزيد من الاختراقات
+news:BIKE_ATTACK,Daring Bike Attack At Grestin Checkpoint!,هجوم دراجة نارية جريء في نقطة تفتيش جريستين!
+news:BIKE_ATTACK,Extremists Growing Bolder - Grestin Like Magnet,المتطرفون يصبحون أكثر جرأة - جريستين مثل المغناطيس
+news:BORDER_TARGETED,Can The Wall Hold?,هل يمكن للجدار الصمود؟
+news:BORDER_TARGETED,Border Safety Continually Questioned,استمرار التشكيك في أمان الحدود
+news:BIKERUNNER_NEWS,Coordinated Border Breach!,اختراق حدودي منسق!
+news:BIKERUNNER_NEWS,Unknown Assailants Swamp Security,مهاجمون مجهولون يغمرون الأمن
+news:NOSY_JOURNALIST_APPROVED,Arstotzka's Frail Border,حدود أرستوتزكا الهشة
+news:NOSY_JOURNALIST_APPROVED,United Fed Reporter Exposes Lax Protocols,مراسل الاتحاد المتحد يكشف عن بروتوكولات متساهلة
+news:NOSY_JOURNALIST_DENIED,Arstotzka's Iron Border,حدود أرستوتزكا الحديدية
+news:NOSY_JOURNALIST_DENIED,Int. Media Reveals Entry Visa Bias,وسائل الإعلام الدولية تكشف عن تحيز في تأشيرات الدخول
+news:IDSUPPLEMENT_INTRO,Another Bomber Slips Through!,انتحاري آخر يتسلل!
+news:IDSUPPLEMENT_INTRO,Immigrant Screening Falls Short,فحص المهاجرين غير كاف
+news:IDSUPPLEMENT_INTRO,M.O.A. Gets New Director,وزارة القبول تحصل على مدير جديد
+news:IDSUPPLEMENT_INTRO,Stricter Protocols Promised at Border,وعد ببروتوكولات أكثر صرامة عند الحدود
+news:WHISTLEBLOWER_SETUP0,Antegria Domestic Spying Exposed!,كشف عن تجسس داخلي في أنتيجريا!
+news:WHISTLEBLOWER_SETUP0,Whistleblower On The Run,ناقل الأخبار هارب
+news:WHISTLEBLOWER_SETUP1,Antegrian Whistleblower Denied Asylum In Republia,رفض منح اللجوء لناقل الأخبار الأنتيجري في ريبوبليا
+news:WHISTLEBLOWER_SETUP2,Antegrian Whistleblower Turned Away From United Fed,ناقل الأخبار الأنتيجري طُرد من الاتحاد المتحد
+news:WHISTLEBLOWER_COMING,Antegrian Whistleblower Accepted By Arstotzka,أرستوتزكا تقبل ناقل الأخبار الأنتيجري
+news:WHISTLEBLOWER_COMING,Move Risks Angering Neighbors,الخطوة تخاطر بإغضاب الجيران
+news:WHISTLEBLOWER_IN,Antegrian Whistleblower Arrives - Disappears Immediately,وصول ناقل الأخبار الأنتيجري - اختفاء فوري
+news:WHISTLEBLOWER_OUT,Antegrian Whistleblower Turned Away - Whereabouts Unknown,طرد ناقل الأخبار الأنتيجري - مكانه مجهول
+news:IMPOR_UNHAPPY,Impor Protests Unbalanced Trade Restrictions,إمبور تحتج على قيود التجارة غير المتوازنة
+news:IMPOR_UNHAPPY,Claims Arstotzka Unfairly Taxes Imporian Goods,تدعي أن أرستوتزكا تفرض ضرائب غير عادلة على بضائع إمبور
+news:IMPOR_SANCTIONS_START,Impor Begins Trade Sanctions!,إمبور تبدأ عقوبات تجارية!
+news:IMPOR_SANCTIONS_START,Immediately Restricts All Imports From Arstotzka,تقييد فوري لجميع الواردات من أرستوتزكا
+news:IMPOR_SANCTIONS_END,Impor Sanctions End!,انتهاء عقوبات إمبور!
+news:IMPOR_SANCTIONS_END,Over So Fast? What Happened?,انتهت بسرعة؟ ماذا حدث؟
+news:SURGERY_SETUP,Breakthrough Spinal Surgery Perfected,إتقان جراحة العمود الفقري الرائدة
+news:SURGERY_SETUP,Only Possible With Arstotzkan Expertise,ممكنة فقط بخبرة أرستوتزكا
+news:VIRUS_PRIMER,Polio Resurfaces In United Fed,شلل الأطفال يعود في الاتحاد المتحد
+news:VIRUS_PRIMER,Isolated Diagnosis Or Something More?,تشخيص معزول أم شيء أكثر؟
+news:VIRUS_BAN_UNITED_FED,Full-blown Epidemic Threatens United Fed!,وباء كامل يهدد الاتحاد المتحد!
+news:VIRUS_BAN_UNITED_FED,"Previously Under Control, Polio Back With Vengeance","سابقًا تحت السيطرة، شلل الأطفال يعود بقوة"
+news:VIRUS_REQUIRE_CERT,Ministry of Health Acts To Protect Citizens,وزارة الصحة تتحرك لحماية المواطنين
+news:VIRUS_REQUIRE_CERT,"New Policy, Safeguards At Borders","سياسة جديدة، ضمانات عند الحدود"
+news:SERIAL_KILLER,Serial Child Killer Escapes United Fed Prison!,قاتل أطفال متسلسل يهرب من سجن الاتحاد المتحد!
+news:SERIAL_KILLER,Simon Wens: An Arstotzkan Native - Returning Home?,سايمون وينز: مواطن أرستوتزكي - يعود إلى الوطن؟
+news:SERIAL_KILLER_MURDERED,Bloody Scene In Gennistora!,مشهد دموي في جينستورا!
+news:SERIAL_KILLER_MURDERED,Simon Wens Found Dead In Confusing Mess,وجد سايمون وينز ميتًا في فوضى محيرة
+news:EZIC_ATTACK0,Grestin Metro Halted,توقف مترو جريستين
+news:EZIC_ATTACK0,"Tunnel Cave-in, Hints At Sabotage","انهيار نفق، تلميحات إلى تخريب"
+news:EZIC_ATTACK1_GIFT,Gov't Headquarters In Paradizna Evacuated!,إخلاء مقر الحكومة في باراديزنا!
+news:EZIC_ATTACK1_GIFT,"Strange Gas Detected - Staff Safe, Records Missing","تم اكتشاف غاز غريب - الموظفون آمنون، السجلات مفقودة"
+news:EZIC_ATTACK1_NOGIFT,Head Minister Of Finance Missing!,وزير المالية مفقود!
+news:EZIC_ATTACK1_NOGIFT,"Markets React With Fast Selling, Instability","تتفاعل الأسواق مع بيع سريع، عدم استقرار"
+news:POISONING,Mysterious Poison Hospitalizes Several!,سم غريب يدخل عدة أشخاص المستشفى!
+news:POISONING,Unnamed Immigrant Smuggles Deadly Agent,مهاجر مجهول يهرب عاملًا قاتلاً
+news:MARKED_DIPLOMAT,Top-Level Talks Called,دعوة لمحادثات رفيعة المستوى
+news:MARKED_DIPLOMAT,Grestin Territory Remains Dividing Issue,إقليم جريستين يبقى قضية خلافية
+news:DIPLOMAT_SWAPPED,Kolechians Are Crazy,الكوليتشيون مجانين
+news:DIPLOMAT_SWAPPED,Bizarre Behavior From Top Negotiator Spoils Talks,سلوك غريب من المفاوض الرئيسي يفسد المحادثات
+news:DIPLOMAT_ORIGINAL,A Tentative Understanding,تفاهم مؤقت
+news:DIPLOMAT_ORIGINAL,Kolechian Talks Establish Common Ground,محادثات كوليتشيا تؤسس أرضية مشتركة
+news:TALKS_BREAK_DOWN,Roadblock To Kolechian Resolution,عقبة أمام حل كوليتشي
+news:TALKS_BREAK_DOWN,Contested City Drives Wedge,مدينة متنازع عليها تسبب انقسامًا
+news:BORDER_CLOSING,Grestin Checkpoint Future Uncertain,مستقبل نقطة تفتيش جريستين غير مؤكد
+news:BORDER_CLOSING,"Too Open, Too Soon?","مفتوحة جدًا، قريبًا جدًا؟"
+text:language_code,en,ar
+text:language_name,ENGLISH,العربية
+text:language_author,Author,المؤلف
 text:wrap_hyphen,-,-
-text:created_by,created by Lucas Pope,created by Lucas Pope
-text:papers_please,"Papers, please.","Papers, please."
-text:protocol_violated,Protocol Violated.,Protocol Violated.
-text:unauth_confiscation,Unauthorized passport confiscation,Unauthorized passport confiscation
-text:missing_reason,Denial reason not given,Denial reason not given
-text:citation_warning,WARNING ISSUED - NO PENALTY,WARNING ISSUED - NO PENALTY
-text:citation_lastwarning,LAST WARNING - NO PENALTY,LAST WARNING - NO PENALTY
-text:citation_penalty,PENALTY ASSESSED - $0 CREDITS,PENALTY ASSESSED - $0 CREDITS
-text:border_next,NEXT!,NEXT!
-text:border_bomber,FOR KOLECHIA!,FOR KOLECHIA!
-text:border_comeback,COME BACK AT 6AM TOMORROW,COME BACK AT 6AM TOMORROW
-text:border_announce0,ENTRY IS NOT GUARANTEED,ENTRY IS NOT GUARANTEED
-text:border_announce1,HAVE YOUR DOCUMENTS READY,HAVE YOUR DOCUMENTS READY
-text:border_announce2,ARSTOTZKA WELCOMES YOU,ARSTOTZKA WELCOMES YOU
-text:border_guardout,OUT!,OUT!
-text:border_elisa,ELISA!,ELISA!
-text:family_son_budget,SON,SON
-text:family_wife_budget,WIFE,WIFE
-text:family_niece_budget,NIECE,NIECE
-text:family_uncle_budget,UNCLE,UNCLE
-text:family_mil_budget,MIL,MIL
-text:family_son_status,Son,Son
-text:family_wife_status,Wife,Wife
-text:family_niece_status,Niece,Niece
-text:family_uncle_status,Uncle,Uncle
-text:family_mil_status,Mother-in-law,Mother-in-law
-text:family_son_message,son,son
-text:family_wife_message,wife,wife
-text:family_niece_message,niece,niece
-text:family_uncle_message,uncle,uncle
-text:family_mil_message,mother-in-law,mother-in-law
-text:night_endof,END OF,END OF
-text:night_day,DAY $0,DAY $0
-text:family_verysick_1,Your $0 will die without medicine.,Your $0 will die without medicine.
-text:family_verysick_many,Very sick family members will die without medicine.,Very sick family members will die without medicine.
-text:family_sick_1,Your $0 is sick and needs medicine.,Your $0 is sick and needs medicine.
-text:family_sick_many,Your family needs medicine.,Your family needs medicine.
-text:family_died_1,Your $0 has died.,Your $0 has died.
-text:family_died_2,Your $0 and $1 have died.,Your $0 and $1 have died.
-text:family_died_3,"Your $0, $1, and $2 have died.","Your $0, $1, and $2 have died."
-text:family_died_4,"Your $0, $1, $2, and $3 have died.","Your $0, $1, $2, and $3 have died."
-text:family_died_5,"Your $0, $1, $2, $3, and $4 have died.","Your $0, $1, $2, $3, and $4 have died."
-text:family_escape_with_0,You leave behind everything.,You leave behind everything.
-text:family_escape_with_1,You gather your $0 to leave for Obristan.,You gather your $0 to leave for Obristan.
-text:family_escape_with_2,You gather your $0 and $1 to leave for Obristan.,You gather your $0 and $1 to leave for Obristan.
-text:family_escape_with_3,"You gather your $0, $1, and $2 to leave for Obristan.","You gather your $0, $1, and $2 to leave for Obristan."
-text:family_escape_with_4,"You gather your $0, $1, $2, and $3 to leave for Obristan.","You gather your $0, $1, $2, and $3 to leave for Obristan."
-text:family_escape_with_5,"You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","You gather your $0, $1, $2, $3, and $4 to leave for Obristan."
-text:family_escape_without_1,Your $0 prepares to return to Nirsk.,Your $0 prepares to return to Nirsk.
-text:family_escape_without_2,Your $0 and $1 prepare to return to Nirsk.,Your $0 and $1 prepare to return to Nirsk.
-text:family_escape_without_3,"Your $0, $1, and $2 prepare to return to Nirsk.","Your $0, $1, and $2 prepare to return to Nirsk."
-text:family_escape_without_4,"Your $0, $1, $2, and $3 prepare to return to Nirsk.","Your $0, $1, $2, and $3 prepare to return to Nirsk."
-text:family_escape_without_5,"Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk."
-text:family_flee_final_0,Obristan Above All,Obristan Above All
-text:family_flee_final_1,The safety of your $0 is unknown.,The safety of your $0 is unknown.
-text:family_flee_final_2,The safety of your $0 and $1 is unknown.,The safety of your $0 and $1 is unknown.
-text:family_flee_final_3,"The safety of your $0, $1, and $2 is unknown.","The safety of your $0, $1, and $2 is unknown."
-text:family_flee_final_4,"The safety of your $0, $1, $2, and $3 is unknown.","The safety of your $0, $1, $2, and $3 is unknown."
-text:family_flee_final_5,"The safety of your $0, $1, $2, $3, and $4 is unknown.","The safety of your $0, $1, $2, $3, and $4 is unknown."
-text:budget_savings,SAVINGS,SAVINGS
-text:budget_salary,SALARY ($0),SALARY ($0)
-text:budget_penalties,PENALTIES ($0),PENALTIES ($0)
-text:budget_bribes,BRIBES,BRIBES
-text:budget_rent,RENT,RENT
-text:budget_food,FOOD,FOOD
-text:budget_heat,HEAT,HEAT
-text:budget_medicine,MEDICINE ($0),MEDICINE ($0)
-text:budget_sleep,SLEEP,SLEEP
-text:budget_escape,ESCAPE,ESCAPE
-text:menu_back,BACK,BACK
-text:confirm_ok,OKAY,OKAY
-text:confirm_cancel,CANCEL,CANCEL
-text:menu_mainmenu,MAIN MENU,MAIN MENU
-text:menu_resume,RESUME,RESUME
-text:menu_quit,QUIT,QUIT
-text:menu_done,DONE,DONE
-text:menu_story,STORY,STORY
-text:menu_endless,ENDLESS,ENDLESS
-text:menu_play,PLAY,PLAY
-text:menu_fullscreen,Fullscreen,Fullscreen
-text:menu_nudity,Nudity,Nudity
-text:menu_easy,Easy Mode,Easy Mode
-text:menu_vibration,Vibration,Vibration
-text:menu_music,Music,Music
-text:menu_sound,Sound,Sound
-text:menu_dateformat,Date Format,Date Format
-text:menu_language,Language,Language
-text:menu_device,Device,Device
-text:menu_easytip,+ 20 credits per day,+ 20 credits per day
-text:menu_stats,STATS,STATS
-text:menu_next,NEXT,NEXT
-text:menu_walktowork,WALK TO WORK,WALK TO WORK
-text:menu_paused,PAUSED,PAUSED
-text:menu_settings,SETTINGS,SETTINGS
-text:menu_credits,CREDITS,CREDITS
-text:menu_checkforupdates,CHECK FOR UPDATES,CHECK FOR UPDATES
+text:created_by,created by Lucas Pope,من صنع لوكاس بوب
+text:papers_please,"Papers, please.","الأوراق، من فضلك."
+text:protocol_violated,Protocol Violated.,انتهاك البروتوكول.
+text:unauth_confiscation,Unauthorized passport confiscation,مصادرة جواز سفر غير مصرح بها
+text:missing_reason,Denial reason not given,سبب الرفض غير مذكور
+text:citation_warning,WARNING ISSUED - NO PENALTY,تم إصدار تحذير - بدون عقوبة
+text:citation_lastwarning,LAST WARNING - NO PENALTY,تحذير أخير - بدون عقوبة
+text:citation_penalty,PENALTY ASSESSED - $0 CREDITS,تم تقييم العقوبة - $0 ائتمانات
+text:border_next,NEXT!,التالي!
+text:border_bomber,FOR KOLECHIA!,من أجل كوليتشيا!
+text:border_comeback,COME BACK AT 6AM TOMORROW,عد غدًا في الساعة 6 صباحًا
+text:border_announce0,ENTRY IS NOT GUARANTEED,الدخول غير مضمون
+text:border_announce1,HAVE YOUR DOCUMENTS READY,احتفظ بمستنداتك جاهزة
+text:border_announce2,ARSTOTZKA WELCOMES YOU,أرستوتزكا ترحب بك
+text:border_guardout,OUT!,اخرج!
+text:border_elisa,ELISA!,إليزا!
+text:family_son_budget,SON,الابن
+text:family_wife_budget,WIFE,الزوجة
+text:family_niece_budget,NIECE,ابنة الأخ
+text:family_uncle_budget,UNCLE,العم
+text:family_mil_budget,MIL,حماة
+text:family_son_status,Son,الابن
+text:family_wife_status,Wife,الزوجة
+text:family_niece_status,Niece,ابنة الأخ
+text:family_uncle_status,Uncle,العم
+text:family_mil_status,Mother-in-law,حماة
+text:family_son_message,son,الابن
+text:family_wife_message,wife,الزوجة
+text:family_niece_message,niece,ابنة الأخ
+text:family_uncle_message,uncle,العم
+text:family_mil_message,mother-in-law,حماة
+text:night_endof,END OF,نهاية
+text:night_day,DAY $0,يوم $0
+text:family_verysick_1,Your $0 will die without medicine.,$0 سيموت بدون دواء.
+text:family_verysick_many,Very sick family members will die without medicine.,أفراد العائلة المرضى جدًا سيموتون بدون دواء.
+text:family_sick_1,Your $0 is sick and needs medicine.,$0 مريض ويحتاج دواء.
+text:family_sick_many,Your family needs medicine.,عائلتك تحتاج دواء.
+text:family_died_1,Your $0 has died.,$0 قد مات.
+text:family_died_2,Your $0 and $1 have died.,$0 و $1 قد ماتا.
+text:family_died_3,"Your $0, $1, and $2 have died.","$0 و $1 و $2 قد ماتوا."
+text:family_died_4,"Your $0, $1, $2, and $3 have died.","$0 و $1 و $2 و $3 قد ماتوا."
+text:family_died_5,"Your $0, $1, $2, $3, and $4 have died.","$0 و $1 و $2 و $3 و $4 قد ماتوا."
+text:family_escape_with_0,You leave behind everything.,تترك كل شيء خلفك.
+text:family_escape_with_1,You gather your $0 to leave for Obristan.,تجمع $0 لترك إلى أوبريستان.
+text:family_escape_with_2,You gather your $0 and $1 to leave for Obristan.,تجمع $0 و $1 لترك إلى أوبريستان.
+text:family_escape_with_3,"You gather your $0, $1, and $2 to leave for Obristan.","تجمع $0 و $1 و $2 لترك إلى أوبريستان."
+text:family_escape_with_4,"You gather your $0, $1, $2, and $3 to leave for Obristan.","تجمع $0 و $1 و $2 و $3 لترك إلى أوبريستان."
+text:family_escape_with_5,"You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","تجمع $0 و $1 و $2 و $3 و $4 لترك إلى أوبريستان."
+text:family_escape_without_1,Your $0 prepares to return to Nirsk.,$0 يستعد للعودة إلى نيرسك.
+text:family_escape_without_2,Your $0 and $1 prepare to return to Nirsk.,$0 و $1 يستعدان للعودة إلى نيرسك.
+text:family_escape_without_3,"Your $0, $1, and $2 prepare to return to Nirsk.","$0 و $1 و $2 يستعدون للعودة إلى نيرسك."
+text:family_escape_without_4,"Your $0, $1, $2, and $3 prepare to return to Nirsk.","$0 و $1 و $2 و $3 يستعدون للعودة إلى نيرسك."
+text:family_escape_without_5,"Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","$0 و $1 و $2 و $3 و $4 يستعدون للعودة إلى نيرسك."
+text:family_flee_final_0,Obristan Above All,أوبريستان فوق الجميع
+text:family_flee_final_1,The safety of your $0 is unknown.,سلامة $0 غير معروفة.
+text:family_flee_final_2,The safety of your $0 and $1 is unknown.,سلامة $0 و $1 غير معروفة.
+text:family_flee_final_3,"The safety of your $0, $1, and $2 is unknown.","سلامة $0 و $1 و $2 غير معروفة."
+text:family_flee_final_4,"The safety of your $0, $1, $2, and $3 is unknown.","سلامة $0 و $1 و $2 و $3 غير معروفة."
+text:family_flee_final_5,"The safety of your $0, $1, $2, $3, and $4 is unknown.","سلامة $0 و $1 و $2 و $3 و $4 غير معروفة."
+text:budget_savings,SAVINGS,مدخرات
+text:budget_salary,SALARY ($0),راتب ($0)
+text:budget_penalties,PENALTIES ($0),عقوبات ($0)
+text:budget_bribes,BRIBES,رشاوى
+text:budget_rent,RENT,إيجار
+text:budget_food,FOOD,طعام
+text:budget_heat,HEAT,تدفئة
+text:budget_medicine,MEDICINE ($0),دواء ($0)
+text:budget_sleep,SLEEP,نوم
+text:budget_escape,ESCAPE,هروب
+text:menu_back,BACK,عودة
+text:confirm_ok,OKAY,حسنًا
+text:confirm_cancel,CANCEL,إلغاء
+text:menu_mainmenu,MAIN MENU,القائمة الرئيسية
+text:menu_resume,RESUME,استئناف
+text:menu_quit,QUIT,خروج
+text:menu_done,DONE,تم
+text:menu_story,STORY,قصة
+text:menu_endless,ENDLESS,لا نهائي
+text:menu_play,PLAY,لعب
+text:menu_fullscreen,Fullscreen,ملء الشاشة
+text:menu_nudity,Nudity,عري
+text:menu_easy,Easy Mode,وضع سهل
+text:menu_vibration,Vibration,اهتزاز
+text:menu_music,Music,موسيقى
+text:menu_sound,Sound,صوت
+text:menu_dateformat,Date Format,تنسيق التاريخ
+text:menu_language,Language,لغة
+text:menu_device,Device,جهاز
+text:menu_easytip,+ 20 credits per day,+ 20 ائتمانات يوميًا
+text:menu_stats,STATS,إحصائيات
+text:menu_next,NEXT,التالي
+text:menu_walktowork,WALK TO WORK,المشي إلى العمل
+text:menu_paused,PAUSED,مؤقت
+text:menu_settings,SETTINGS,إعدادات
+text:menu_credits,CREDITS,الاعتمادات
+text:menu_checkforupdates,CHECK FOR UPDATES,التحقق من التحديثات
 text:stats_text,"Played for $time
 $processed travelers processed
 $approved approved
@@ -605,78 +605,78 @@ $denied denied
 $detained detained
 $citations citations earned
 $stamps stamps applied
-Ending $endnum of $endtotal","Played for $time
-$processed travelers processed
-$approved approved
-$denied denied
-$detained detained
-$citations citations earned
-$stamps stamps applied
-Ending $endnum of $endtotal"
-text:load_title,Select day to continue or start a new game,Select day to continue or start a new game
+Ending $endnum of $endtotal","لعب لمدة $time
+$processed مسافر تم معالجته
+$approved مقبول
+$denied مرفوض
+$detained محتجز
+$citations استدعاءات مكتسبة
+$stamps أختام مطبقة
+النهاية $endnum من $endtotal"
+text:load_title,Select day to continue or start a new game,اختر يومًا للمتابعة أو ابدأ لعبة جديدة
 text:load_confirm_delete_single,"Delete this day $0 save?
 
-There is no undo.","Delete this day $0 save?
+There is no undo.","حذف حفظ يوم $0 هذا؟
 
-There is no undo."
+لا يوجد تراجع."
 text:load_confirm_delete_multi,"Delete this save branch from day $0 to day $1?
 
-There is no undo.","Delete this save branch from day $0 to day $1?
+There is no undo.","حذف فرع الحفظ هذا من يوم $0 إلى يوم $1؟
 
-There is no undo."
-text:load_delete,DELETE,DELETE
+لا يوجد تراجع."
+text:load_delete,DELETE,حذف
 text:load_confirm_full,"Save tracks full.
 
-Continue from a right-most save or delete a save branch to free up a track.","Save tracks full.
+Continue from a right-most save or delete a save branch to free up a track.","مسارات الحفظ ممتلئة.
 
-Continue from a right-most save or delete a save branch to free up a track."
+تابع من أحدث حفظ أو احذف فرع حفظ لتحرير مسار."
 text:load_summary,"Day $day
 ""$news""
 
 $savings credits, $family family members,
-$tokens tokens, apartment $apt","Day $day
+$tokens tokens, apartment $apt","يوم $day
 ""$news""
 
-$savings credits, $family family members,
-$tokens tokens, apartment $apt"
-text:load_continue,CONTINUE,CONTINUE
-text:emotion_happy,HAPPY,HAPPY
-text:emotion_ok,OK,OK
-text:emotion_sad,SAD,SAD
-text:emotion_cold,COLD,COLD
-text:emotion_sick,SICK,SICK
-text:emotion_verysick,VERY SICK,VERY SICK
-text:emotion_dead,DEAD,DEAD
-text:emotion_hungry,HUNGRY,HUNGRY
-text:load_latest,LATEST,LATEST
-text:entry_approved,ENTRY GRANTED,ENTRY GRANTED
-text:entry_denied,ENTRY DENIED,ENTRY DENIED
-text:stamp_approved,APPROVED,APPROVED
-text:stamp_denied,DENIED,DENIED
-text:stamp_reason,REASON,REASON
-text:booth_dragdocs,DRAG DOCUMENTS HERE,DRAG DOCUMENTS HERE
-text:booth_highlight,HIGHLIGHT DISCREPANCIES,HIGHLIGHT DISCREPANCIES
+$savings ائتمانات، $family أفراد العائلة،
+$tokens رموز، شقة $apt"
+text:load_continue,CONTINUE,متابعة
+text:emotion_happy,HAPPY,سعيد
+text:emotion_ok,OK,جيد
+text:emotion_sad,SAD,حزين
+text:emotion_cold,COLD,بارد
+text:emotion_sick,SICK,مريض
+text:emotion_verysick,VERY SICK,مريض جدًا
+text:emotion_dead,DEAD,ميت
+text:emotion_hungry,HUNGRY,جائع
+text:load_latest,LATEST,أحدث
+text:entry_approved,ENTRY GRANTED,تم منح الدخول
+text:entry_denied,ENTRY DENIED,تم رفض الدخول
+text:stamp_approved,APPROVED,مقبول
+text:stamp_denied,DENIED,مرفوض
+text:stamp_reason,REASON,سبب
+text:booth_dragdocs,DRAG DOCUMENTS HERE,اسحب المستندات هنا
+text:booth_highlight,HIGHLIGHT DISCREPANCIES,تسليط الضوء على التناقضات
 text:booth_discrepancy,"DISCREPANCY
-DETECTED","DISCREPANCY
-DETECTED"
-text:booth_interrogate,INTERROGATE,INTERROGATE
+DETECTED","تم الكشف عن
+تناقض"
+text:booth_interrogate,INTERROGATE,استجواب
 text:booth_matching,"MATCHING
-DATA","MATCHING
-DATA"
+DATA","بيانات
+متطابقة"
 text:booth_nocorrelation,"NO
-CORRELATION","NO
-CORRELATION"
+CORRELATION","لا
+ارتباط"
 text:booth_cleared,"DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
-text:env_clearforentry,Applicant clear for entry,Applicant clear for entry
-text:env_lettermale,M,M
-text:env_letterfemale,F,F
-text:env_noalias,No known alias,No known alias
+CLEARED","تم مسح
+التناقض"
+text:env_clearforentry,Applicant clear for entry,المتقدم واضح للدخول
+text:env_lettermale,M,ذ
+text:env_letterfemale,F,أن
+text:env_noalias,No known alias,لا اسم مستعار معروف
 text:env_typochars,"aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
-text:carousel_give,GIVE,GIVE
-text:carousel_hang,HANG ON WALL,HANG ON WALL
-text:carousel_confiscate,CONFISCATE,CONFISCATE
+text:carousel_give,GIVE,أعط
+text:carousel_hang,HANG ON WALL,علق على الحائط
+text:carousel_confiscate,CONFISCATE,صادر
 text:endless_complete,"$style
 $course
 
@@ -685,10 +685,10 @@ $score Points","$style
 $course
 
 $time
-$score Points"
-text:endless_ranked,Ranked #$0,Ranked #$0
-text:endless_unlock,Complete story mode with your job intact to unlock endless mode,Complete story mode with your job intact to unlock endless mode
-text:endless_wrongcode,S O R R Y,S O R R Y
-text:date_verbose,"$month $day, $year","$month $day, $year"
-text:month_1,January,January
-text:month_2,February,February
+$score نقاط"
+text:endless_ranked,Ranked #$0,الترتيب #$0
+text:endless_unlock,Complete story mode with your job intact to unlock endless mode,أكمل وضع القصة مع الحفاظ على وظيفتك لفتح الوضع اللانهائي
+text:endless_wrongcode,S O R R Y,ع ف و ا
+text:date_verbose,"$month $day, $year","$day $month، $year"
+text:month_1,January,يناير
+text:month_2,February,فبراير
