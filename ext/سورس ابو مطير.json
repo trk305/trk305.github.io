@@ -1,0 +1,45 @@
+{
+  "name": "سورس ابو مطير",
+  "subtitle": "تطبيقات بلس مجاناً لجميع الملفات الي حملتها",
+  "description": "ارحب يالله حيه\nسورس ابو مطير فيه جميع البرامج بصيغة\nIPA",
+  "iconURL": "https://i.imgur.com/D27abFi.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.gur9yda3id.cg5qwq1ojl"
+  ],
+  "apps": [
+    {
+      "name": "يوتيوب لايت مع تويكات",
+      "bundleIdentifier": "com.gur9yda3id.cg5qwq1ojl",
+      "marketplaceID": "",
+      "developerName": "تركي المطيري",
+      "subtitle": "يوتيوب لايت اخر نسخة",
+      "localizedDescription": "يوتيوب لايت اخر نسخة مع تويكات كاملة\n\nاتوقع لازم انك تحذف يوتيوب الاصلي قبل ما تحمل ذا في حال جتك مشاكل",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#6156e2",
+      "category": "social",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "سورس ابو مطير للمطران",
+      "identifier": "news_pay2eddn10",
+      "caption": "سورس ابو مطير للمطران جميعهم حي والله ذا العين",
+      "date": "2025-05-08T13:27",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "",
+      "appID": "com.gur9yda3id.cg5qwq1ojl"
+    }
+  ]
+}
