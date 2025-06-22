@@ -1,0 +1,31 @@
+{
+  "name": "تركي المطيري IPA",
+  "subtitle": "IPA سورس يتحوي على ملفات",
+  "description": "IPA سورس يتحوي على ملفات\n\nغير مكتمل",
+  "iconURL": "https://i.imgur.com/vnvIUv0.png",
+  "website": "https://trk305.github.io",
+  "patreonURL": "",
+  "tintColor": "#1c1c1e",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "My Example App",
+      "bundleIdentifier": "com.xqjhsggu7k.16pa8kkfg9",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#1c1c1e",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
