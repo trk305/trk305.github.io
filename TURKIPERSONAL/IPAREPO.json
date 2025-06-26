@@ -4,6 +4,7 @@
   "description": "IPA سورس يتحوي على ملفات\n\nغير مكتمل",
   "iconURL": "https://i.imgur.com/vnvIUv0.png",
   "website": "https://trk305.github.io",
+  "patreonURL": "https://trk305.github.io",
   "tintColor": "#1c1c1e",
   "featuredApps": [
     "com.highcaffeinecontent.Files"
@@ -16,15 +17,26 @@
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/90CODQw.png",
+      "iconURL": "https://i.imgur.com/NkFfOYU.png",
       "tintColor": "#1c1c1e",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/trk305/trk305.github.io/raw/refs/heads/master/TURKIPERSONAL/FileBrowser_v1.2.ipa",
+          "size": 200000,
+          "version": "1.2",
+          "buildVersion": null,
+          "date": "2025-06-26T10:52:00+03:00",
+          "localizedDescription": "Browse the system files on iOS",
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
       },
+      "patreon": {}
     }
   ],
   "news": [
