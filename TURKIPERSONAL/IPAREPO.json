@@ -26,8 +26,8 @@
           "downloadURL": "https://github.com/trk305/trk305.github.io/raw/refs/heads/master/TURKIPERSONAL/FileBrowser_v1.2.ipa",
           "size": 200000,
           "version": "1.2",
-          "buildVersion": null,
-          "date": "2025-06-26T07:52:00+03:00",
+          "buildVersion": "1.2",
+          "date": "2025-06-26T01:52:00+03:00",
           "localizedDescription": "Browse the system files on iOS",
           "minOSVersion": null
         }
