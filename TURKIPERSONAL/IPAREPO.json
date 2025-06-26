@@ -18,16 +18,16 @@
       "subtitle": "Browse the system files on iOS",
       "localizedDescription": "Browse the system files on iOS",
       "iconURL": "https://i.imgur.com/NkFfOYU.png",
-      "tintColor": "#1c1c1e",
+      "tintColor": "#20b2f2",
       "category": "developer",
       "screenshots": [],
       "versions": [
         {
           "downloadURL": "https://github.com/trk305/trk305.github.io/raw/refs/heads/master/TURKIPERSONAL/FileBrowser_v1.2.ipa",
-          "size": 154000,
+          "size": 152000,
           "version": "1.2",
           "buildVersion": "1.2",
-          "date": "2025-06-25T19:52:00+03:00",
+          "date": "2025-06-16T16:52:00+03:00",
           "localizedDescription": "Browse the system files on iOS",
           "minOSVersion": null
         }
