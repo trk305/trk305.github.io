@@ -11,12 +11,12 @@
   ],
   "apps": [
     {
-      "name": "Files",
+      "name": " FileBrowser",
       "bundleIdentifier": "com.highcaffeinecontent.Files",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "Developer",
+      "subtitle": "Browse the system files on iOS",
+      "localizedDescription": "Browse the system files on iOS",
       "iconURL": "https://i.imgur.com/NkFfOYU.png",
       "tintColor": "#1c1c1e",
       "category": "other",
@@ -27,7 +27,7 @@
           "size": 200000,
           "version": "1.2",
           "buildVersion": null,
-          "date": "2025-06-26T10:52:00+03:00",
+          "date": "2025-06-26T07:52:00+03:00",
           "localizedDescription": "Browse the system files on iOS",
           "minOSVersion": null
         }
