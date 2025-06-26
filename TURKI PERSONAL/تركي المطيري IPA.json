@@ -7,7 +7,26 @@
   "patreonURL": "",
   "tintColor": "#1c1c1e",
   "featuredApps": [],
-  "apps": [],
+  "apps": [
+    {
+      "name": "Files",
+      "bundleIdentifier": "com.highcaffeinecontent.Files",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/90CODQw.png",
+      "tintColor": "#1c1c1e",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
   "news": [
     {
       "title": "تست",
