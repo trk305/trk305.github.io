@@ -4,9 +4,10 @@
   "description": "IPA سورس يتحوي على ملفات\n\nغير مكتمل",
   "iconURL": "https://i.imgur.com/vnvIUv0.png",
   "website": "https://trk305.github.io",
-  "patreonURL": "",
   "tintColor": "#1c1c1e",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.highcaffeinecontent.Files"
+  ],
   "apps": [
     {
       "name": "Files",
@@ -24,7 +25,6 @@
         "entitlements": [],
         "privacy": {}
       },
-      "patreon": {}
     }
   ],
   "news": [
@@ -37,7 +37,7 @@
       "imageURL": "",
       "notify": true,
       "url": "https://example.com/new_feature_details",
-      "appID": null
+      "appID": "com.highcaffeinecontent.Files"
     }
   ]
 }
