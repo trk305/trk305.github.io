@@ -36,39 +36,39 @@ Fonts here are used by both the loc tool and the game.
 */
 
 /*---- tiny -------------------------------------------------*/
-@font-face { font-family: 'tiny'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'tiny'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small_tight'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'small_tight'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-small_tight { font-family: 'small_tight'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'small_harsh'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'small_harsh'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-small_harsh { font-family: 'small_harsh'; font-size: 8px; line-height: 9px; }
 
 /*---- regular -------------------------------------------------*/
-@font-face { font-family: 'regular'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'regular'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-regular, body { font-family: 'regular'; font-size: 8px; line-height: 8px; }
 
-@font-face { font-family: 'regular_short'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'regular_short'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-regular_short { font-family: 'regular_short'; font-size: 8px; line-height: 8px; }
 
 /*---- title -------------------------------------------------*/
-@font-face { font-family: 'title_tall'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'title_tall'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-title_tall { font-family: 'title_tall'; font-size: 16px; line-height: 16px; }
 
-@font-face { font-family: 'title_news'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); } 
+@font-face { font-family: 'title_news'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); } 
 .font-title_news { font-family: 'title_news'; font-size: 16px; line-height: 16px; }
 
-@font-face { font-family: 'title_thick'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'title_thick'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
 
 /*---- ui -------------------------------------------------*/
-@font-face { font-family: 'ui_regular'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'ui_regular'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-ui_regular { font-family: 'ui_regular'; font-size: 8px; line-height: 8px; }
 
 /*---- large -------------------------------------------------*/
-@font-face { font-family: 'large'; src: url('../custom%20fonts/small_and_normal_UseThis/pixelplay_regular_16.fnt'); }
+@font-face { font-family: 'large'; src: url('../custom%20fonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-large { font-family: 'large'; font-size: 8px; line-height: 10px; }
 
 /* 
