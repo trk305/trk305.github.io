@@ -548,7 +548,7 @@ function attachRequestTracker(context)
 		fs.rmSync(dir, { recursive: true, force: true });
 	}
 
-	const csv = fs.readFileSync(args.csv, "utf8");
+        const csv = fs.readFileSync(args.csv, "utf8");
 	
 	const lang = await capture(page, 1, args.makeFonts, dir, csv);
 	await browser.close();
