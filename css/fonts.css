@@ -80,38 +80,38 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 @font-face { font-family: 'fallback'; src: url('../fonts/fallback.ttf'); }
 
 /*---- small -------------------------------------------------*/
-@font-face { font-family: 'small'; src: url('../fonts/53Veda-U--misaki_gothic.ttf'); }
+@font-face { font-family: 'small'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-small { font-family: 'small'; font-size: 8px; line-height: 8px;}
 
 /*---- generic serif -------------------------------------------------*/
-@font-face { font-family: 'title_serif'; src: url('../fonts/TNR-Bold.ttf'); } 
+@font-face { font-family: 'title_serif'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); } 
 .font-title_serif { font-family: 'title_serif'; font-size: 10px; line-height: 10px; }
 
 /*---- cursive -------------------------------------------------*/
-@font-face { font-family: 'cursive'; src: url('../fonts/Bangalor-U--elisat10.ttf'); }
+@font-face { font-family: 'cursive'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-cursive { font-family: 'cursive'; font-size: 8px; line-height: 8px; }
 
 /*---- scribble -------------------------------------------------*/
-@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('../fonts/sd_auto_pilot--BetinaScriptExtraCTT--nagurip.ttf'); }
+@font-face { /* Sam Derrick */ font-family: 'scribble'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-scribble { font-family: 'scribble'; font-size: 16px; line-height: 16px; }
 
 /*---- passport countries -------------------------------------------------*/
-@font-face { font-family: 'passport_arstotzka'; src: url('../fonts/v5loxical.ttf'); }
-@font-face { font-family: 'passport_republia'; src: url('../fonts/Arial-Black.ttf'); }
-@font-face { font-family: 'passport_unitedfed'; src: url('../fonts/84-Orange.ttf');}
-@font-face { font-family: 'passport_kolechia'; src: url('../fonts/BMgermar.ttf'); }
+@font-face { font-family: 'passport_arstotzka'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
+@font-face { font-family: 'passport_republia'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
+@font-face { font-family: 'passport_unitedfed'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt');}
+@font-face { font-family: 'passport_kolechia'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 
 /*---- misc -------------------------------------------------*/
-@font-face { font-family: 'press'; src: url('../fonts/Raleway-VariableFont_wght.ttf'); }
+@font-face { font-family: 'press'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-press { font-family: 'press'; font-size: 22px; line-height: 22px; font-variation-settings: 'wght' 900; }
 
-@font-face { font-family: 'propaganda'; src: url('../fonts/PROPAGAN.ttf'); }
+@font-face { font-family: 'propaganda'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-propaganda { font-family: 'propaganda'; font-size: 10px; line-height: 10px; }
 
-@font-face { font-family: 'kid_writing'; src: url('../fonts/RightyUsesLeftHand.ttf'); }
+@font-face { font-family: 'kid_writing'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-kid_writing { font-family: 'kid_writing'; font-size: 16px; line-height: 16px; font-weight: bold; }
 
-@font-face { font-family: 'news'; src: url('../fonts/PlainBlack--EncientGermanGothic.ttf'); }
+@font-face { font-family: 'news'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-news { font-family: 'news'; font-size: 23px; line-height: 34px; font-weight: normal; }
 
 body {
