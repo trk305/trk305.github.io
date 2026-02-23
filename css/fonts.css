@@ -114,6 +114,36 @@ Fonts below here are used only by the loc tool and don't appear in the game.
 @font-face { font-family: 'news'; src: url('../customfonts/small_and_normal_UseThis/5mikropix_regular_8.fnt'); }
 .font-news { font-family: 'news'; font-size: 23px; line-height: 34px; font-weight: normal; }
 
+/* 
+----------------------------------------------------------------------------------
+RTL Support for Arabic Language
+----------------------------------------------------------------------------------
+*/
+
+/* دعم الكتابة من اليمين لليسار */
+[dir="rtl"],
+[lang="ar"],
+[lang="ar"] body,
+[lang="ar"] .font-tiny,
+[lang="ar"] .font-small_tight,
+[lang="ar"] .font-small_harsh,
+[lang="ar"] .font-regular,
+[lang="ar"] .font-regular_short,
+[lang="ar"] .font-title_tall,
+[lang="ar"] .font-title_news,
+[lang="ar"] .font-title_thick,
+[lang="ar"] .font-ui_regular,
+[lang="ar"] .font-large {
+    direction: rtl;
+    text-align: right;
+}
+
+/* تحسين عرض الأرقام في النصوص العربية */
+[lang="ar"] .number,
+[lang="ar"] [class*="digit"] {
+    unicode-bidi: isolate;
+}
+
 body {
     font-smooth: never;
     -webkit-font-smoothing: none;
