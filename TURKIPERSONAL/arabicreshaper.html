@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Arabic Reshaper — Game Localization Tool</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0d0d0f;
+    --surface: #15151a;
+    --surface2: #1d1d24;
+    --border: #2a2a35;
+    --accent: #c8a96e;
+    --accent2: #7c6ef0;
+    --text: #e8e4d8;
+    --muted: #6b6878;
+    --success: #4caf82;
+    --mono: 'IBM Plex Mono', monospace;
+    --arabic: 'Tajawal', sans-serif;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--arabic);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 16px 48px;
+  }
+
+  .noise {
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+    background-size: 128px;
+    opacity: 0.6;
+  }
+
+  .wrap {
+    position: relative; z-index: 1;
+    width: 100%; max-width: 680px;
+    display: flex; flex-direction: column; gap: 20px;
+  }
+
+  header {
+    display: flex; flex-direction: column; gap: 6px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--border);
+    direction: ltr;
+  }
+
+  .title-row {
+    display: flex; align-items: baseline; gap: 12px;
+  }
+
+  h1 {
+    font-family: var(--mono);
+    font-size: 20px; font-weight: 500;
+    color: var(--accent);
+    letter-spacing: -0.02em;
+  }
+
+  .version {
+    font-family: var(--mono);
+    font-size: 11px; color: var(--muted);
+    border: 1px solid var(--border);
+    padding: 2px 7px; border-radius: 3px;
+  }
+
+  .subtitle {
+    font-family: var(--mono);
+    font-size: 12px; color: var(--muted);
+    letter-spacing: 0.02em;
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .card-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    direction: ltr;
+  }
+
+  .card-label {
+    font-family: var(--mono);
+    font-size: 11px; color: var(--muted);
+    text-transform: uppercase; letter-spacing: 0.08em;
+  }
+
+  .dots {
+    display: flex; gap: 5px;
+  }
+  .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+  }
+  .dot-r { background: #e05252; }
+  .dot-y { background: #e0b252; }
+  .dot-g { background: #52c27a; }
+
+  textarea {
+    width: 100%;
+    background: var(--surface);
+    border: none;
+    color: var(--text);
+    font-family: var(--arabic);
+    font-size: 20px;
+    line-height: 1.7;
+    padding: 16px;
+    resize: vertical;
+    outline: none;
+    min-height: 110px;
+  }
+
+  textarea::placeholder { color: var(--muted); }
+
+  textarea[readonly] {
+    background: var(--surface2);
+    color: var(--accent);
+    font-family: var(--mono);
+    font-size: 16px;
+    cursor: default;
+  }
+
+  .controls {
+    display: flex; gap: 10px; align-items: center;
+    flex-wrap: wrap;
+    direction: ltr;
+  }
+
+  .btn {
+    font-family: var(--mono);
+    font-size: 13px; font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    cursor: pointer;
+    transition: all 0.15s;
+    letter-spacing: 0.02em;
+  }
+
+  .btn-primary {
+    background: var(--accent);
+    color: #0d0d0f;
+    border-color: var(--accent);
+    flex: 1;
+  }
+  .btn-primary:hover { opacity: 0.88; }
+  .btn-primary:active { transform: scale(0.98); }
+
+  .btn-ghost {
+    background: transparent;
+    color: var(--muted);
+  }
+  .btn-ghost:hover { background: var(--surface2); color: var(--text); }
+
+  .btn-copy {
+    background: transparent;
+    color: var(--accent2);
+    border-color: var(--accent2);
+    padding: 5px 12px;
+    font-size: 11px;
+    border-radius: 4px;
+  }
+  .btn-copy:hover { background: rgba(124,110,240,0.1); }
+
+  .toggle-row {
+    display: flex; align-items: center; gap: 8px;
+  }
+
+  .toggle-label {
+    font-family: var(--mono);
+    font-size: 12px; color: var(--muted);
+  }
+
+  .toggle {
+    appearance: none;
+    width: 32px; height: 18px;
+    border-radius: 9px;
+    background: var(--border);
+    cursor: pointer;
+    position: relative;
+    transition: background 0.2s;
+    flex-shrink: 0;
+  }
+  .toggle::before {
+    content: '';
+    position: absolute;
+    top: 3px; left: 3px;
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: var(--muted);
+    transition: transform 0.2s, background 0.2s;
+  }
+  .toggle:checked { background: var(--accent); }
+  .toggle:checked::before { transform: translateX(14px); background: #0d0d0f; }
+
+  .preview-box {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .preview-bar {
+    background: var(--surface2);
+    padding: 8px 14px;
+    font-family: var(--mono);
+    font-size: 11px; color: var(--muted);
+    border-bottom: 1px solid var(--border);
+    direction: ltr;
+    display: flex; align-items: center; gap: 8px;
+  }
+
+  .preview-bar::before {
+    content: '';
+    display: inline-block;
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--success);
+  }
+
+  .preview-text {
+    padding: 16px;
+    font-size: 22px;
+    line-height: 1.7;
+    direction: ltr;
+    min-height: 60px;
+    word-break: break-all;
+    color: var(--text);
+    font-family: var(--arabic);
+  }
+
+  .stats-row {
+    display: flex; gap: 8px; flex-wrap: wrap;
+    direction: ltr;
+  }
+
+  .badge {
+    font-family: var(--mono);
+    font-size: 11px;
+    padding: 3px 9px;
+    border-radius: 3px;
+    border: 1px solid var(--border);
+    color: var(--muted);
+  }
+
+  .badge-accent { color: var(--accent); border-color: rgba(200,169,110,0.3); }
+  .badge-purple { color: var(--accent2); border-color: rgba(124,110,240,0.3); }
+  .badge-green  { color: var(--success);  border-color: rgba(76,175,130,0.3); }
+
+  .divider {
+    height: 1px;
+    background: var(--border);
+  }
+
+  .footer {
+    font-family: var(--mono);
+    font-size: 11px; color: var(--muted);
+    text-align: center;
+    direction: ltr;
+    padding-top: 8px;
+  }
+
+  @media (max-width: 480px) {
+    h1 { font-size: 16px; }
+    textarea { font-size: 18px; }
+    textarea[readonly] { font-size: 14px; }
+    .preview-text { font-size: 19px; }
+  }
+</style>
+</head>
+<body>
+<div class="noise"></div>
+<div class="wrap">
+
+  <header>
+    <div class="title-row">
+      <h1>arabic-reshaper</h1>
+      <span class="version">v2.0</span>
+    </div>
+    <div class="subtitle">bidi + presentation forms — game localization tool</div>
+  </header>
+
+  <div class="card">
+    <div class="card-header">
+      <span class="card-label">Input — اكتب هنا</span>
+      <div class="dots"><div class="dot dot-r"></div><div class="dot dot-y"></div><div class="dot dot-g"></div></div>
+    </div>
+    <textarea id="inp" dir="rtl" placeholder="مرحبا بالعالم — اكتب أو الصق النص هنا" oninput="auto()"></textarea>
+  </div>
+
+  <div class="controls">
+    <button class="btn btn-primary" onclick="run()">process text ⟶</button>
+    <button class="btn btn-ghost" onclick="clearAll()">clear</button>
+    <div class="toggle-row">
+      <input type="checkbox" class="toggle" id="liveChk" checked onchange="auto()">
+      <span class="toggle-label">live</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header">
+      <span class="card-label">Output — الصق هذا في اللعبة</span>
+      <button class="btn btn-copy" id="copyBtn" onclick="copyOut()">copy</button>
+    </div>
+    <textarea id="out" dir="ltr" readonly placeholder="النتيجة ستظهر هنا..."></textarea>
+  </div>
+
+  <div class="stats-row" id="stats"></div>
+
+  <div class="preview-box">
+    <div class="preview-bar">LTR preview — how it looks in a left-to-right game engine</div>
+    <div class="preview-text" id="preview"></div>
+  </div>
+
+  <div class="divider"></div>
+  <div class="footer">reshaping · bidi reversal · lam-alef ligatures · diacritics preserved</div>
+
+</div>
+
+<script>
+const FORMS = {
+  '\u0621':['\uFE80','\uFE80',null,null],
+  '\u0622':['\uFE81','\uFE82',null,null],
+  '\u0623':['\uFE83','\uFE84',null,null],
+  '\u0624':['\uFE85','\uFE86',null,null],
+  '\u0625':['\uFE87','\uFE88',null,null],
+  '\u0626':['\uFE89','\uFE8A','\uFE8B','\uFE8C'],
+  '\u0627':['\uFE8D','\uFE8E',null,null],
+  '\u0628':['\uFE8F','\uFE90','\uFE91','\uFE92'],
+  '\u0629':['\uFE93','\uFE94',null,null],
+  '\u062A':['\uFE95','\uFE96','\uFE97','\uFE98'],
+  '\u062B':['\uFE99','\uFE9A','\uFE9B','\uFE9C'],
+  '\u062C':['\uFE9D','\uFE9E','\uFE9F','\uFEA0'],
+  '\u062D':['\uFEA1','\uFEA2','\uFEA3','\uFEA4'],
+  '\u062E':['\uFEA5','\uFEA6','\uFEA7','\uFEA8'],
+  '\u062F':['\uFEA9','\uFEAA',null,null],
+  '\u0630':['\uFEAB','\uFEAC',null,null],
+  '\u0631':['\uFEAD','\uFEAE',null,null],
+  '\u0632':['\uFEAF','\uFEB0',null,null],
+  '\u0633':['\uFEB1','\uFEB2','\uFEB3','\uFEB4'],
+  '\u0634':['\uFEB5','\uFEB6','\uFEB7','\uFEB8'],
+  '\u0635':['\uFEB9','\uFEBA','\uFEBB','\uFEBC'],
+  '\u0636':['\uFEBD','\uFEBE','\uFEBF','\uFEC0'],
+  '\u0637':['\uFEC1','\uFEC2','\uFEC3','\uFEC4'],
+  '\u0638':['\uFEC5','\uFEC6','\uFEC7','\uFEC8'],
+  '\u0639':['\uFEC9','\uFECA','\uFECB','\uFECC'],
+  '\u063A':['\uFECD','\uFECE','\uFECF','\uFED0'],
+  '\u0641':['\uFED1','\uFED2','\uFED3','\uFED4'],
+  '\u0642':['\uFED5','\uFED6','\uFED7','\uFED8'],
+  '\u0643':['\uFED9','\uFEDA','\uFEDB','\uFEDC'],
+  '\u0644':['\uFEDD','\uFEDE','\uFEDF','\uFEE0'],
+  '\u0645':['\uFEE1','\uFEE2','\uFEE3','\uFEE4'],
+  '\u0646':['\uFEE5','\uFEE6','\uFEE7','\uFEE8'],
+  '\u0647':['\uFEE9','\uFEEA','\uFEEB','\uFEEC'],
+  '\u0648':['\uFEED','\uFEEE',null,null],
+  '\u0649':['\uFEEF','\uFEF0',null,null],
+  '\u064A':['\uFEF1','\uFEF2','\uFEF3','\uFEF4'],
+  '\u067E':['\uFB56','\uFB57','\uFB58','\uFB59'],
+  '\u0686':['\uFB7A','\uFB7B','\uFB7C','\uFB7D'],
+  '\u0698':['\uFB8A','\uFB8B',null,null],
+  '\u06A9':['\uFB8E','\uFB8F','\uFB90','\uFB91'],
+  '\u06AF':['\uFB92','\uFB93','\uFB94','\uFB95'],
+  '\u06CC':['\uFBFC','\uFBFD','\uFBFE','\uFBFF'],
+  '\u0640':['\u0640','\u0640','\u0640','\u0640'],
+};
+
+const LAMA = {
+  '\u0622':['\uFEF5','\uFEF6'],
+  '\u0623':['\uFEF7','\uFEF8'],
+  '\u0625':['\uFEF9','\uFEFA'],
+  '\u0627':['\uFEFB','\uFEFC'],
+};
+
+const DIAC = new Set([0x064B,0x064C,0x064D,0x064E,0x064F,0x0650,0x0651,0x0652,0x0653,0x0654,0x0655,0x0656,0x0657,0x0658,0x0659,0x065A,0x065B,0x065C,0x065D,0x065E,0x065F,0x0670,0x0610,0x0611,0x0612,0x0613,0x0614,0x0615,0x0616,0x0617,0x0618,0x0619,0x061A]);
+
+function isDiac(c){return DIAC.has(c.charCodeAt(0));}
+function isAr(c){const x=c.charCodeAt(0);return(x>=0x0600&&x<=0x06FF)||(x>=0xFB50&&x<=0xFDFF)||(x>=0xFE70&&x<=0xFEFF);}
+function isDual(c){return FORMS[c]&&FORMS[c][2]!==null;}
+
+function reshape(text){
+  const chars=Array.from(text);
+  const out=[];
+  let i=0;
+  while(i<chars.length){
+    const c=chars[i];
+    if(isDiac(c)){out.push(c);i++;continue;}
+    if(!FORMS[c]){out.push(c);i++;continue;}
+    let diacs=[];
+    let ni=i+1;
+    while(ni<chars.length&&isDiac(chars[ni])){diacs.push(chars[ni]);ni++;}
+    const next=ni<chars.length?chars[ni]:null;
+    if(c==='\u0644'&&next&&LAMA[next]){
+      let pj=out.length-1;
+      while(pj>=0&&isDiac(out[pj]))pj--;
+      const prev=pj>=0?out[pj]:null;
+      const connLeft=prev&&isAr(prev)&&isDual(prev);
+      const liga=LAMA[next][connLeft?1:0];
+      out.push(liga);out.push(...diacs);
+      let ani=ni+1;
+      while(ani<chars.length&&isDiac(chars[ani])){out.push(chars[ani]);ani++;}
+      i=ani;continue;
+    }
+    let pj=out.length-1;
+    while(pj>=0&&isDiac(out[pj]))pj--;
+    const prev=pj>=0?out[pj]:null;
+    const fromRight=prev&&isAr(prev)&&isDual(prev);
+    const toLeft=next&&isAr(next)&&isDual(c)&&FORMS[next];
+    let form;
+    if(fromRight&&toLeft)form=3;
+    else if(fromRight)form=1;
+    else if(toLeft)form=2;
+    else form=0;
+    out.push(FORMS[c][form]||c);
+    out.push(...diacs);
+    i=ni;
+  }
+  return out.join('');
+}
+
+function bidiReverse(text){
+  return text.split('\n').map(line=>{
+    const segs=[];
+    let cur='',curRTL=null;
+    for(const c of Array.from(line)){
+      const code=c.charCodeAt(0);
+      const isRTLChar=(code>=0x0600&&code<=0x06FF)||(code>=0xFB50&&code<=0xFDFF)||(code>=0xFE70&&code<=0xFEFF);
+      const isLTRChar=(code>=0x0041&&code<=0x007A)||(code>=0x0041&&code<=0x005A)||(code>=0x00C0&&code<=0x024F);
+      const type=isRTLChar?'rtl':isLTRChar?'ltr':'neutral';
+      if(curRTL===null)curRTL=type==='neutral'?'rtl':type;
+      if(type==='neutral'||type===curRTL){cur+=c;}
+      else{segs.push({t:curRTL,s:cur});cur=c;curRTL=type;}
+    }
+    if(cur)segs.push({t:curRTL,s:cur});
+    segs.reverse();
+    return segs.map(seg=>seg.t==='rtl'?Array.from(seg.s).reverse().join(''):seg.s).join('');
+  }).join('\n');
+}
+
+function process(text){
+  if(!text.trim())return'';
+  return bidiReverse(reshape(text));
+}
+
+function run(){
+  const val=document.getElementById('inp').value;
+  const result=process(val);
+  document.getElementById('out').value=result;
+  document.getElementById('preview').textContent=result;
+  updateStats(val,result);
+}
+
+function auto(){if(document.getElementById('liveChk').checked)run();}
+
+function updateStats(inp,out){
+  const arabic=(inp.match(/[\u0600-\u06FF]/g)||[]).length;
+  const words=inp.trim()?inp.trim().split(/\s+/).length:0;
+  const ligs=(out.match(/[\uFEF5-\uFEFC]/g)||[]).length;
+  const html=[
+    `<span class="badge badge-accent">${arabic} arabic chars</span>`,
+    `<span class="badge">${words} words</span>`,
+    ligs>0?`<span class="badge badge-green">${ligs} lam-alef ligatures</span>`:'',
+  ].filter(Boolean).join('');
+  document.getElementById('stats').innerHTML=html;
+}
+
+function copyOut(){
+  const v=document.getElementById('out').value;
+  if(!v)return;
+  navigator.clipboard.writeText(v).then(()=>{
+    const btn=document.getElementById('copyBtn');
+    const orig=btn.textContent;
+    btn.textContent='copied!';
+    setTimeout(()=>btn.textContent=orig,1500);
+  });
+}
+
+function clearAll(){
+  document.getElementById('inp').value='';
+  document.getElementById('out').value='';
+  document.getElementById('preview').textContent='';
+  document.getElementById('stats').innerHTML='';
+}
+
+document.getElementById('inp').value='مرحبا بالعالم';
+run();
+</script>
+</body>
+</html>
