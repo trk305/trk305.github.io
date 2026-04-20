@@ -1,6 +1,6 @@
 <data><item id="language_code"><t>ar</t></item>
 <item id="language_name"><t>ﺔﻴﺑﺮﻌﻟﺍ</t></item>
-<item id="language_author"><t>ﺩﻮﻌﺴﻣ ﻦﺑ ﻪﻠﻟﺍﺪﺒﻋ ,ﻰﺴﻴﻋ ﻪﻠﻟﺍﺮﺼﻧ ,ﻱﺮﻴﻄﻤﻟﺍ ﻲﻛﺮﺗ ,ﻪﻣﺎﺳﺍ ﻲﻣﺍﺭ</t></item>
+<item id="language_author"><t>ﺮﻜﺴﻋ ﺩﺎﻨﻋ ,ﻰﺴﻴﻋ ﻪﻠﻟﺍﺮﺼﻧ ,ﻱﺮﻴﻄﻤﻟﺍ ﻲﻛﺮﺗ ,ﻪﻣﺎﺳﺍ ﻲﻣﺍﺭ</t></item>
 <item id="wrap_hyphen"><t>NONE</t></item>
 <item id="created_by"><t>ﺏﻮﺑ ﺱﺎﻛﻮﻟ ﻊﻨﺻ ﻦﻣ</t></item>
 <item id="papers_please"><t>.ﺖﺤﻤﺳ ﻮﻟ ,ﻕﺍﺭﻭﻷﺍ</t></item>
@@ -9,7 +9,7 @@
 <item id="missing_reason"><t>ﺾﻓﺮﻟﺍ ﺐﺒﺳ ﻢﻳﺪﻘﺗ ﻢﺘﻳ ﻢﻟ</t></item>
 <item id="citation_warning"><t>ﺔﻣﺍﺮﻏ ﺪﺟﻮﻳ ﻻ - ﺭﺩﺎﺻ ﺮﻳﺬﺤﺗ</t></item>
 <item id="citation_lastwarning"><t>ﺔﻣﺍﺮﻏ ﺪﺟﻮﻳ ﻻ - ﺮﻳﺬﺤﺗ ﺮﺧﺁ</t></item>
-<item id="citation_penalty"><t>ﻝﺎﻣ 0$ - ﺔﺿﻭﺮﻔﻤﻟﺍ ﺔﻣﺍﺮﻐﻟﺍ</t></item>
+<item id="citation_penalty"><t>ﻝﺎﻣ $0 - ﺔﺿﻭﺮﻔﻤﻟﺍ ﺔﻣﺍﺮﻐﻟﺍ</t></item>
 <item id="border_next"><t>!ﻲﻟﺎﺘﻟﺍ</t></item>
 <item id="border_bomber"><t>!ﺎﻴﺸﻴﻟﻮﻛ ﻞﺟﻷ</t></item>
 <item id="border_comeback"><t>ﺎﺣﺎﺒﺻ 6 ﺔﻋﺎﺴﻟﺍ ﻲﻓ ﺍﺪﻏ ﺍﻮﻟﺎﻌﺗ</t></item>
@@ -68,7 +68,7 @@
 <item id="budget_rent"><t>ﺭﺎﺠﻳﻹﺍ</t></item>
 <item id="budget_food"><t>ﻡﺎﻌﻄﻟﺍ</t></item>
 <item id="budget_heat"><t>ﺓﺭﺍﺮﺤﻟﺍ</t></item>
-<item id="budget_medicine"><t>(0$) ﺀﺍﻭﺪﻟﺍ</t></item>
+<item id="budget_medicine"><t>($0) ﺀﺍﻭﺪﻟﺍ</t></item>
 <item id="budget_sleep"><t>ﻡﺎﻧ</t></item>
 <item id="budget_escape"><t>ﺏﺮﻫﺃ</t></item>
 <item id="menu_back"><t>ﻉﻮﺟﺮﻟﺍ</t></item>
@@ -163,7 +163,7 @@ $time
 $score Points</t></item>
 <item id="endless_ranked"><t>Ranked #$0</t></item>
 <item id="endless_unlock"><t>Complete story mode with your job intact to unlock endless mode</t></item>
-<item id="endless_wrongcode"><t>م ع ذ ر ة</t></item>
+<item id="endless_wrongcode"><t>ﺓ ﺭ ﺫ ﻉ ﻡ</t></item>
 <item id="date_verbose"><t>$year, $day $month</t></item>
 <item id="month_1"><t>ﺮﻳﺎﻨﻳ</t></item>
 <item id="month_2"><t>ﺮﻳﺍﺮﺒﻓ</t></item>
